@@ -1,0 +1,728 @@
+{
+    "bot_type": "replicator_b",
+    "bounding_box": {
+        "x_max": 17.56416320800781,
+        "x_min": -17.56416320800781,
+        "y_max": 17.56416320800781,
+        "y_min": -17.56416320800781,
+        "z_max": 11.04,
+        "z_min": 0.3
+    },
+    "chamber_temperature": null,
+    "commanded_duration_s": 693.0140386168381,
+    "duration_s": 1177.71,
+    "extruder_temperature": 215,
+    "extruder_temperatures": [
+        215
+    ],
+    "extrusion_distance_mm": 1413.011838304787,
+    "extrusion_distances_mm": [
+        1413.011838304787
+    ],
+    "extrusion_mass_g": 4.31125687235929,
+    "extrusion_masses_g": [
+        4.31125687235929
+    ],
+    "grue_version": "5.0.1",
+    "machine_config": {
+        "acceleration": {
+            "buffer_size": 128,
+            "impulse_speed_limit_mm_per_s": {
+                "x": 100,
+                "y": 100,
+                "z": 0
+            },
+            "max_speed_change_mm_per_s": {
+                "x": 25,
+                "y": 25,
+                "z": 0
+            },
+            "min_speed_change_mm_per_s": {
+                "x": 0.01,
+                "y": 0.01,
+                "z": 0
+            },
+            "rate_mm_per_s_sq": {
+                "x": 1000,
+                "y": 1000,
+                "z": 150
+            },
+            "split_move_distance_mm": 0.75,
+            "split_move_recursion_count": 8
+        },
+        "bot_type": "replicator_b",
+        "build_volume": {
+            "x": 300,
+            "y": 200,
+            "z": 165
+        },
+        "extra_slicer_settings": {
+            "plate_variability": 0.0
+        },
+        "extruder_profiles": {
+            "attached_extruders": [
+                {
+                    "calibrated": "true",
+                    "id": 8
+                }
+            ],
+            "mk12": {
+                "materials": {
+                    "pla": {
+                        "acceleration": {
+                            "impulse_speed_limit_mm_per_s": {
+                                "a": 3
+                            },
+                            "max_speed_change_mm_per_s": {
+                                "a": 0.5
+                            },
+                            "min_speed_change_mm_per_s": {
+                                "a": 0.01
+                            },
+                            "rate_mm_per_s_sq": {
+                                "a": 10
+                            },
+                            "slip_compensation_table": [
+                                [
+                                    0,
+                                    0
+                                ],
+                                [
+                                    1.6255,
+                                    1.6255
+                                ],
+                                [
+                                    1.7881,
+                                    1.9222
+                                ],
+                                [
+                                    1.9506,
+                                    2.1457
+                                ],
+                                [
+                                    2.2,
+                                    2.3
+                                ],
+                                [
+                                    2.4383,
+                                    2.7
+                                ],
+                                [
+                                    2.9259,
+                                    3.4
+                                ],
+                                [
+                                    3.5761,
+                                    4.2
+                                ],
+                                [
+                                    3.9,
+                                    4.524
+                                ],
+                                [
+                                    4.2263,
+                                    5.15
+                                ],
+                                [
+                                    4.8765,
+                                    6
+                                ],
+                                [
+                                    100,
+                                    100
+                                ]
+                            ]
+                        },
+                        "feed_diameter": 1.77,
+                        "max_flow_rate": 5.0,
+                        "ooze_feedstock_distance": 0.1,
+                        "restart_rate": 30,
+                        "retract_distance": 1.0,
+                        "retract_rate": 50,
+                        "temperature": 215
+                    }
+                },
+                "max_speed_mm_per_second": {
+                    "a": 5.3
+                },
+                "nozzle_diameter": 0.4,
+                "steps_per_mm": {
+                    "a": 108.55
+                }
+            },
+            "mk13": {
+                "materials": {
+                    "pla": {
+                        "acceleration": {
+                            "impulse_speed_limit_mm_per_s": {
+                                "a": 3.0
+                            },
+                            "max_speed_change_mm_per_s": {
+                                "a": 0.5
+                            },
+                            "min_speed_change_mm_per_s": {
+                                "a": 0.01
+                            },
+                            "rate_mm_per_s_sq": {
+                                "a": 10.0
+                            },
+                            "slip_compensation_table": [
+                                [
+                                    0,
+                                    0
+                                ],
+                                [
+                                    0.4877,
+                                    0.5215
+                                ],
+                                [
+                                    0.7315,
+                                    0.7816
+                                ],
+                                [
+                                    0.9754,
+                                    1.042
+                                ],
+                                [
+                                    1.4631,
+                                    1.5563
+                                ],
+                                [
+                                    1.9508,
+                                    2.0581
+                                ],
+                                [
+                                    2.4385,
+                                    2.5665
+                                ],
+                                [
+                                    2.9261,
+                                    3.0359
+                                ],
+                                [
+                                    3.4138,
+                                    3.3925
+                                ],
+                                [
+                                    3.9015,
+                                    3.7065
+                                ],
+                                [
+                                    4.3892,
+                                    3.9777
+                                ],
+                                [
+                                    4.877,
+                                    4.2673
+                                ],
+                                [
+                                    5.3646,
+                                    4.8449
+                                ],
+                                [
+                                    6.8277,
+                                    6.8277
+                                ],
+                                [
+                                    7.8031,
+                                    8.5834
+                                ],
+                                [
+                                    8.7784,
+                                    10.0952
+                                ],
+                                [
+                                    100,
+                                    100
+                                ]
+                            ]
+                        },
+                        "feed_diameter": 1.77,
+                        "max_flow_rate": 5.0,
+                        "ooze_feedstock_distance": 0.1,
+                        "restart_rate": 30,
+                        "retract_distance": 0.5,
+                        "retract_rate": 50,
+                        "temperature": 215
+                    }
+                },
+                "max_speed_mm_per_second": {
+                    "a": 8.0
+                },
+                "nozzle_diameter": 0.4,
+                "steps_per_mm": {
+                    "a": 108.55
+                }
+            },
+            "mk13_impla": {
+                "materials": {
+                    "im-pla": {
+                        "acceleration": {
+                            "impulse_speed_limit_mm_per_s": {
+                                "a": 3.0
+                            },
+                            "max_speed_change_mm_per_s": {
+                                "a": 0.5
+                            },
+                            "min_speed_change_mm_per_s": {
+                                "a": 0.01
+                            },
+                            "rate_mm_per_s_sq": {
+                                "a": 10.0
+                            },
+                            "slip_compensation_table": [
+                                [
+                                    0,
+                                    0
+                                ],
+                                [
+                                    0.4877,
+                                    0.5243
+                                ],
+                                [
+                                    0.9754,
+                                    1.0485
+                                ],
+                                [
+                                    1.4631,
+                                    1.5637
+                                ],
+                                [
+                                    1.9508,
+                                    2.0788
+                                ],
+                                [
+                                    2.4385,
+                                    2.6023
+                                ],
+                                [
+                                    2.9261,
+                                    2.9993
+                                ],
+                                [
+                                    3.4138,
+                                    3.4992
+                                ],
+                                [
+                                    3.9015,
+                                    3.9015
+                                ],
+                                [
+                                    4.3892,
+                                    4.499
+                                ],
+                                [
+                                    4.8769,
+                                    4.755
+                                ],
+                                [
+                                    5.3646,
+                                    5.2305
+                                ],
+                                [
+                                    5.8523,
+                                    6.1449
+                                ],
+                                [
+                                    6.5838,
+                                    7.0776
+                                ],
+                                [
+                                    7.8183,
+                                    8.4047
+                                ],
+                                [
+                                    100,
+                                    100
+                                ]
+                            ]
+                        },
+                        "feed_diameter": 1.77,
+                        "max_flow_rate": 5.0,
+                        "ooze_feedstock_distance": 0.1,
+                        "restart_rate": 30,
+                        "retract_distance": 0.5,
+                        "retract_rate": 50,
+                        "temperature": 215
+                    }
+                },
+                "max_speed_mm_per_second": {
+                    "a": 8.0
+                },
+                "nozzle_diameter": 0.4,
+                "steps_per_mm": {
+                    "a": 108.55
+                }
+            },
+            "supported_extruders": {
+                "0": null,
+                "1": "mk12",
+                "10": "mk12",
+                "11": "mk12",
+                "12": "mk12",
+                "13": "mk12",
+                "14": "mk13_impla",
+                "2": "mk12",
+                "3": "mk12",
+                "4": "mk12",
+                "5": "mk12",
+                "6": "mk12",
+                "7": "mk12",
+                "8": "mk13",
+                "9": "mk12",
+                "99": "mk13"
+            }
+        },
+        "gantry_configuration": {
+            "max_fill_speed": 90,
+            "max_inner_shell_speed": 90,
+            "max_outer_shell_speed": 40,
+            "travel_speed_xy": 150,
+            "travel_speed_z": 23
+        },
+        "makerbot_generation": 5,
+        "max_speed_mm_per_second": {
+            "x": 270,
+            "y": 270,
+            "z": 30
+        },
+        "start_position": {
+            "x": -150,
+            "y": -100,
+            "z": 0.2
+        },
+        "steps_per_mm": {
+            "x": 88.573186,
+            "y": 88.573186,
+            "z": 400
+        },
+        "version": "1.1.0"
+    },
+    "material": "pla",
+    "materials": [
+        "pla"
+    ],
+    "miracle_config": {
+        "_bot": "replicator_b",
+        "_extruders": [
+            "mk13"
+        ],
+        "_materials": [
+            "pla"
+        ],
+        "doRaft": true,
+        "gaggles": {
+            "default": {
+                "adjacentFillLeakyConnections": true,
+                "adjacentFillLeakyDistanceRatio": 1.4,
+                "backlashEpsilon": 0.05,
+                "backlashFeedback": 0.9,
+                "backlashX": 0.0,
+                "backlashY": 0.09,
+                "baseInsetDistanceMultiplier": 1.0,
+                "baseLayerHeight": 0.2,
+                "baseLayerWidth": 0.5,
+                "baseNumberOfShells": 1,
+                "bedZOffset": 0,
+                "bridgeAnchorMinimumLength": 0.8,
+                "bridgeAnchorWidth": 0.8,
+                "bridgeMaximumLength": 80.0,
+                "brimsBaseWidth": 2.5,
+                "brimsModelOffset": 0.0,
+                "brimsOverlapWidth": 1.5,
+                "coarseness": 0.0001,
+                "computeVolumeLike2_1_0": false,
+                "defaultExtruder": 0,
+                "defaultRaftMaterial": 0,
+                "defaultSupportMaterial": 0,
+                "description": "",
+                "doBacklashCompensation": false,
+                "doBreakawaySupport": false,
+                "doBridging": true,
+                "doBrims": false,
+                "doExponentialDeceleration": true,
+                "doExternalSpurs": true,
+                "doFanCommand": true,
+                "doFanModulation": true,
+                "doFixedLayerStart": false,
+                "doFixedShellStart": true,
+                "doInternalSpurs": false,
+                "doMinfill": false,
+                "doMixedRaft": false,
+                "doMixedSupport": false,
+                "doRaft": true,
+                "doRateLimit": true,
+                "doSplitLongMoves": false,
+                "doSupport": false,
+                "doSupportUnderBridges": false,
+                "exponentialDecelerationMinSpeed": 0.0,
+                "exponentialDecelerationRatio": 0.375,
+                "exponentialDecelerationSegmentCount": 10,
+                "extruderProfiles": [
+                    {
+                        "defaultTemperature": 215,
+                        "extrusionProfiles": {
+                            "bridges": {
+                                "fanSpeed": 0.95,
+                                "feedrate": 40.0
+                            },
+                            "brims": {
+                                "fanSpeed": 0.5,
+                                "feedrate": 10.0
+                            },
+                            "firstModelLayer": {
+                                "fanSpeed": 1.0,
+                                "feedrate": 30.0
+                            },
+                            "floorSurfaceFills": {
+                                "fanSpeed": 0.5,
+                                "feedrate": 90
+                            },
+                            "infill": {
+                                "fanSpeed": 0.5,
+                                "feedrate": 90
+                            },
+                            "insets": {
+                                "fanSpeed": 0.95,
+                                "feedrate": 90
+                            },
+                            "outlines": {
+                                "fanSpeed": 0.95,
+                                "feedrate": 40
+                            },
+                            "raft": {
+                                "fanSpeed": 0.95,
+                                "feedrate": 90.0
+                            },
+                            "raftBase": {
+                                "fanSpeed": 0.5,
+                                "feedrate": 10.0
+                            },
+                            "roofSurfaceFills": {
+                                "fanSpeed": 0.5,
+                                "feedrate": 90
+                            },
+                            "sparseRoofSurfaceFills": {
+                                "fanSpeed": 0.5,
+                                "feedrate": 90
+                            },
+                            "spurs": {
+                                "fanSpeed": 0.5,
+                                "feedrate": 40
+                            }
+                        },
+                        "extrusionVolumeMultiplier": 1.0,
+                        "feedDiameter": 1.77,
+                        "nozzleDiameter": 0.4,
+                        "oozeFeedstockDistance": 0.1,
+                        "preOozeFeedstockDistance": 0.1,
+                        "restartExtraDistance": 0.1,
+                        "restartExtraDistance2": 0,
+                        "restartExtraRate": 30.0,
+                        "restartExtraRate2": -1,
+                        "restartRate": 30,
+                        "restartRate2": 30,
+                        "retractDistance": 0.5,
+                        "retractDistance2": 0,
+                        "retractRate": 50,
+                        "retractRate2": 50,
+                        "toolchangeRestartDistance": 18.5,
+                        "toolchangeRestartRate": 6.0,
+                        "toolchangeRetractDistance": 19.0,
+                        "toolchangeRetractRate": 6.0
+                    }
+                ],
+                "fanDefaultSpeed": 0.95,
+                "fanLayer": 1,
+                "fanModulationThreshold": 0.5,
+                "fanModulationWindow": 0.1,
+                "fixedLayerStartX": 0,
+                "fixedLayerStartY": 0,
+                "fixedShellStartDirection": 215,
+                "floorSolidThickness": 0.8,
+                "floorSurfaceThickness": 0,
+                "floorThickness": 0.8,
+                "horizontalInset": 0,
+                "infillDensity": 0.1,
+                "infillShellSpacingMultiplier": 0.55,
+                "insetDistanceMultiplier": 1.0,
+                "layerHeight": 0.2,
+                "leakyConnectionsAdjacentDistance": 0.8,
+                "maxConnectionLength": 10.0,
+                "maxSparseFillThickness": 0.2,
+                "maxSpurWidth": 0.5,
+                "minLayerDuration": 5.0,
+                "minLayerHeight": 0.01,
+                "minRaftBaseGap": 1.0,
+                "minSpeedMultiplier": 0.3,
+                "minSpurLength": 0.34,
+                "minSpurWidth": 0.12,
+                "minThickInfillImprovement": 1.0,
+                "modelFillProfiles": {
+                    "bridge": {
+                        "density": 1.0,
+                        "orientationInterval": 0,
+                        "orientationOffset": 0,
+                        "orientationRange": 0,
+                        "pattern": "bridge_fill"
+                    },
+                    "floor_surface": {
+                        "density": 1.0,
+                        "orientationInterval": 90,
+                        "orientationRange": 90,
+                        "pattern": "linear"
+                    },
+                    "roof_surface": {
+                        "density": 1.0,
+                        "orientationInterval": 90,
+                        "orientationRange": 90,
+                        "pattern": "linear"
+                    },
+                    "solid": {
+                        "density": 1.0,
+                        "orientationInterval": 90,
+                        "orientationRange": 90,
+                        "pattern": "linear"
+                    },
+                    "sparse": {
+                        "density": 0.1,
+                        "diamondFillTurnDistance": 0.4,
+                        "diamondFillZigZagOverlap": 0.25,
+                        "orientationInterval": 1,
+                        "orientationOffset": 0,
+                        "orientationRange": 2,
+                        "pattern": "diamond (fast)"
+                    },
+                    "sparse_roof_surface": {
+                        "density": 0.1,
+                        "diamondFillTurnDistance": 0.4,
+                        "diamondFillZigZagOverlap": 0.25,
+                        "orientationInterval": 1,
+                        "orientationOffset": 0,
+                        "orientationRange": 2,
+                        "pattern": "diamond (fast)"
+                    }
+                },
+                "numberOfBrims": 5,
+                "numberOfShells": 2,
+                "purgeBucketSide": 4.0,
+                "purgeWallBaseFilamentWidth": 2.0,
+                "purgeWallBasePatternLength": 10.0,
+                "purgeWallBasePatternWidth": 8.0,
+                "purgeWallModelOffset": 2.0,
+                "purgeWallPatternWidth": 2.0,
+                "purgeWallSpacing": 1.0,
+                "purgeWallWidth": 0.5,
+                "purgeWallXLength": 30,
+                "raftBaseInfillShellSpacingMultiplier": 0.1,
+                "raftBaseInsetDistanceMultiplier": 0.4,
+                "raftBaseLayers": 1,
+                "raftBaseShells": 3,
+                "raftBaseThickness": 0.3,
+                "raftBaseWidth": 2.5,
+                "raftBrimsSpacing": 1.0,
+                "raftExtraOffset": 0.0,
+                "raftFillProfiles": {
+                    "base": {
+                        "density": 0.2,
+                        "linearFillGroupDensity": 2.2,
+                        "linearFillGroupSize": 3,
+                        "orientationInterval": 90,
+                        "orientationOffset": 0,
+                        "orientationRange": 180,
+                        "pattern": "linear"
+                    },
+                    "interface": {
+                        "density": 0.5,
+                        "orientationInterval": 0,
+                        "orientationOffset": 45,
+                        "orientationRange": 0,
+                        "pattern": "linear"
+                    },
+                    "surface": {
+                        "density": 0.85,
+                        "orientationInterval": 90,
+                        "orientationOffset": 0,
+                        "orientationRange": 90,
+                        "pattern": "local_no_warp"
+                    }
+                },
+                "raftInterfaceLayers": 2,
+                "raftInterfaceThickness": 0.27,
+                "raftInterfaceWidth": 0.4,
+                "raftInterfaceZOffset": -0.14,
+                "raftModelShellsSpacing": 0.19,
+                "raftModelSpacing": 0.26,
+                "raftOutset": 4,
+                "raftSurfaceLayers": 2,
+                "raftSurfaceShellSpacingMultiplier": 0.7,
+                "raftSurfaceShells": 2,
+                "raftSurfaceThickness": 0.27,
+                "raftSurfaceZOffset": -0.03,
+                "rateLimitBufferSize": 100,
+                "rateLimitMinSpeed": 10,
+                "rateLimitSpeedRatio": 0.3,
+                "rateLimitSplitBias": 0,
+                "rateLimitSplitMoveDistance": 0.75,
+                "rateLimitSplitRecursionDepth": 8,
+                "rateLimitTransmissionRate": 150,
+                "roofAnchorMargin": 0.4,
+                "roofSolidThickness": 0.8,
+                "roofSurfaceThickness": 0,
+                "roofThickness": 0.8,
+                "shellsLeakyConnections": true,
+                "splitMinimumDistance": 0.4,
+                "startPosition": {
+                    "x": -150,
+                    "y": -100,
+                    "z": 0.2
+                },
+                "supportAngle": 68.0,
+                "supportExtraDistance": 0.5,
+                "supportFillProfiles": {
+                    "sparse": {
+                        "density": 0.2,
+                        "orientationInterval": 0,
+                        "orientationOffset": 0,
+                        "orientationRange": 90,
+                        "pattern": "linear"
+                    }
+                },
+                "supportLayerHeight": 0.2,
+                "supportLeakyConnections": true,
+                "supportModelSpacing": 0.4,
+                "supportRoofModelSpacing": 0.4,
+                "thickLayerThreshold": 0,
+                "thickLayerVolumeMultiplier": 1,
+                "travelSpeedXY": 150,
+                "travelSpeedZ": 23
+            }
+        },
+        "version": "5.0.1"
+    },
+    "model_counts": [
+        {
+            "count": 1,
+            "name": "default"
+        }
+    ],
+    "num_z_layers": 57,
+    "num_z_transitions": 56,
+    "platform_temperature": 0,
+    "preferences": {
+        "default": {
+            "overrides": {
+                "rotationLock": false
+            },
+            "print_mode": "balanced"
+        }
+    },
+    "thing_id": null,
+    "tool_type": "mk13",
+    "tool_types": [
+        "mk13"
+    ],
+    "total_commands": 25643,
+    "uuid": "86adaeaa-be3d-42a1-9408-5cd631d92f47",
+    "version": "1.2.0"
+}

@@ -1,0 +1,1 @@
+IKEA Dish tray light weight / 盤子重量輕 / डिश ट्रे हल्के वजन by GeertL on Thingiverse: https://www.thingiverse.com/thing:5835512

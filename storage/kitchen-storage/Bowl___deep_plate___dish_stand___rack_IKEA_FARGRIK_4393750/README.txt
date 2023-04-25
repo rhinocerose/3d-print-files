@@ -1,0 +1,1 @@
+Bowl / deep plate / dish stand / rack IKEA FARGRIK by tomtastic on Thingiverse: https://www.thingiverse.com/thing:4393750

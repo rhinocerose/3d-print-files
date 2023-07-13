@@ -1,0 +1,1 @@
+Ender 3 V2 Enclosure box electronics external case by GalvanicGlaze on Thingiverse: https://www.thingiverse.com/thing:4742032

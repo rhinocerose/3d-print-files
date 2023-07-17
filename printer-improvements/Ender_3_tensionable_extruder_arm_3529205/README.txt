@@ -1,0 +1,1 @@
+Ender 3 tensionable extruder arm by navvis on Thingiverse: https://www.thingiverse.com/thing:3529205

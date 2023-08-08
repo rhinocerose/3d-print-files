@@ -1,0 +1,1 @@
+Petsfang Duct for CR10 MicroSwiss/Stock/E3Dv6/Volcano/TevoTornado /Tarantula Hot End/E3Dv6 CNC Mount & 5015 fan Bullseye Blokhead by dpetsel on Thingiverse: https://www.thingiverse.com/thing:2759439

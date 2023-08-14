@@ -1,1 +1,0 @@
-Ender 3 Pro V2 Compact SD Card Adapter Housing V4 by BoothyBoothy on Thingiverse: https://www.thingiverse.com/thing:4609997

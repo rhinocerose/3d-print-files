@@ -7,21 +7,21 @@ t_bed_depth = 220;
 // Shape to be printed at test points ("circle" or "square")
 t_shape = "square";  //[circle,square]
 // Print extra shape in center?
-t_shape_center = "true"; // [true,false]
+t_shape_center = "false"; // [true,false]
 // Number of test columns
-t_shape_xcount = 2; // [0,1,2,3,4,5,6,7,8,9,10]
+t_shape_xcount = 11; // [0,1,2,3,4,5,6,7,8,9,10]
 // Number of test rows
-t_shape_ycount = 2; // [0,1,2,3,4,5,6,7,8,9,10]
+t_shape_ycount = 11; // [0,1,2,3,4,5,6,7,8,9,10]
 // Width of test shape
-t_shape_xsize = 35; // width of shape or diameter of circle
+t_shape_xsize = 10; // width of shape or diameter of circle
 // Depth of test shape
-t_shape_ysize = 25; // depth of shape
+t_shape_ysize = 10; // depth of shape
 // Width of connecting grid
 t_line_width = 1.6; // 1.6 works well, 0 to skip
 // Thickness of test print
 t_thickness = 0.2; // layer height
 // Safety border around edges of bed
-t_bed_border = 0; // safety margin around edge of bed
+t_bed_border = 5; // safety margin around edge of bed
 
 /* [Hidden] */
 t_print_width = t_bed_width - t_shape_xsize - (2*t_bed_border);

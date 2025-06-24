@@ -1,0 +1,1 @@
+Manual DIY SMD Pick & Place for desktop by pcharvet on Thingiverse: https://www.thingiverse.com/thing:2815833

@@ -1,0 +1,1 @@
+Manual SMT Pick&Place Machine by lorinczroby on Thingiverse: https://www.thingiverse.com/thing:3644398

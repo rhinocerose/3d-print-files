@@ -1,0 +1,1 @@
+Ender 3 V2 Filament Guide by RedSoda on Thingiverse: https://www.thingiverse.com/thing:4581110

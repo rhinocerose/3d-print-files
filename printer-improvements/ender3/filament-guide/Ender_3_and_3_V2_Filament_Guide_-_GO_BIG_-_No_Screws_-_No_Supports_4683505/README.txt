@@ -1,0 +1,1 @@
+Ender 3 and 3 V2 Filament Guide - GO BIG - No Screws - No Supports by Markacho on Thingiverse: https://www.thingiverse.com/thing:4683505

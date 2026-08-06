@@ -1,0 +1,1 @@
+Optimized Gridfinity Base: Faster, Smarter, Better! by J-Max on Thingiverse: https://www.thingiverse.com/thing:6837189

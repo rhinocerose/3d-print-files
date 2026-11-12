@@ -1,0 +1,3 @@
+# MakerWorld login token used by scripts/Add-Model.ps1 and scripts/add_model.py - never commit it
+scripts/.makerworld-token
+scripts/__pycache__/

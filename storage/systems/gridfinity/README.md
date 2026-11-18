@@ -4,7 +4,7 @@
 
 [Home](../../../README.md) / [Storage](../../README.md) / [Systems](../README.md) / **Gridfinity**
 
-6 builds &middot; 3 MakerWorld &middot; 2 Printables &middot; 1 unknown source &middot; 10 collections (323 more builds)
+6 builds &middot; 3 MakerWorld &middot; 3 Printables &middot; 10 collections (323 more builds)
 
 ## Collections
 
@@ -53,12 +53,12 @@
 <sub>by TmDvd</sub><br>
 <a href="https://makerworld.com/en/models/568924-gridfinity-makpac-stackable-tray-magnetic">MakerWorld</a> &middot; <a href="Gridfinity%2BMakpac%2Bstackable%2Btray%2B(magnetic)">Repo folder</a>
 </td>
+<td width="33%" align="center" valign="top">
+<a href="parametric-gridfinity-trays-model_files.zip"><img src="readme-images/parametric-gridfinity-trays-model-files-zip-4fd540c9.webp" width="240" alt="Parametric Gridfinity Trays"></a><br>
+<b>Parametric Gridfinity Trays</b><br>
+<sub>by fergusnoble</sub><br>
+<a href="https://www.printables.com/model/413887-parametric-gridfinity-trays">Printables</a> &middot; <a href="parametric-gridfinity-trays-model_files.zip">parametric-gridfinity-trays-model_files.zip</a>
+</td>
 </tr>
 </table>
-
-<details><summary>Other files in this folder (1)</summary>
-
-- [parametric-gridfinity-trays-model_files.zip](parametric-gridfinity-trays-model_files.zip)
-
-</details>
 

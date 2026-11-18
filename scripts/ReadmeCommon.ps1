@@ -15,6 +15,16 @@ function OSortKeys([object[]]$arr, [string[]]$keys) {
   foreach ($i in $idx) { $arr[$i] }
 }
 
+# Folder/file name -> readable model title.
+function Pretty([string]$s) {
+  $t = $s -replace '-model_files$','' -replace '_stls$','' -replace '\+',' ' -replace '_',' '
+  $t = $t -replace '\s+-\s+\d{5,}.*$','' -replace '\s+\d{5,}$',''
+  if ($t -cmatch '^[a-z0-9 \-]+$') {   # slug-style -> Title Case
+    $t = (($t -replace '-',' ') -split '\s+' | Where-Object { $_ } | ForEach-Object { $_.Substring(0,1).ToUpper() + $_.Substring(1) }) -join ' '
+  }
+  ($t -replace '\s+',' ').Trim()
+}
+
 function JsonStr([string]$s) {
   $sb = New-Object System.Text.StringBuilder '"'
   foreach ($ch in $s.ToCharArray()) {

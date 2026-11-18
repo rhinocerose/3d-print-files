@@ -4,7 +4,7 @@
 
 [Home](../../README.md) / [Storage](../README.md) / **Tool Holders**
 
-24 builds &middot; 4 MakerWorld &middot; 2 Printables &middot; 11 Thingiverse &middot; 7 unknown source &middot; 1 collections (2 more builds)
+24 builds &middot; 4 MakerWorld &middot; 3 Printables &middot; 14 Thingiverse &middot; 3 unknown source &middot; 1 collections (2 more builds)
 
 ## Collections
 
@@ -27,31 +27,59 @@
 <a href="https://www.thingiverse.com/thing:726700">Thingiverse</a> &middot; <a href="Customizable_Hex_Bit_Holder">Repo folder</a>
 </td>
 <td width="33%" align="center" valign="top">
+<a href="DeWalt%20Battery%20Holder%20-%20Square%20Bottom%20-%204847364.zip"><img src="readme-images/dewalt-battery-holder-square-bottom-4847364-zip-2a57e479.webp" width="240" alt="DeWalt Battery Holder - Square Bottom"></a><br>
+<b>DeWalt Battery Holder - Square Bottom</b><br>
+<sub>by trevormbell</sub><br>
+<a href="https://www.thingiverse.com/thing:4847364">Thingiverse</a> &middot; <a href="DeWalt%20Battery%20Holder%20-%20Square%20Bottom%20-%204847364.zip">DeWalt Battery Holder - Square Bottom - 4847364.zip</a>
+</td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top">
+<a href="Dewalt%20battery%20mount%20with%20logo%20-%203760975.zip"><img src="readme-images/dewalt-battery-mount-with-logo-3760975-zip-07302180.webp" width="240" alt="Dewalt battery mount with logo"></a><br>
+<b>Dewalt battery mount with logo</b><br>
+<sub>by Ashf144</sub><br>
+<a href="https://www.thingiverse.com/thing:3760975">Thingiverse</a> &middot; <a href="Dewalt%20battery%20mount%20with%20logo%20-%203760975.zip">Dewalt battery mount with logo - 3760975.zip</a>
+</td>
+<td width="33%" align="center" valign="top">
+<a href="dewalt-tool-hanger-model_files.zip"><img src="readme-images/dewalt-tool-hanger-model-files-zip-e657ea9b.webp" width="240" alt="Dewalt tool hanger"></a><br>
+<b>Dewalt tool hanger</b><br>
+<sub>by dandos23</sub><br>
+<a href="https://www.printables.com/model/221353-dewalt-tool-hanger">Printables</a> &middot; <a href="dewalt-tool-hanger-model_files.zip">dewalt-tool-hanger-model_files.zip</a>
+</td>
+<td width="33%" align="center" valign="top">
+<a href="DeWalt%20Tool%20Holder%20-%203658795.zip"><img src="readme-images/dewalt-tool-holder-3658795-zip-3278ea8f.webp" width="240" alt="DeWalt Tool Holder"></a><br>
+<b>DeWalt Tool Holder</b><br>
+<sub>by RiversCo</sub><br>
+<a href="https://www.thingiverse.com/thing:3658795">Thingiverse</a> &middot; <a href="DeWalt%20Tool%20Holder%20-%203658795.zip">DeWalt Tool Holder - 3658795.zip</a>
+</td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top">
 <a href="french_cleat_hex_bit_holder"><img src="french_cleat_hex_bit_holder/images/69a83d7278778813e2b64cb7acc19ca7_preview_featured.jpg" width="240" alt="french cleat hex bit holder"></a><br>
 <b>french cleat hex bit holder</b><br>
 <sub>by taddyr</sub><br>
 <a href="https://www.thingiverse.com/thing:2967241">Thingiverse</a> &middot; <a href="french_cleat_hex_bit_holder">Repo folder</a>
 </td>
+<td width="33%" align="center" valign="top">
+<a href="Gridfinity%2Bholder%2Bfor%2BElegoo%2BVacuum%2BAuto%2BPump.3mf"><img src="readme-images/gridfinity-holder-for-elegoo-vacuum-auto-pump-3mf-49587695.webp" width="240" alt="Gridfinity holder for Elegoo Vacuum Pump"></a><br>
+<b>Gridfinity holder for Elegoo Vacuum Pump</b><br>
+<sub>by real_alpha</sub><br>
+<a href="https://makerworld.com/en/models/1620750-gridfinity-holder-for-elegoo-vacuum-pump">MakerWorld</a> &middot; <a href="Gridfinity%2Bholder%2Bfor%2BElegoo%2BVacuum%2BAuto%2BPump.3mf">Gridfinity+holder+for+Elegoo+Vacuum+Auto+Pump.3mf</a>
+</td>
+<td width="33%" align="center" valign="top">
+<a href="Gridfinity%2B2x6x9%2BWera%2Ballen%2Bkey%2Bholder%2Bv1.3mf"><img src="readme-images/gridfinity-2x6x9-wera-allen-key-holder-v1-3mf-a3e352ff.webp" width="240" alt="Gridfinity Wera Allen key set holder"></a><br>
+<b>Gridfinity Wera Allen key set holder</b><br>
+<sub>by Llama16</sub><br>
+<a href="https://makerworld.com/en/models/895575-gridfinity-wera-allen-key-set-holder">MakerWorld</a> &middot; <a href="Gridfinity%2B2x6x9%2BWera%2Ballen%2Bkey%2Bholder%2Bv1.3mf">Gridfinity+2x6x9+Wera+allen+key+holder+v1.3mf</a>
+</td>
 </tr>
 <tr>
-<td width="33%" align="center" valign="top">
-<a href="Gridfinity%2B2x6x9%2BWera%2Ballen%2Bkey%2Bholder%2Bv1.3mf"><img src="readme-images/gridfinity-2x6x9-wera-allen-key-holder-v1-3mf-a3e352ff.webp" width="240" alt="Gridfinity 2x6x9 Wera allen key holder v1"></a><br>
-<b>Gridfinity 2x6x9 Wera allen key holder v1</b><br>
-<a href="https://makerworld.com/en/search/models?keyword=Gridfinity%202x6x9%20Wera%20allen%20key%20holder%20v1">Search MakerWorld</a> &middot; <a href="Gridfinity%2B2x6x9%2BWera%2Ballen%2Bkey%2Bholder%2Bv1.3mf">Gridfinity+2x6x9+Wera+allen+key+holder+v1.3mf</a>
-</td>
-<td width="33%" align="center" valign="top">
-<a href="Gridfinity%2Bholder%2Bfor%2BElegoo%2BVacuum%2BAuto%2BPump.3mf"><img src="readme-images/gridfinity-holder-for-elegoo-vacuum-auto-pump-3mf-49587695.webp" width="240" alt="Gridfinity holder for Elegoo Vacuum Auto Pump"></a><br>
-<b>Gridfinity holder for Elegoo Vacuum Auto Pump</b><br>
-<a href="https://makerworld.com/en/search/models?keyword=Gridfinity%20holder%20for%20Elegoo%20Vacuum%20Auto%20Pump">Search MakerWorld</a> &middot; <a href="Gridfinity%2Bholder%2Bfor%2BElegoo%2BVacuum%2BAuto%2BPump.3mf">Gridfinity+holder+for+Elegoo+Vacuum+Auto+Pump.3mf</a>
-</td>
 <td width="33%" align="center" valign="top">
 <a href="Hex_Bit_Holder_for_Metal_Pegboard_Wall_Control"><img src="Hex_Bit_Holder_for_Metal_Pegboard_Wall_Control/images/da94836f8eec48cebdfec71f6bd34b89_preview_featured.JPG" width="240" alt="Hex Bit Holder for Metal Pegboard (Wall Control)"></a><br>
 <b>Hex Bit Holder for Metal Pegboard (Wall Control)</b><br>
 <sub>by Boz</sub><br>
 <a href="https://www.thingiverse.com/thing:2511938">Thingiverse</a> &middot; <a href="Hex_Bit_Holder_for_Metal_Pegboard_Wall_Control">Repo folder</a>
 </td>
-</tr>
-<tr>
 <td width="33%" align="center" valign="top">
 <i>no preview</i><br>
 <b>Hooks for pegboard(8mm hole, 30mm spacing)</b><br>
@@ -63,14 +91,14 @@ Source unknown &middot; <a href="Hooks_for_pegboard(8mm_hole%2C_30mm_spacing)">R
 <sub>by RevHazlett</sub><br>
 <a href="https://www.printables.com/model/658788-logitech-k400k400r-vertical-wall-mount">Printables</a> &middot; <a href="logitech-k400k400r-vertical-wall-mount-model_files">Repo folder</a>
 </td>
+</tr>
+<tr>
 <td width="33%" align="center" valign="top">
 <a href="Pegboard_drill_indices"><img src="Pegboard_drill_indices/images/2015-09-07_14.08.28_preview_featured.jpg" width="240" alt="Pegboard drill indices"></a><br>
 <b>Pegboard drill indices</b><br>
 <sub>by ckirby</sub><br>
 <a href="https://www.thingiverse.com/thing:1003471">Thingiverse</a> &middot; <a href="Pegboard_drill_indices">Repo folder</a>
 </td>
-</tr>
-<tr>
 <td width="33%" align="center" valign="top">
 <i>no preview</i><br>
 <b>Pegboard Hex Bit holder</b><br>
@@ -82,14 +110,14 @@ Source unknown &middot; <a href="Pegboard_Hex_Bit_holder">Repo folder</a>
 <sub>by mgx</sub><br>
 <a href="https://www.thingiverse.com/thing:537516">Thingiverse</a> &middot; <a href="Pegstr_-_Pegboard_Wizard">Repo folder</a>
 </td>
+</tr>
+<tr>
 <td width="33%" align="center" valign="top">
 <a href="Screwdriver_bit_wall_mount"><img src="Screwdriver_bit_wall_mount/images/156005c5baf40ff51a327f1c34f2975b_preview_featured.jpg" width="240" alt="Screwdriver bit wall mount"></a><br>
 <b>Screwdriver bit wall mount</b><br>
 <sub>by SaKes</sub><br>
 <a href="https://www.thingiverse.com/thing:2499257">Thingiverse</a> &middot; <a href="Screwdriver_bit_wall_mount">Repo folder</a>
 </td>
-</tr>
-<tr>
 <td width="33%" align="center" valign="top">
 <a href="Screwdriver_stand"><img src="Screwdriver_stand/images/293749171227d91e380e3ed578af0a9f_preview_featured.JPG" width="240" alt="Screwdriver stand"></a><br>
 <b>Screwdriver stand</b><br>
@@ -102,14 +130,14 @@ Source unknown &middot; <a href="Pegboard_Hex_Bit_holder">Repo folder</a>
 <sub>by Heartman</sub><br>
 <a href="https://www.thingiverse.com/thing:1264391">Thingiverse</a> &middot; <a href="The_Ultimate_box_maker">Repo folder</a>
 </td>
+</tr>
+<tr>
 <td width="33%" align="center" valign="top">
 <a href="tool-box-parametric-model_files"><img src="readme-images/tool-box-parametric-model-files-71ae5165.webp" width="240" alt="Tool box parametric"></a><br>
 <b>Tool box parametric</b><br>
 <sub>by Yanev</sub><br>
 <a href="https://www.printables.com/model/39729-tool-box-parametric">Printables</a> &middot; <a href="tool-box-parametric-model_files">Repo folder</a>
 </td>
-</tr>
-<tr>
 <td width="33%" align="center" valign="top">
 <a href="Tool_brackets_for_workshop_wall"><img src="Tool_brackets_for_workshop_wall/images/139915e9facb723b40706171442a681f_preview_featured.jpg" width="240" alt="Tool brackets for workshop wall"></a><br>
 <b>Tool brackets for workshop wall</b><br>
@@ -122,22 +150,21 @@ Source unknown &middot; <a href="Pegboard_Hex_Bit_holder">Repo folder</a>
 <sub>by ICTAvatar</sub><br>
 <a href="https://www.thingiverse.com/thing:2522638">Thingiverse</a> &middot; <a href="Tools_modular_desktop_stand_TweezerPlierScrewdriver_V_2.0">Repo folder</a>
 </td>
+</tr>
+<tr>
 <td width="33%" align="center" valign="top">
-<a href="Wera%2Ballen%2Bwrench%2Bholder.3mf"><img src="readme-images/wera-allen-wrench-holder-3mf-4ec72d01.webp" width="240" alt="Wera allen wrench holder"></a><br>
-<b>Wera allen wrench holder</b><br>
-<a href="https://makerworld.com/en/search/models?keyword=Wera%20allen%20wrench%20holder">Search MakerWorld</a> &middot; <a href="Wera%2Ballen%2Bwrench%2Bholder.3mf">Wera+allen+wrench+holder.3mf</a>
+<a href="Wera%2Ballen%2Bwrench%2Bholder.3mf"><img src="readme-images/wera-allen-wrench-holder-3mf-4ec72d01.webp" width="240" alt="Wera Allen key holder"></a><br>
+<b>Wera Allen key holder</b><br>
+<sub>by BasementCNC</sub><br>
+<a href="https://makerworld.com/en/models/525017-wera-allen-key-holder">MakerWorld</a> &middot; <a href="Wera%2Ballen%2Bwrench%2Bholder.3mf">Wera+allen+wrench+holder.3mf</a>
 </td>
 </tr>
 </table>
 
-<details><summary>Other files in this folder (6)</summary>
+<details><summary>Other files in this folder (2)</summary>
 
 - [Crimper+Tray_stls.zip](Crimper%2BTray_stls.zip)
-- [DeWalt Battery Holder - Square Bottom - 4847364.zip](DeWalt%20Battery%20Holder%20-%20Square%20Bottom%20-%204847364.zip)
 - [Dewalt Battery Holder.zip](Dewalt%20Battery%20Holder.zip)
-- [Dewalt battery mount with logo - 3760975.zip](Dewalt%20battery%20mount%20with%20logo%20-%203760975.zip)
-- [DeWalt Tool Holder - 3658795.zip](DeWalt%20Tool%20Holder%20-%203658795.zip)
-- [dewalt-tool-hanger-model_files.zip](dewalt-tool-hanger-model_files.zip)
 
 </details>
 

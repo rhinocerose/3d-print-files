@@ -4,7 +4,7 @@
 
 [Home](../../../../README.md) / [Storage](../../../README.md) / [Systems](../../README.md) / [Opengrid](../README.md) / **Cable Organization**
 
-13 builds &middot; 11 MakerWorld &middot; 2 unknown source
+13 builds &middot; 13 MakerWorld
 
 ## Cable Organization
 
@@ -78,16 +78,18 @@
 <a href="https://makerworld.com/en/models/1802568-underware-opengrid-multiconnect-cable-spool">MakerWorld</a> &middot; <a href="Underware%2BOpenGrid_Multiconnect%2Bcable%2Bspool">Repo folder</a>
 </td>
 <td width="33%" align="center" valign="top">
-<a href="underware-cord-spool-2x1.3mf"><img src="readme-images/underware-cord-spool-2x1-3mf-384a80ab.webp" width="240" alt="underware-cord-spool-2x1"></a><br>
-<b>underware-cord-spool-2x1</b><br>
-Source unknown &middot; <a href="underware-cord-spool-2x1.3mf">underware-cord-spool-2x1.3mf</a>
+<a href="underware-cord-spool-2x1.3mf"><img src="readme-images/underware-cord-spool-2x1-3mf-384a80ab.webp" width="240" alt="Underware OpenGrid/Multiconnect cable spool"></a><br>
+<b>Underware OpenGrid/Multiconnect cable spool</b><br>
+<sub>by shir</sub><br>
+<a href="https://makerworld.com/en/models/1802568-underware-opengrid-multiconnect-cable-spool">MakerWorld</a> &middot; <a href="underware-cord-spool-2x1.3mf">underware-cord-spool-2x1.3mf</a>
 </td>
 </tr>
 <tr>
 <td width="33%" align="center" valign="top">
-<a href="underware-cord-spool-2x2.3mf"><img src="readme-images/underware-cord-spool-2x2-3mf-62ee6d62.webp" width="240" alt="underware-cord-spool-2x2"></a><br>
-<b>underware-cord-spool-2x2</b><br>
-Source unknown &middot; <a href="underware-cord-spool-2x2.3mf">underware-cord-spool-2x2.3mf</a>
+<a href="underware-cord-spool-2x2.3mf"><img src="readme-images/underware-cord-spool-2x2-3mf-62ee6d62.webp" width="240" alt="Underware OpenGrid/Multiconnect cable spool"></a><br>
+<b>Underware OpenGrid/Multiconnect cable spool</b><br>
+<sub>by shir</sub><br>
+<a href="https://makerworld.com/en/models/1802568-underware-opengrid-multiconnect-cable-spool">MakerWorld</a> &middot; <a href="underware-cord-spool-2x2.3mf">underware-cord-spool-2x2.3mf</a>
 </td>
 </tr>
 </table>

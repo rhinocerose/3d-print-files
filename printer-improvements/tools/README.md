@@ -17,15 +17,16 @@
 <a href="https://www.thingiverse.com/thing:1937236">Thingiverse</a> &middot; <a href="3D_Printer_Tool_Stand_1937236">Repo folder</a>
 </td>
 <td width="33%" align="center" valign="top">
-<a href="Clip%2Bone%2Bcolor.3mf"><img src="readme-images/clip-one-color-3mf-c2648817.webp" width="240" alt="Clip one color"></a><br>
-<b>Clip one color</b><br>
-<a href="https://makerworld.com/en/search/models?keyword=Clip%20one%20color">Search MakerWorld</a> &middot; <a href="Clip%2Bone%2Bcolor.3mf">Clip+one+color.3mf</a>
-</td>
-<td width="33%" align="center" valign="top">
 <a href="Filament_Clip__282242"><img src="Filament_Clip__282242/images/clip-v2.1.jpg" width="240" alt="Filament Clip"></a><br>
 <b>Filament Clip</b><br>
 <sub>by intofocus</sub><br>
 <a href="https://www.thingiverse.com/thing:282242">Thingiverse</a> &middot; <a href="Filament_Clip__282242">Repo folder</a>
+</td>
+<td width="33%" align="center" valign="top">
+<a href="Clip%2Bone%2Bcolor.3mf"><img src="readme-images/clip-one-color-3mf-c2648817.webp" width="240" alt="Filament Clip for Bambu spools"></a><br>
+<b>Filament Clip for Bambu spools</b><br>
+<sub>by 123cut</sub><br>
+<a href="https://makerworld.com/en/models/146046-filament-clip-for-bambu-spools">MakerWorld</a> &middot; <a href="Clip%2Bone%2Bcolor.3mf">Clip+one+color.3mf</a>
 </td>
 </tr>
 <tr>

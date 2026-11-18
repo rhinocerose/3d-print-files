@@ -1,0 +1,1 @@
+Blade Honing Guide by Perinski on Thingiverse: https://www.thingiverse.com/thing:6664571

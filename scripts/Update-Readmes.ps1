@@ -73,16 +73,7 @@ function Norm([string]$s) { if (-not $s) { return '' }; ($s.ToLowerInvariant() -
 function Enc([string]$relPath) { (($relPath -split '/') | ForEach-Object { [Uri]::EscapeDataString($_) }) -join '/' }
 function Html([string]$s) { [System.Net.WebUtility]::HtmlEncode($s) }
 
-. (Join-Path $PSScriptRoot 'ReadmeCommon.ps1')   # OSort, Read-Cache, Save-Cache
-
-function Pretty([string]$s) {
-  $t = $s -replace '-model_files$','' -replace '_stls$','' -replace '\+',' ' -replace '_',' '
-  $t = $t -replace '\s+-\s+\d{5,}.*$','' -replace '\s+\d{5,}$',''
-  if ($t -cmatch '^[a-z0-9 \-]+$') {   # slug-style -> Title Case
-    $t = (($t -replace '-',' ') -split '\s+' | Where-Object { $_ } | ForEach-Object { $_.Substring(0,1).ToUpper() + $_.Substring(1) }) -join ' '
-  }
-  ($t -replace '\s+',' ').Trim()
-}
+. (Join-Path $PSScriptRoot 'ReadmeCommon.ps1')   # OSort, Pretty, Read-Cache, Save-Cache
 
 $childCache = @{}
 function Kids([string]$full) {
@@ -365,7 +356,7 @@ function Get-Preview($entry, [string]$catFull, [string]$targetFull, [bool]$isDir
 }
 
 # ---------------------------------------------------------------- README rendering
-$SiteName = @{ thingiverse = 'Thingiverse'; printables = 'Printables'; makerworld = 'MakerWorld' }
+$SiteName = @{ thingiverse = 'Thingiverse'; printables = 'Printables'; makerworld = 'MakerWorld'; cults3d = 'Cults3D'; thangs = 'Thangs' }
 function SourceLink($info, [string]$fallbackTitle) {
   if ($info.url) { return "<a href=`"$(Html $info.url)`">$($SiteName[$info.source])</a>" }
   $q = [Uri]::EscapeDataString($fallbackTitle)

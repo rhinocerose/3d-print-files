@@ -35,9 +35,10 @@
 <a href="https://makerworld.com/en/search/models?keyword=Horizontal%20Print%2020mm%20x20mm%20Extrusion%20V-Slot%20180mm">Search MakerWorld</a> &middot; <a href="Horizontal%2BPrint%2B20mm%2Bx20mm%2BExtrusion%2BV-Slot%2B180mm">Repo folder</a>
 </td>
 <td width="33%" align="center" valign="top">
-<a href="T%2BNut%2BM3.3mf"><img src="readme-images/t-nut-m3-3mf-e7654112.webp" width="240" alt="T Nut M3"></a><br>
-<b>T Nut M3</b><br>
-<a href="https://makerworld.com/en/search/models?keyword=T%20Nut%20M3">Search MakerWorld</a> &middot; <a href="T%2BNut%2BM3.3mf">T+Nut+M3.3mf</a>
+<a href="T%2BNut%2BM3.3mf"><img src="readme-images/t-nut-m3-3mf-e7654112.webp" width="240" alt="M3 T-Nut for V-Slot 2020 Extrusion"></a><br>
+<b>M3 T-Nut for V-Slot 2020 Extrusion</b><br>
+<sub>by Perfect Prints</sub><br>
+<a href="https://makerworld.com/en/models/869106-m3-t-nut-for-v-slot-2020-extrusion">MakerWorld</a> &middot; <a href="T%2BNut%2BM3.3mf">T+Nut+M3.3mf</a>
 </td>
 <td width="33%" align="center" valign="top">
 <i>no preview</i><br>

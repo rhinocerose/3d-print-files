@@ -4,7 +4,7 @@
 
 [Home](../../../README.md) / [Tools](../../README.md) / [Hand Tools](../README.md) / **Drivers**
 
-7 builds &middot; 2 Thingiverse &middot; 5 unknown source
+7 builds &middot; 1 Printables &middot; 3 Thingiverse &middot; 3 unknown source
 
 ## Drivers
 
@@ -28,14 +28,26 @@ Source unknown &middot; <a href="6_mm_Jack_bolt_tool">Repo folder</a>
 <a href="https://www.thingiverse.com/thing:2988075">Thingiverse</a> &middot; <a href="Arbitrary_hex_Allen_key_holder">Repo folder</a>
 </td>
 </tr>
+<tr>
+<td width="33%" align="center" valign="top">
+<a href="knurled-handle-for-cylinder-head-screw-model_files.zip"><img src="readme-images/knurled-handle-for-cylinder-head-screw-model-files-zip-d546bdf9.webp" width="240" alt="Knurled handle for Socket Head Cap Screw"></a><br>
+<b>Knurled handle for Socket Head Cap Screw</b><br>
+<sub>by BamBam Design</sub><br>
+<a href="https://www.printables.com/model/751427-knurled-handle-for-socket-head-cap-screw">Printables</a> &middot; <a href="knurled-handle-for-cylinder-head-screw-model_files.zip">knurled-handle-for-cylinder-head-screw-model_files.zip</a>
+</td>
+<td width="33%" align="center" valign="top">
+<a href="Tap%20wrench%20M5%20M6%20M8%20-%205260969.zip"><img src="readme-images/tap-wrench-m5-m6-m8-5260969-zip-d6cf2cc1.webp" width="240" alt="Tap wrench M5 M6 M8"></a><br>
+<b>Tap wrench M5 M6 M8</b><br>
+<sub>by NerdCorner</sub><br>
+<a href="https://www.thingiverse.com/thing:5260969">Thingiverse</a> &middot; <a href="Tap%20wrench%20M5%20M6%20M8%20-%205260969.zip">Tap wrench M5 M6 M8 - 5260969.zip</a>
+</td>
+</tr>
 </table>
 
-<details><summary>Other files in this folder (4)</summary>
+<details><summary>Other files in this folder (2)</summary>
 
 - [Compact_Screwdriver.stl](Compact_Screwdriver.stl)
 - [Compact_Screwdriver_4mm_bit.stl](Compact_Screwdriver_4mm_bit.stl)
-- [knurled-handle-for-cylinder-head-screw-model_files.zip](knurled-handle-for-cylinder-head-screw-model_files.zip)
-- [Tap wrench M5 M6 M8 - 5260969.zip](Tap%20wrench%20M5%20M6%20M8%20-%205260969.zip)
 
 </details>
 

@@ -11,9 +11,10 @@
 <table>
 <tr>
 <td width="33%" align="center" valign="top">
-<a href="AMS%2BStacking%2BSystem"><img src="readme-images/ams-stacking-system-329b42ee.webp" width="240" alt="AMS Stacking System"></a><br>
-<b>AMS Stacking System</b><br>
-<a href="https://makerworld.com/en/search/models?keyword=AMS%20Stacking%20System">Search MakerWorld</a> &middot; <a href="AMS%2BStacking%2BSystem">Repo folder</a>
+<a href="P1S%2Bgridfinity%2Bbase.3mf"><img src="readme-images/p1s-gridfinity-base-3mf-78bd13a0.webp" width="240" alt="Bambu Lab P1S Gridfinity Base"></a><br>
+<b>Bambu Lab P1S Gridfinity Base</b><br>
+<sub>by luukluuk12</sub><br>
+<a href="https://makerworld.com/en/models/23718-bambu-lab-p1s-gridfinity-base">MakerWorld</a> &middot; <a href="P1S%2Bgridfinity%2Bbase.3mf">P1S+gridfinity+base.3mf</a>
 </td>
 <td width="33%" align="center" valign="top">
 <a href="bentobox-v20-carbon-filter-for-bambu-lab-x1c-enclosed-p1p-voron-trident-others-model_files"><img src="readme-images/bentobox-v20-carbon-filter-for-bambu-lab-x1c-enclosed-p1p-voron-triden-2da6191c.webp" width="240" alt="BentoBox v2.0 Carbon filter for Bambu Lab X1C, enclosed P1P &amp; Voron Trident &amp; others?"></a><br>
@@ -30,15 +31,16 @@
 </tr>
 <tr>
 <td width="33%" align="center" valign="top">
-<a href="P1S%2Bgridfinity%2Bbase.3mf"><img src="readme-images/p1s-gridfinity-base-3mf-78bd13a0.webp" width="240" alt="P1S gridfinity base"></a><br>
-<b>P1S gridfinity base</b><br>
-<a href="https://makerworld.com/en/search/models?keyword=P1S%20gridfinity%20base">Search MakerWorld</a> &middot; <a href="P1S%2Bgridfinity%2Bbase.3mf">P1S+gridfinity+base.3mf</a>
-</td>
-<td width="33%" align="center" valign="top">
 <a href="remixed-hepa-boxes-for-bento-box-v2-model_files"><img src="readme-images/remixed-hepa-boxes-for-bento-box-v2-model-files-735e2a4d.webp" width="240" alt="Remixed HEPA boxes for Bento Box v2"></a><br>
 <b>Remixed HEPA boxes for Bento Box v2</b><br>
 <sub>by ShowStudio</sub><br>
 <a href="https://www.printables.com/model/654808-remixed-hepa-boxes-for-bento-box-v2">Printables</a> &middot; <a href="remixed-hepa-boxes-for-bento-box-v2-model_files">Repo folder</a>
+</td>
+<td width="33%" align="center" valign="top">
+<a href="AMS%2BStacking%2BSystem"><img src="readme-images/ams-stacking-system-329b42ee.webp" width="240" alt="[V1] AMS Stacking System"></a><br>
+<b>[V1] AMS Stacking System</b><br>
+<sub>by Jaxel</sub><br>
+<a href="https://makerworld.com/en/models/105669-v1-ams-stacking-system">MakerWorld</a> &middot; <a href="AMS%2BStacking%2BSystem">Repo folder</a>
 </td>
 </tr>
 </table>

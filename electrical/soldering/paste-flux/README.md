@@ -4,7 +4,7 @@
 
 [Home](../../../README.md) / [Electrical](../../README.md) / [Soldering](../README.md) / **Paste Flux**
 
-8 builds &middot; 2 Printables &middot; 5 Thingiverse &middot; 1 unknown source
+8 builds &middot; 3 Printables &middot; 5 Thingiverse
 
 ## Paste Flux
 
@@ -43,13 +43,19 @@
 <a href="https://www.thingiverse.com/thing:2461265">Thingiverse</a> &middot; <a href="Injection_Plunger_for_Soldering_Flux_Syringe">Repo folder</a>
 </td>
 <td width="33%" align="center" valign="top">
+<a href="needle-syringe-caps-model_files.zip"><img src="readme-images/needle-syringe-caps-model-files-zip-575bb3bb.webp" width="240" alt="Needle / Syringe Caps"></a><br>
+<b>Needle / Syringe Caps</b><br>
+<sub>by AcE Krystal</sub><br>
+<a href="https://www.printables.com/model/70825-needle-syringe-caps">Printables</a> &middot; <a href="needle-syringe-caps-model_files.zip">needle-syringe-caps-model_files.zip</a>
+</td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top">
 <a href="Solder_paste_and_flux_dispenser"><img src="readme-images/solder-paste-and-flux-dispenser-d136948b.webp" width="240" alt="Solder Paste and Flux Dispenser"></a><br>
 <b>Solder Paste and Flux Dispenser</b><br>
 <sub>by chrisebryan</sub><br>
 <a href="https://www.printables.com/model/315615-solder-paste-and-flux-dispenser">Printables</a> &middot; <a href="Solder_paste_and_flux_dispenser">Repo folder</a>
 </td>
-</tr>
-<tr>
 <td width="33%" align="center" valign="top">
 <a href="Solderpaste_And_Flux_Gun"><img src="Solderpaste_And_Flux_Gun/images/1011274e6d27334aae720f8a2b8ceb1a_preview_featured.jpg" width="240" alt="Solderpaste And Flux Gun"></a><br>
 <b>Solderpaste And Flux Gun</b><br>
@@ -58,10 +64,4 @@
 </td>
 </tr>
 </table>
-
-<details><summary>Other files in this folder (1)</summary>
-
-- [needle-syringe-caps-model_files.zip](needle-syringe-caps-model_files.zip)
-
-</details>
 

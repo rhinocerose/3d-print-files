@@ -4,7 +4,7 @@
 
 [Home](../../../README.md) / [Electrical](../../README.md) / [Soldering](../README.md) / **Pcb Holders**
 
-10 builds &middot; 4 Printables &middot; 5 Thingiverse &middot; 1 unknown source
+10 builds &middot; 5 Printables &middot; 5 Thingiverse
 
 ## Pcb Holders
 
@@ -51,6 +51,12 @@
 </tr>
 <tr>
 <td width="33%" align="center" valign="top">
+<a href="pcb-solder-fren-model_files.zip"><img src="readme-images/pcb-solder-fren-model-files-zip-eccc2dd7.webp" width="240" alt="PCB solder fren"></a><br>
+<b>PCB solder fren</b><br>
+<sub>by PistonPin</sub><br>
+<a href="https://www.printables.com/model/643748-pcb-solder-fren">Printables</a> &middot; <a href="pcb-solder-fren-model_files.zip">pcb-solder-fren-model_files.zip</a>
+</td>
+<td width="33%" align="center" valign="top">
 <a href="PCB_Workstation_with_Articulated_Arms"><img src="PCB_Workstation_with_Articulated_Arms/images/076fbf151d7dab95dd114aabe7575508_preview_featured.jpg" width="240" alt="PCB Workstation with Articulated Arms"></a><br>
 <b>PCB Workstation with Articulated Arms</b><br>
 <sub>by giufini</sub><br>
@@ -62,6 +68,8 @@
 <sub>by giufini</sub><br>
 <a href="https://www.printables.com/model/351270-pcb-workstation-with-nano-probes">Printables</a> &middot; <a href="pcb-workstation-with-nano-probes-model_files">Repo folder</a>
 </td>
+</tr>
+<tr>
 <td width="33%" align="center" valign="top">
 <a href="Rubber_Band_PCB_Vice"><img src="Rubber_Band_PCB_Vice/images/357462efb87c35fdcb5f632f8a4b481b_preview_featured.jpg" width="240" alt="Rubber Band PCB Vice"></a><br>
 <b>Rubber Band PCB Vice</b><br>
@@ -70,10 +78,4 @@
 </td>
 </tr>
 </table>
-
-<details><summary>Other files in this folder (1)</summary>
-
-- [pcb-solder-fren-model_files.zip](pcb-solder-fren-model_files.zip)
-
-</details>
 

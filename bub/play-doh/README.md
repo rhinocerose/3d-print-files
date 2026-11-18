@@ -4,29 +4,17 @@
 
 [Home](../../README.md) / [Bub](../README.md) / **Play Doh**
 
-18 builds &middot; 13 MakerWorld &middot; 5 unknown source
+18 builds &middot; 16 MakerWorld &middot; 2 unknown source
 
 ## Play Doh
 
 <table>
 <tr>
 <td width="33%" align="center" valign="top">
-<a href="2%2BCOLOR%2B-%2BFOREST%2BANIMALS.3mf"><img src="readme-images/2-color-forest-animals-3mf-5a5ad546.webp" width="240" alt="2 COLOR - FOREST ANIMALS"></a><br>
-<b>2 COLOR - FOREST ANIMALS</b><br>
-<a href="https://makerworld.com/en/search/models?keyword=2%20COLOR%20-%20FOREST%20ANIMALS">Search MakerWorld</a> &middot; <a href="2%2BCOLOR%2B-%2BFOREST%2BANIMALS.3mf">2+COLOR+-+FOREST+ANIMALS.3mf</a>
-</td>
-<td width="33%" align="center" valign="top">
-<a href="2%2Bcolor-%2Btrucks.3mf"><img src="readme-images/2-color-trucks-3mf-3895f3f1.webp" width="240" alt="2 color- trucks"></a><br>
-<b>2 color- trucks</b><br>
-<a href="https://makerworld.com/en/search/models?keyword=2%20color-%20trucks">Search MakerWorld</a> &middot; <a href="2%2Bcolor-%2Btrucks.3mf">2+color-+trucks.3mf</a>
-</td>
-<td width="33%" align="center" valign="top">
 <a href="2%2Bcolor-bugs%2Bstamps.3mf"><img src="readme-images/2-color-bugs-stamps-3mf-3a97e9c1.webp" width="240" alt="2 color-bugs stamps"></a><br>
 <b>2 color-bugs stamps</b><br>
 <a href="https://makerworld.com/en/search/models?keyword=2%20color-bugs%20stamps">Search MakerWorld</a> &middot; <a href="2%2Bcolor-bugs%2Bstamps.3mf">2+color-bugs+stamps.3mf</a>
 </td>
-</tr>
-<tr>
 <td width="33%" align="center" valign="top">
 <a href="2cm_2plates.3mf"><img src="readme-images/2cm-2plates-3mf-da240b53.webp" width="240" alt="2cm_2plates"></a><br>
 <b>2cm_2plates</b><br>
@@ -37,18 +25,13 @@ Source unknown &middot; <a href="2cm_2plates.3mf">2cm_2plates.3mf</a>
 <b>5cm_2plates</b><br>
 Source unknown &middot; <a href="5cm_2plates.3mf">5cm_2plates.3mf</a>
 </td>
+</tr>
+<tr>
 <td width="33%" align="center" valign="top">
 <a href="Bluey%2BCookie%2BCutter%2BSet%2B%E2%80%93%2BSet%2Bof%2B5%2B(Set%2B2)"><img src="readme-images/bluey-cookie-cutter-set-set-of-5-set-2-c218169c.webp" width="240" alt="Bluey Cookie Cutter Set – Set of 5 (Set 2)"></a><br>
 <b>Bluey Cookie Cutter Set – Set of 5 (Set 2)</b><br>
 <sub>by RifRaf</sub><br>
 <a href="https://makerworld.com/en/models/873499-bluey-cookie-cutter-set-set-of-5-set-2">MakerWorld</a> &middot; <a href="Bluey%2BCookie%2BCutter%2BSet%2B%E2%80%93%2BSet%2Bof%2B5%2B(Set%2B2)">Repo folder</a>
-</td>
-</tr>
-<tr>
-<td width="33%" align="center" valign="top">
-<i>no preview</i><br>
-<b>Bluey Play-Doh Roller</b><br>
-<a href="https://makerworld.com/en/search/models?keyword=Bluey%20Play-Doh%20Roller">Search MakerWorld</a> &middot; <a href="Bluey%2BPlay-Doh%2BRoller">Repo folder</a>
 </td>
 <td width="33%" align="center" valign="top">
 <a href="Cat%2BCookie%2BCutter%2BSet.zip"><img src="readme-images/cat-cookie-cutter-set-zip-7816c17d.webp" width="240" alt="Cat Cookie Cutter Set"></a><br>
@@ -57,9 +40,10 @@ Source unknown &middot; <a href="5cm_2plates.3mf">5cm_2plates.3mf</a>
 <a href="https://makerworld.com/en/models/471707-cat-cookie-cutter-set">MakerWorld</a> &middot; <a href="Cat%2BCookie%2BCutter%2BSet.zip">Cat+Cookie+Cutter+Set.zip</a>
 </td>
 <td width="33%" align="center" valign="top">
-<a href="cats-A1-mini.3mf"><img src="readme-images/cats-a1-mini-3mf-3ad23352.webp" width="240" alt="cats-A1-mini"></a><br>
-<b>cats-A1-mini</b><br>
-Source unknown &middot; <a href="cats-A1-mini.3mf">cats-A1-mini.3mf</a>
+<a href="cats-A1-mini.3mf"><img src="readme-images/cats-a1-mini-3mf-3ad23352.webp" width="240" alt="Cat Cookie Cutter Set"></a><br>
+<b>Cat Cookie Cutter Set</b><br>
+<sub>by 3DTrece</sub><br>
+<a href="https://makerworld.com/en/models/471707-cat-cookie-cutter-set">MakerWorld</a> &middot; <a href="cats-A1-mini.3mf">cats-A1-mini.3mf</a>
 </td>
 </tr>
 <tr>
@@ -74,39 +58,63 @@ Source unknown &middot; <a href="cats-A1-mini.3mf">cats-A1-mini.3mf</a>
 <a href="https://makerworld.com/en/search/models?keyword=Farm%20Animals%20Print%20Profile">Search MakerWorld</a> &middot; <a href="farm%2Banimals%2Bprint%2Bprofile_stls">Repo folder</a>
 </td>
 <td width="33%" align="center" valign="top">
-<i>no preview</i><br>
-<b>Ice Cream Cone Set - Kids Play</b><br>
-<a href="https://makerworld.com/en/search/models?keyword=Ice%20Cream%20Cone%20Set%20-%20Kids%20Play">Search MakerWorld</a> &middot; <a href="Ice%2BCream%2BCone%2BSet%2B-%2BKids%2BPlay">Repo folder</a>
+<a href="2%2BCOLOR%2B-%2BFOREST%2BANIMALS.3mf"><img src="readme-images/2-color-forest-animals-3mf-5a5ad546.webp" width="240" alt="Forest Animal Stamp Set and cutter"></a><br>
+<b>Forest Animal Stamp Set and cutter</b><br>
+<sub>by auremi</sub><br>
+<a href="https://makerworld.com/en/models/2436196-forest-animal-stamp-set-and-cutter">MakerWorld</a> &middot; <a href="2%2BCOLOR%2B-%2BFOREST%2BANIMALS.3mf">2+COLOR+-+FOREST+ANIMALS.3mf</a>
 </td>
 </tr>
 <tr>
 <td width="33%" align="center" valign="top">
-<a href="IcecreamSet.3mf"><img src="readme-images/icecreamset-3mf-d15e20a9.webp" width="240" alt="IcecreamSet"></a><br>
-<b>IcecreamSet</b><br>
-Source unknown &middot; <a href="IcecreamSet.3mf">IcecreamSet.3mf</a>
+<a href="Ice%2BCream%2BCone%2BSet%2B-%2BKids%2BPlay"><img src="readme-images/ice-cream-cone-set-kids-play-9c3f70b1.webp" width="240" alt="Ice Cream Cone Set - Kids Play Cafe"></a><br>
+<b>Ice Cream Cone Set - Kids Play Cafe</b><br>
+<sub>by SillySnax</sub><br>
+<a href="https://makerworld.com/en/models/986139-ice-cream-cone-set-kids-play-cafe">MakerWorld</a> &middot; <a href="Ice%2BCream%2BCone%2BSet%2B-%2BKids%2BPlay">Repo folder</a>
 </td>
 <td width="33%" align="center" valign="top">
-<i>no preview</i><br>
-<b>Play Doh Donut Maker</b><br>
-Source unknown &middot; <a href="play-doh_donut-maker">Repo folder</a>
+<a href="IcecreamSet.3mf"><img src="readme-images/icecreamset-3mf-d15e20a9.webp" width="240" alt="Ice Cream Cone Set - Kids Play Cafe"></a><br>
+<b>Ice Cream Cone Set - Kids Play Cafe</b><br>
+<sub>by SillySnax</sub><br>
+<a href="https://makerworld.com/en/models/986139-ice-cream-cone-set-kids-play-cafe">MakerWorld</a> &middot; <a href="IcecreamSet.3mf">IcecreamSet.3mf</a>
 </td>
 <td width="33%" align="center" valign="top">
-<a href="Play-Doh%2BPasta%2BRoller%2Bv2%2B-%2Bmulti-colour.3mf"><img src="readme-images/play-doh-pasta-roller-v2-multi-colour-3mf-cb144628.webp" width="240" alt="Play-Doh Pasta Roller v2 - multi-colour"></a><br>
-<b>Play-Doh Pasta Roller v2 - multi-colour</b><br>
-<a href="https://makerworld.com/en/search/models?keyword=Play-Doh%20Pasta%20Roller%20v2%20-%20multi-colour">Search MakerWorld</a> &middot; <a href="Play-Doh%2BPasta%2BRoller%2Bv2%2B-%2Bmulti-colour.3mf">Play-Doh+Pasta+Roller+v2+-+multi-colour.3mf</a>
+<a href="Play-Doh%2BPasta%2BRoller%2Bv2%2B-%2Bmulti-colour.3mf"><img src="readme-images/play-doh-pasta-roller-v2-multi-colour-3mf-cb144628.webp" width="240" alt="Modeling Dough Pasta Roller - v2"></a><br>
+<b>Modeling Dough Pasta Roller - v2</b><br>
+<sub>by entropy</sub><br>
+<a href="https://makerworld.com/en/models/2040646-modeling-dough-pasta-roller-v2">MakerWorld</a> &middot; <a href="Play-Doh%2BPasta%2BRoller%2Bv2%2B-%2Bmulti-colour.3mf">Play-Doh+Pasta+Roller+v2+-+multi-colour.3mf</a>
 </td>
 </tr>
 <tr>
+<td width="33%" align="center" valign="top">
+<a href="2%2Bcolor-%2Btrucks.3mf"><img src="readme-images/2-color-trucks-3mf-3895f3f1.webp" width="240" alt="PART 1 - Vehicle Stamp Set – Cars &amp; Construction "></a><br>
+<b>PART 1 - Vehicle Stamp Set – Cars &amp; Construction </b><br>
+<sub>by auremi</sub><br>
+<a href="https://makerworld.com/en/models/2306033-part-1-vehicle-stamp-set-cars-construction">MakerWorld</a> &middot; <a href="2%2Bcolor-%2Btrucks.3mf">2+color-+trucks.3mf</a>
+</td>
+<td width="33%" align="center" valign="top">
+<a href="play-doh_donut-maker"><img src="readme-images/play-doh-donut-maker-241269e4.webp" width="240" alt="Play doh ball maker and donuts"></a><br>
+<b>Play doh ball maker and donuts</b><br>
+<sub>by Pyciu</sub><br>
+<a href="https://makerworld.com/en/models/1107869-play-doh-ball-maker-and-donuts">MakerWorld</a> &middot; <a href="play-doh_donut-maker">Repo folder</a>
+</td>
 <td width="33%" align="center" valign="top">
 <a href="Play-Doh%2BPizza%2BCutter.3mf"><img src="readme-images/play-doh-pizza-cutter-3mf-418c50d5.webp" width="240" alt="Play-Doh Pizza Cutter"></a><br>
 <b>Play-Doh Pizza Cutter</b><br>
 <a href="https://makerworld.com/en/search/models?keyword=Play-Doh%20Pizza%20Cutter">Search MakerWorld</a> &middot; <a href="Play-Doh%2BPizza%2BCutter.3mf">Play-Doh+Pizza+Cutter.3mf</a>
 </td>
+</tr>
+<tr>
 <td width="33%" align="center" valign="top">
 <a href="Play-Doh%2BKnife.3mf"><img src="readme-images/play-doh-knife-3mf-44c6e054.webp" width="240" alt="Playdoh Knife"></a><br>
 <b>Playdoh Knife</b><br>
 <sub>by InnovateITx</sub><br>
 <a href="https://makerworld.com/en/models/736966-playdoh-knife">MakerWorld</a> &middot; <a href="Play-Doh%2BKnife.3mf">Play-Doh+Knife.3mf</a>
+</td>
+<td width="33%" align="center" valign="top">
+<a href="Bluey%2BPlay-Doh%2BRoller"><img src="readme-images/bluey-play-doh-roller-722f4139.webp" width="240" alt="Texture Roller V468 | Bluey"></a><br>
+<b>Texture Roller V468 | Bluey</b><br>
+<sub>by GravyRobber</sub><br>
+<a href="https://makerworld.com/en/models/3614816-texture-roller-v468-bluey">MakerWorld</a> &middot; <a href="Bluey%2BPlay-Doh%2BRoller">Repo folder</a>
 </td>
 <td width="33%" align="center" valign="top">
 <a href="Vehicles%2B-%2B2%2Bpart.3mf"><img src="readme-images/vehicles-2-part-3mf-5abf16ef.webp" width="240" alt="Vehicles - 2 part"></a><br>

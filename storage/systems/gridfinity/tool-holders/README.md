@@ -4,7 +4,7 @@
 
 [Home](../../../../README.md) / [Storage](../../../README.md) / [Systems](../../README.md) / [Gridfinity](../README.md) / **Tool Holders**
 
-106 builds &middot; 11 MakerWorld &middot; 69 Printables &middot; 1 Thingiverse &middot; 25 unknown source &middot; 6 collections (89 more builds)
+106 builds &middot; 13 MakerWorld &middot; 72 Printables &middot; 1 Thingiverse &middot; 20 unknown source &middot; 6 collections (89 more builds)
 
 ## Collections
 
@@ -38,12 +38,18 @@
 <a href="https://www.printables.com/model/237185-2-x-2-gridfinity-nippers-rack">Printables</a> &middot; <a href="2-x-2-gridfinity-nippers-rack-model_files">Repo folder</a>
 </td>
 <td width="33%" align="center" valign="top">
+<a href="amazing-gridfinity-m3-bolt-sorter-model_files.zip"><img src="readme-images/amazing-gridfinity-m3-bolt-sorter-model-files-zip-a504e67e.webp" width="240" alt="Amazing Gridfinity M3 Bolt Sorter"></a><br>
+<b>Amazing Gridfinity M3 Bolt Sorter</b><br>
+<sub>by LayerLux3D</sub><br>
+<a href="https://www.printables.com/model/874548-amazing-gridfinity-m3-bolt-sorter">Printables</a> &middot; <a href="amazing-gridfinity-m3-bolt-sorter-model_files.zip">amazing-gridfinity-m3-bolt-sorter-model_files.zip</a>
+</td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top">
 <a href="Bitfinity_%E2%80%93_Infinitely_Expandable_Drill_Bit_Storage_System_"><img src="readme-images/bitfinity-infinitely-expandable-drill-bit-storage-system-6d725432.png" width="240" alt="Bitfinity – Infinitely Expandable Drill Bit Storage System"></a><br>
 <b>Bitfinity – Infinitely Expandable Drill Bit Storage System</b><br>
 Source unknown &middot; <a href="Bitfinity_%E2%80%93_Infinitely_Expandable_Drill_Bit_Storage_System_">Repo folder</a>
 </td>
-</tr>
-<tr>
 <td width="33%" align="center" valign="top">
 <a href="brother-p-touch-tze-label-tape-gridfinity-storage-box-model_files"><img src="readme-images/brother-p-touch-tze-label-tape-gridfinity-storage-box-model-files-35f89e47.webp" width="240" alt="Brother P-touch TZe Label Tape Gridfinity Storage Box"></a><br>
 <b>Brother P-touch TZe Label Tape Gridfinity Storage Box</b><br>
@@ -51,10 +57,24 @@ Source unknown &middot; <a href="Bitfinity_%E2%80%93_Infinitely_Expandable_Drill
 <a href="https://www.printables.com/model/302028-brother-p-touch-tze-label-tape-gridfinity-storage-">Printables</a> &middot; <a href="brother-p-touch-tze-label-tape-gridfinity-storage-box-model_files">Repo folder</a>
 </td>
 <td width="33%" align="center" valign="top">
+<a href="byob-gridfinity-screw-sorter-bring-your-own-bins-model_files.zip"><img src="readme-images/byob-gridfinity-screw-sorter-bring-your-own-bins-model-files-zip-722c5a40.webp" width="240" alt="BYOB Gridfinity Screw Sorter - Bring Your Own Bins"></a><br>
+<b>BYOB Gridfinity Screw Sorter - Bring Your Own Bins</b><br>
+<sub>by Lndnny</sub><br>
+<a href="https://www.printables.com/model/900798-byob-gridfinity-screw-sorter-bring-your-own-bins">Printables</a> &middot; <a href="byob-gridfinity-screw-sorter-bring-your-own-bins-model_files.zip">byob-gridfinity-screw-sorter-bring-your-own-bins-model_files.zip</a>
+</td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top">
 <a href="caliper-stand-for-gridfinity-model_files"><img src="readme-images/caliper-stand-for-gridfinity-model-files-cb93b9db.webp" width="240" alt="Caliper Stand for Gridfinity"></a><br>
 <b>Caliper Stand for Gridfinity</b><br>
 <sub>by Clay</sub><br>
 <a href="https://www.printables.com/model/335654-caliper-stand-for-gridfinity">Printables</a> &middot; <a href="caliper-stand-for-gridfinity-model_files">Repo folder</a>
+</td>
+<td width="33%" align="center" valign="top">
+<a href="Gridfinity%20Bin%203x2x4%20Elegoo%20Vacuum%20Pump%20v1a.3mf"><img src="readme-images/gridfinity-bin-3x2x4-elegoo-vacuum-pump-v1a-3mf-6f71f698.webp" width="240" alt="Elegoo Vacuum Pump Gridfinity (3x2x4)"></a><br>
+<b>Elegoo Vacuum Pump Gridfinity (3x2x4)</b><br>
+<sub>by Jonas 949</sub><br>
+<a href="https://makerworld.com/en/models/1483922-elegoo-vacuum-pump-gridfinity-3x2x4">MakerWorld</a> &middot; <a href="Gridfinity%20Bin%203x2x4%20Elegoo%20Vacuum%20Pump%20v1a.3mf">Gridfinity Bin 3x2x4 Elegoo Vacuum Pump v1a.3mf</a>
 </td>
 <td width="33%" align="center" valign="top">
 <a href="ESP32%2BGridfinity"><img src="readme-images/esp32-gridfinity-c49ad36a.webp" width="240" alt="ESP32 Gridfinity"></a><br>
@@ -64,11 +84,6 @@ Source unknown &middot; <a href="Bitfinity_%E2%80%93_Infinitely_Expandable_Drill
 </td>
 </tr>
 <tr>
-<td width="33%" align="center" valign="top">
-<a href="Fast%2B-%2BALL%2BScrewdriver%2Bv6.3mf"><img src="readme-images/fast-all-screwdriver-v6-3mf-4a6d2fdc.webp" width="240" alt="Fast - ALL Screwdriver v6"></a><br>
-<b>Fast - ALL Screwdriver v6</b><br>
-<a href="https://makerworld.com/en/search/models?keyword=Fast%20-%20ALL%20Screwdriver%20v6">Search MakerWorld</a> &middot; <a href="Fast%2B-%2BALL%2BScrewdriver%2Bv6.3mf">Fast+-+ALL+Screwdriver+v6.3mf</a>
-</td>
 <td width="33%" align="center" valign="top">
 <i>no preview</i><br>
 <b>Fast - ALL Screwdriver v6</b><br>
@@ -80,19 +95,25 @@ Source unknown &middot; <a href="Bitfinity_%E2%80%93_Infinitely_Expandable_Drill
 <sub>by Miguel Camba</sub><br>
 <a href="https://www.printables.com/model/384125-ferrule-crimp-tool-gridfinity-tray">Printables</a> &middot; <a href="ferrule-crimp-tool-gridfinity-tray-model_files">Repo folder</a>
 </td>
-</tr>
-<tr>
 <td width="33%" align="center" valign="top">
 <a href="grab-and-go-gridfinity-sd-card-holder-model_files"><img src="readme-images/grab-and-go-gridfinity-sd-card-holder-model-files-bc19bcb7.webp" width="240" alt="Grab-and-Go Gridfinity SD card holder"></a><br>
 <b>Grab-and-Go Gridfinity SD card holder</b><br>
 <sub>by Jav.BR</sub><br>
 <a href="https://www.printables.com/model/292285-grab-and-go-gridfinity-sd-card-holder">Printables</a> &middot; <a href="grab-and-go-gridfinity-sd-card-holder-model_files">Repo folder</a>
 </td>
+</tr>
+<tr>
 <td width="33%" align="center" valign="top">
 <a href="gridfinity-griddex-c2032-battery-holder-model_files"><img src="readme-images/gridfinity-griddex-c2032-battery-holder-model-files-a2c4dae7.webp" width="240" alt="Gridfinity (Griddex) - C2032 Battery Holder"></a><br>
 <b>Gridfinity (Griddex) - C2032 Battery Holder</b><br>
 <sub>by Griddex</sub><br>
 <a href="https://www.printables.com/model/441425-gridfinity-griddex-c2032-battery-holder">Printables</a> &middot; <a href="gridfinity-griddex-c2032-battery-holder-model_files">Repo folder</a>
+</td>
+<td width="33%" align="center" valign="top">
+<a href="gridfinity-neiko-calipers.3mf"><img src="readme-images/gridfinity-neiko-calipers-3mf-248b0b94.webp" width="240" alt="Gridfinity - Neiko Calipers"></a><br>
+<b>Gridfinity - Neiko Calipers</b><br>
+<sub>by Michael</sub><br>
+<a href="https://makerworld.com/en/models/1271992-gridfinity-neiko-calipers">MakerWorld</a> &middot; <a href="gridfinity-neiko-calipers.3mf">gridfinity-neiko-calipers.3mf</a>
 </td>
 <td width="33%" align="center" valign="top">
 <a href="gridfinity-raspberry-pi-4-x3-holder-fusion-file-model_files"><img src="readme-images/gridfinity-raspberry-pi-4-x3-holder-fusion-file-model-files-66903b5b.webp" width="240" alt="Gridfinity - Raspberry Pi 4 (x3) holder + Fusion File"></a><br>
@@ -169,24 +190,19 @@ Source unknown &middot; <a href="Bitfinity_%E2%80%93_Infinitely_Expandable_Drill
 <a href="https://www.printables.com/model/341811-gridfinity-battery-trays-aa-aaa-aaaa-18650-cr123-c">Printables</a> &middot; <a href="gridfinity-battery-trays-aa-aaa-18650-cr123-9v-21700-model_files">Repo folder</a>
 </td>
 <td width="33%" align="center" valign="top">
-<a href="Gridfinity%20Bin%203x2x4%20Elegoo%20Vacuum%20Pump%20v1a.3mf"><img src="readme-images/gridfinity-bin-3x2x4-elegoo-vacuum-pump-v1a-3mf-6f71f698.webp" width="240" alt="Gridfinity Bin 3x2x4 Elegoo Vacuum Pump v1a"></a><br>
-<b>Gridfinity Bin 3x2x4 Elegoo Vacuum Pump v1a</b><br>
-Source unknown &middot; <a href="Gridfinity%20Bin%203x2x4%20Elegoo%20Vacuum%20Pump%20v1a.3mf">Gridfinity Bin 3x2x4 Elegoo Vacuum Pump v1a.3mf</a>
-</td>
-<td width="33%" align="center" valign="top">
 <a href="gridfinity-bit-holder-3x1-model_files"><img src="readme-images/gridfinity-bit-holder-3x1-model-files-352f8fb3.webp" width="240" alt="Gridfinity Bit Holder 3x1"></a><br>
 <b>Gridfinity Bit Holder 3x1</b><br>
 <sub>by Wolfgang Sagichnet</sub><br>
 <a href="https://www.printables.com/model/537829-gridfinity-bit-holder-3x1">Printables</a> &middot; <a href="gridfinity-bit-holder-3x1-model_files">Repo folder</a>
 </td>
-</tr>
-<tr>
 <td width="33%" align="center" valign="top">
 <a href="gridfinity-breadboard-holder-model_files"><img src="readme-images/gridfinity-breadboard-holder-model-files-729e3302.webp" width="240" alt="Gridfinity Breadboard Holder"></a><br>
 <b>Gridfinity Breadboard Holder</b><br>
 <sub>by daclasen</sub><br>
 <a href="https://www.printables.com/model/271937-gridfinity-breadboard-holder">Printables</a> &middot; <a href="gridfinity-breadboard-holder-model_files">Repo folder</a>
 </td>
+</tr>
+<tr>
 <td width="33%" align="center" valign="top">
 <a href="gridfinity-brother-p-touch-tz-tze-label-tape-holder-model_files"><img src="readme-images/gridfinity-brother-p-touch-tz-tze-label-tape-holder-model-files-c52142e7.webp" width="240" alt="Gridfinity Brother P-Touch TZ TZe Label Tape Holder"></a><br>
 <b>Gridfinity Brother P-Touch TZ TZe Label Tape Holder</b><br>
@@ -199,14 +215,14 @@ Source unknown &middot; <a href="Gridfinity%20Bin%203x2x4%20Elegoo%20Vacuum%20Pu
 <sub>by bimobutila</sub><br>
 <a href="https://makerworld.com/en/models/2469254-gridfinity-cable-holder">MakerWorld</a> &middot; <a href="gridfinity-cable-holder_stls">Repo folder</a>
 </td>
-</tr>
-<tr>
 <td width="33%" align="center" valign="top">
 <a href="gridfinity-caliper-box-model_files"><img src="readme-images/gridfinity-caliper-box-model-files-afb36d64.webp" width="240" alt="Gridfinity Caliper box"></a><br>
 <b>Gridfinity Caliper box</b><br>
 <sub>by UnoriginalElephant</sub><br>
 <a href="https://www.printables.com/model/299953-gridfinity-caliper-box">Printables</a> &middot; <a href="gridfinity-caliper-box-model_files">Repo folder</a>
 </td>
+</tr>
+<tr>
 <td width="33%" align="center" valign="top">
 <a href="gridfinity-caliper-holder-low-profileextra-storage-model_files"><img src="readme-images/gridfinity-caliper-holder-low-profileextra-storage-model-files-c0a3df34.webp" width="240" alt="Gridfinity Caliper Holder - Low profile/Extra Storage"></a><br>
 <b>Gridfinity Caliper Holder - Low profile/Extra Storage</b><br>
@@ -219,14 +235,14 @@ Source unknown &middot; <a href="Gridfinity%20Bin%203x2x4%20Elegoo%20Vacuum%20Pu
 <sub>by Beamsjr</sub><br>
 <a href="https://www.printables.com/model/430863-gridfinity-crimper-stand">Printables</a> &middot; <a href="gridfinity-crimper-stand-model_files">Repo folder</a>
 </td>
-</tr>
-<tr>
 <td width="33%" align="center" valign="top">
 <a href="gridfinity-deburring-tool-holder-w-low-profile-blade-storage-model_files"><img src="readme-images/gridfinity-deburring-tool-holder-w-low-profile-blade-storage-model-fil-4e004c11.webp" width="240" alt="Gridfinity Deburring Tool Holder w/ Low Profile Blade Storage"></a><br>
 <b>Gridfinity Deburring Tool Holder w/ Low Profile Blade Storage</b><br>
 <sub>by Yoni</sub><br>
 <a href="https://www.printables.com/model/433238-gridfinity-deburring-tool-holder-w-low-profile-bla">Printables</a> &middot; <a href="gridfinity-deburring-tool-holder-w-low-profile-blade-storage-model_files">Repo folder</a>
 </td>
+</tr>
+<tr>
 <td width="33%" align="center" valign="top">
 <a href="gridfinity-deburring-tool-holder-with-blade-storage-model_files"><img src="readme-images/gridfinity-deburring-tool-holder-with-blade-storage-model-files-5cd50fea.webp" width="240" alt="Gridfinity Deburring Tool Holder with Blade Storage"></a><br>
 <b>Gridfinity Deburring Tool Holder with Blade Storage</b><br>
@@ -238,14 +254,14 @@ Source unknown &middot; <a href="Gridfinity%20Bin%203x2x4%20Elegoo%20Vacuum%20Pu
 <b>Gridfinity Dremel Bit Storage</b><br>
 <a href="https://www.printables.com/model/502366">Printables</a> &middot; <a href="gridfinity-dremel-bit-storage-model_files">Repo folder</a>
 </td>
-</tr>
-<tr>
 <td width="33%" align="center" valign="top">
 <a href="gridfinity-dremel-bit-storage-print_files"><img src="readme-images/gridfinity-dremel-bit-storage-print-files-4d347937.webp" width="240" alt="Gridfinity dremel bit storage"></a><br>
 <b>Gridfinity dremel bit storage</b><br>
 <sub>by Fraham</sub><br>
 <a href="https://www.printables.com/model/375874-gridfinity-dremel-bit-storage">Printables</a> &middot; <a href="gridfinity-dremel-bit-storage-print_files">Repo folder</a>
 </td>
+</tr>
+<tr>
 <td width="33%" align="center" valign="top">
 <a href="gridfinity-engineer-ss-02-stand-model_files"><img src="readme-images/gridfinity-engineer-ss-02-stand-model-files-4f3defea.webp" width="240" alt="Gridfinity Engineer SS-02 stand"></a><br>
 <b>Gridfinity Engineer SS-02 stand</b><br>
@@ -258,14 +274,14 @@ Source unknown &middot; <a href="Gridfinity%20Bin%203x2x4%20Elegoo%20Vacuum%20Pu
 <sub>by Alexander</sub><br>
 <a href="https://www.printables.com/model/574139-gridfinity-esp32-holder">Printables</a> &middot; <a href="gridfinity-esp32-holder-model_files">Repo folder</a>
 </td>
-</tr>
-<tr>
 <td width="33%" align="center" valign="top">
 <a href="gridfinity-generic-devboard-holder-model_files"><img src="readme-images/gridfinity-generic-devboard-holder-model-files-0b1df8f1.webp" width="240" alt="Gridfinity Generic DevBoard Holder"></a><br>
 <b>Gridfinity Generic DevBoard Holder</b><br>
 <sub>by fhessel</sub><br>
 <a href="https://www.printables.com/model/486857-gridfinity-generic-devboard-holder">Printables</a> &middot; <a href="gridfinity-generic-devboard-holder-model_files">Repo folder</a>
 </td>
+</tr>
+<tr>
 <td width="33%" align="center" valign="top">
 <a href="gridfinity-generic-devboard-holder-print_files"><img src="readme-images/gridfinity-generic-devboard-holder-print-files-62038440.webp" width="240" alt="Gridfinity Generic DevBoard Holder"></a><br>
 <b>Gridfinity Generic DevBoard Holder</b><br>
@@ -278,14 +294,14 @@ Source unknown &middot; <a href="Gridfinity%20Bin%203x2x4%20Elegoo%20Vacuum%20Pu
 <sub>by Tache</sub><br>
 <a href="https://www.printables.com/model/454375-gridfinity-hex-bit-holders-with-larger-hex-holes">Printables</a> &middot; <a href="gridfinity-hex-bit-holders-with-larger-hex-holes-model_files">Repo folder</a>
 </td>
-</tr>
-<tr>
 <td width="33%" align="center" valign="top">
 <a href="gridfinity-magnet-dispenser-model_files"><img src="readme-images/gridfinity-magnet-dispenser-model-files-3092bc97.webp" width="240" alt="Gridfinity Magnet Dispenser"></a><br>
 <b>Gridfinity Magnet Dispenser</b><br>
 <sub>by Carl Belcher</sub><br>
 <a href="https://www.printables.com/model/418731-gridfinity-magnet-dispenser">Printables</a> &middot; <a href="gridfinity-magnet-dispenser-model_files">Repo folder</a>
 </td>
+</tr>
+<tr>
 <td width="33%" align="center" valign="top">
 <a href="gridfinity-magnet-stackable-battery-dispenser-model_files"><img src="readme-images/gridfinity-magnet-stackable-battery-dispenser-model-files-024c6b3e.webp" width="240" alt="Gridfinity magnet stackable battery dispenser"></a><br>
 <b>Gridfinity magnet stackable battery dispenser</b><br>
@@ -298,14 +314,14 @@ Source unknown &middot; <a href="Gridfinity%20Bin%203x2x4%20Elegoo%20Vacuum%20Pu
 <sub>by idenny1</sub><br>
 <a href="https://www.printables.com/model/245161-gridfinity-micro-sd-card-holder-1x1x3-added-step-f">Printables</a> &middot; <a href="gridfinity-micro-sd-card-holder-1x1x3-added-step-file-model_files">Repo folder</a>
 </td>
-</tr>
-<tr>
 <td width="33%" align="center" valign="top">
 <a href="gridfinity-needle-file-tray-model_files"><img src="readme-images/gridfinity-needle-file-tray-model-files-9abf7852.webp" width="240" alt="Gridfinity Needle File Tray"></a><br>
 <b>Gridfinity Needle File Tray</b><br>
 <sub>by UnoriginalElephant</sub><br>
 <a href="https://www.printables.com/model/298086-gridfinity-needle-file-tray">Printables</a> &middot; <a href="gridfinity-needle-file-tray-model_files">Repo folder</a>
 </td>
+</tr>
+<tr>
 <td width="33%" align="center" valign="top">
 <a href="Gridfinity%20Nippers%20Strippers%20Pliers%20Racks"><img src="readme-images/gridfinity-nippers-strippers-pliers-racks-51d2a810.webp" width="240" alt="Gridfinity Nippers + Strippers + Pliers Racks"></a><br>
 <b>Gridfinity Nippers + Strippers + Pliers Racks</b><br>
@@ -318,14 +334,14 @@ Source unknown &middot; <a href="Gridfinity%20Bin%203x2x4%20Elegoo%20Vacuum%20Pu
 <sub>by Caiman</sub><br>
 <a href="https://www.printables.com/model/240309-gridfinity-nozzle-holder">Printables</a> &middot; <a href="gridfinity-nozzle-holder-model_files">Repo folder</a>
 </td>
-</tr>
-<tr>
 <td width="33%" align="center" valign="top">
 <a href="Gridfinity%2BOscillating%2Btool%2Bblades%2Bw_%2Beject%2Blevers"><img src="readme-images/gridfinity-oscillating-tool-blades-w-eject-levers-549370cd.webp" width="240" alt="Gridfinity Oscillating tool blades w/ eject levers"></a><br>
 <b>Gridfinity Oscillating tool blades w/ eject levers</b><br>
 <sub>by Oclure</sub><br>
 <a href="https://makerworld.com/en/models/63887-gridfinity-oscillating-tool-blades-w-eject-levers">MakerWorld</a> &middot; <a href="Gridfinity%2BOscillating%2Btool%2Bblades%2Bw_%2Beject%2Blevers">Repo folder</a>
 </td>
+</tr>
+<tr>
 <td width="33%" align="center" valign="top">
 <i>no preview</i><br>
 <b>Gridfinity Parametric Bit Holders</b><br>
@@ -336,14 +352,14 @@ Source unknown &middot; <a href="Gridfinity%20Parametric%20Bit%20Holders">Repo f
 <b>Gridfinity Pick Tweezer Racks</b><br>
 Source unknown &middot; <a href="Gridfinity%20Pick%20Tweezer%20Racks">Repo folder</a>
 </td>
-</tr>
-<tr>
 <td width="33%" align="center" valign="top">
 <a href="gridfinity-pine-power-base-model_files"><img src="readme-images/gridfinity-pine-power-base-model-files-5c7bc94a.webp" width="240" alt="Gridfinity Pine Power Base"></a><br>
 <b>Gridfinity Pine Power Base</b><br>
 <sub>by Zor Prime</sub><br>
 <a href="https://www.printables.com/model/290193-gridfinity-pine-power-base">Printables</a> &middot; <a href="gridfinity-pine-power-base-model_files">Repo folder</a>
 </td>
+</tr>
+<tr>
 <td width="33%" align="center" valign="top">
 <a href="gridfinity-pinecil-tip-holder-model_files"><img src="readme-images/gridfinity-pinecil-tip-holder-model-files-143f55ca.webp" width="240" alt="Gridfinity Pinecil &amp; Tip holder"></a><br>
 <b>Gridfinity Pinecil &amp; Tip holder</b><br>
@@ -356,14 +372,14 @@ Source unknown &middot; <a href="Gridfinity%20Pick%20Tweezer%20Racks">Repo folde
 <sub>by Alex Is Making Things</sub><br>
 <a href="https://www.printables.com/model/479749-gridfinity-pinecil-ts100-stand">Printables</a> &middot; <a href="gridfinity-pinecil-ts100-stand-model_files">Repo folder</a>
 </td>
-</tr>
-<tr>
 <td width="33%" align="center" valign="top">
 <a href="gridfinity-pinecil-9-tip-holder-model_files"><img src="readme-images/gridfinity-pinecil-9-tip-holder-model-files-cfd8faca.webp" width="240" alt="Gridfinity Pinecil 9 Tip Holder"></a><br>
 <b>Gridfinity Pinecil 9 Tip Holder</b><br>
 <sub>by Software2</sub><br>
 <a href="https://www.printables.com/model/435688-gridfinity-pinecil-9-tip-holder">Printables</a> &middot; <a href="gridfinity-pinecil-9-tip-holder-model_files">Repo folder</a>
 </td>
+</tr>
+<tr>
 <td width="33%" align="center" valign="top">
 <a href="gridfinity-pinecil-case-holder-model_files"><img src="readme-images/gridfinity-pinecil-case-holder-model-files-271eb5c8.webp" width="240" alt="Gridfinity Pinecil Case Holder"></a><br>
 <b>Gridfinity Pinecil Case Holder</b><br>
@@ -376,14 +392,14 @@ Source unknown &middot; <a href="Gridfinity%20Pick%20Tweezer%20Racks">Repo folde
 <sub>by Clay</sub><br>
 <a href="https://www.printables.com/model/334247-gridfinity-pliers-rack">Printables</a> &middot; <a href="gridfinity-pliers-rack-model_files">Repo folder</a>
 </td>
-</tr>
-<tr>
 <td width="33%" align="center" valign="top">
 <a href="gridfinity-pliers-racks-mega-pack-92-different-sizes-model_files"><img src="readme-images/gridfinity-pliers-racks-mega-pack-92-different-sizes-model-files-57595b0e.webp" width="240" alt="Gridfinity Pliers Racks Mega Pack (92 different Sizes)"></a><br>
 <b>Gridfinity Pliers Racks Mega Pack (92 different Sizes)</b><br>
 <sub>by Clay</sub><br>
 <a href="https://www.printables.com/model/493770-gridfinity-pliers-racks-mega-pack-92-different-siz">Printables</a> &middot; <a href="gridfinity-pliers-racks-mega-pack-92-different-sizes-model_files">Repo folder</a>
 </td>
+</tr>
+<tr>
 <td width="33%" align="center" valign="top">
 <a href="gridfinity-pliers-wrack-small-model_files"><img src="readme-images/gridfinity-pliers-wrack-small-model-files-d10c3d50.webp" width="240" alt="Gridfinity Pliers Wrack (Small)"></a><br>
 <b>Gridfinity Pliers Wrack (Small)</b><br>
@@ -396,14 +412,14 @@ Source unknown &middot; <a href="Gridfinity%20Pick%20Tweezer%20Racks">Repo folde
 <sub>by Demig</sub><br>
 <a href="https://makerworld.com/en/models/612167-gridfinity-pliers-tool-rack-70-sizes-with-pin">MakerWorld</a> &middot; <a href="Gridfinity%2Bpliers_tool%2Brack%2B70%2Bsizes%2B(with%2Bpin)">Repo folder</a>
 </td>
-</tr>
-<tr>
 <td width="33%" align="center" valign="top">
 <a href="gridfinity-ratchet-holder-hyper-tough-14-20-piece-4x3x3-model_files"><img src="readme-images/gridfinity-ratchet-holder-hyper-tough-14-20-piece-4x3x3-model-files-e91a2fb9.webp" width="240" alt="Gridfinity Ratchet Holder - Hyper Tough 1/4 20-Piece - 4x3x3"></a><br>
 <b>Gridfinity Ratchet Holder - Hyper Tough 1/4 20-Piece - 4x3x3</b><br>
 <sub>by ed3d</sub><br>
 <a href="https://www.printables.com/model/494188-gridfinity-ratchet-holder-hyper-tough-14-20-piece-">Printables</a> &middot; <a href="gridfinity-ratchet-holder-hyper-tough-14-20-piece-4x3x3-model_files">Repo folder</a>
 </td>
+</tr>
+<tr>
 <td width="33%" align="center" valign="top">
 <a href="gridfinity-sandpaperholder-model_files"><img src="readme-images/gridfinity-sandpaperholder-model-files-7b6401fd.webp" width="240" alt="Gridfinity Sandpaperholder"></a><br>
 <b>Gridfinity Sandpaperholder</b><br>
@@ -416,14 +432,14 @@ Source unknown &middot; <a href="Gridfinity%20Pick%20Tweezer%20Racks">Repo folde
 <sub>by XanderShade01</sub><br>
 <a href="https://www.printables.com/model/299701-gridfinity-sharpie-storage-block-tip-down-with-cli">Printables</a> &middot; <a href="gridfinity-sharpie-storage-block-tip-down-with-clips-version-model_files">Repo folder</a>
 </td>
-</tr>
-<tr>
 <td width="33%" align="center" valign="top">
 <a href="gridfinity-socket-holders-14-and-38-model_files"><img src="readme-images/gridfinity-socket-holders-14-and-38-model-files-b8be1a4e.webp" width="240" alt="Gridfinity Socket Holders, 1/4&quot; and 3/8&quot;"></a><br>
 <b>Gridfinity Socket Holders, 1/4&quot; and 3/8&quot;</b><br>
 <sub>by jcj99</sub><br>
 <a href="https://www.printables.com/model/614374-gridfinity-socket-holders-14-and-38">Printables</a> &middot; <a href="gridfinity-socket-holders-14-and-38-model_files">Repo folder</a>
 </td>
+</tr>
+<tr>
 <td width="33%" align="center" valign="top">
 <a href="gridfinity-storage-for-7-piece-bondhus-balldriver-set-model_files"><img src="readme-images/gridfinity-storage-for-7-piece-bondhus-balldriver-set-model-files-836ca32a.webp" width="240" alt="Gridfinity Storage For 7 Piece Bondhus Balldriver Set"></a><br>
 <b>Gridfinity Storage For 7 Piece Bondhus Balldriver Set</b><br>
@@ -436,13 +452,19 @@ Source unknown &middot; <a href="Gridfinity%20Pick%20Tweezer%20Racks">Repo folde
 <sub>by Barebaric</sub><br>
 <a href="https://www.printables.com/model/301673-gridfinity-tool-holder-collection">Printables</a> &middot; <a href="gridfinity-tool-holder-collection-model_files">Repo folder</a>
 </td>
-</tr>
-<tr>
 <td width="33%" align="center" valign="top">
 <a href="Gridfinity%20Toolbox%20Parametric"><img src="readme-images/gridfinity-toolbox-parametric-fb93f4a8.webp" width="240" alt="Gridfinity Toolbox (Parametric)"></a><br>
 <b>Gridfinity Toolbox (Parametric)</b><br>
 <sub>by classy</sub><br>
 <a href="https://www.printables.com/model/204907-gridfinity-toolbox-parametric">Printables</a> &middot; <a href="Gridfinity%20Toolbox%20Parametric">Repo folder</a>
+</td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top">
+<a href="Fast%2B-%2BALL%2BScrewdriver%2Bv6.3mf"><img src="readme-images/fast-all-screwdriver-v6-3mf-4a6d2fdc.webp" width="240" alt="Gridfinity Universal Screwdriver Trays"></a><br>
+<b>Gridfinity Universal Screwdriver Trays</b><br>
+<sub>by snjames316</sub><br>
+<a href="https://makerworld.com/en/models/624327-gridfinity-universal-screwdriver-trays">MakerWorld</a> &middot; <a href="Fast%2B-%2BALL%2BScrewdriver%2Bv6.3mf">Fast+-+ALL+Screwdriver+v6.3mf</a>
 </td>
 <td width="33%" align="center" valign="top">
 <a href="Gridfinity%2BUniversal%2BWera%2BScrewdriver%2BInserts"><img src="readme-images/gridfinity-universal-wera-screwdriver-inserts-b18a0206.webp" width="240" alt="Gridfinity Universal Wera Screwdriver Inserts"></a><br>
@@ -508,18 +530,13 @@ Source unknown &middot; <a href="Gridfinity%20Pick%20Tweezer%20Racks">Repo folde
 <a href="https://www.printables.com/model/436079-gridfinity-x-smd-magazine">Printables</a> &middot; <a href="gridfinity-x-smd-magazine-model_files">Repo folder</a>
 </td>
 <td width="33%" align="center" valign="top">
-<a href="gridfinity-neiko-calipers.3mf"><img src="readme-images/gridfinity-neiko-calipers-3mf-248b0b94.webp" width="240" alt="gridfinity-neiko-calipers"></a><br>
-<b>gridfinity-neiko-calipers</b><br>
-Source unknown &middot; <a href="gridfinity-neiko-calipers.3mf">gridfinity-neiko-calipers.3mf</a>
-</td>
-</tr>
-<tr>
-<td width="33%" align="center" valign="top">
 <a href="hinged-sd-microsd-card-box-gridfinity-compatible-latching-print-in-place-model_files"><img src="readme-images/hinged-sd-microsd-card-box-gridfinity-compatible-latching-print-in-pla-ae839bb5.webp" width="240" alt="Hinged SD / microSD Card Box - Gridfinity compatible, latching, print-in-place"></a><br>
 <b>Hinged SD / microSD Card Box - Gridfinity compatible, latching, print-in-place</b><br>
 <sub>by nerdpersonthing</sub><br>
 <a href="https://www.printables.com/model/1006155-hinged-sd-microsd-card-box-gridfinity-compatible-l">Printables</a> &middot; <a href="hinged-sd-microsd-card-box-gridfinity-compatible-latching-print-in-place-model_files">Repo folder</a>
 </td>
+</tr>
+<tr>
 <td width="33%" align="center" valign="top">
 <a href="jabra-elite-gridfinity-holder-model_files"><img src="readme-images/jabra-elite-gridfinity-holder-model-files-0ebef0a5.webp" width="240" alt="Jabra Elite Gridfinity holder"></a><br>
 <b>Jabra Elite Gridfinity holder</b><br>
@@ -532,14 +549,14 @@ Source unknown &middot; <a href="gridfinity-neiko-calipers.3mf">gridfinity-neiko
 <sub>by YucA</sub><br>
 <a href="https://www.printables.com/model/466372-low-profile-gridfinity-pittsburgh-combination-wren">Printables</a> &middot; <a href="low-profile-gridfinity-pittsburgh-combination-wrench-set-holder-model_files">Repo folder</a>
 </td>
-</tr>
-<tr>
 <td width="33%" align="center" valign="top">
 <a href="Modular_chisel_rack_system_4559163"><img src="Modular_chisel_rack_system_4559163/images/Chisel_Rack_Blades.png" width="240" alt="Modular chisel rack system"></a><br>
 <b>Modular chisel rack system</b><br>
 <sub>by A513055</sub><br>
 <a href="https://www.thingiverse.com/thing:4559163">Thingiverse</a> &middot; <a href="Modular_chisel_rack_system_4559163">Repo folder</a>
 </td>
+</tr>
+<tr>
 <td width="33%" align="center" valign="top">
 <a href="pinecil-organizer-with-gridfinity-support-model_files"><img src="readme-images/pinecil-organizer-with-gridfinity-support-model-files-bee15dee.webp" width="240" alt="Pinecil organizer with Gridfinity support"></a><br>
 <b>Pinecil organizer with Gridfinity support</b><br>
@@ -552,19 +569,25 @@ Source unknown &middot; <a href="gridfinity-neiko-calipers.3mf">gridfinity-neiko
 <sub>by Dave.the.Borg</sub><br>
 <a href="https://makerworld.com/en/models/1046951-plier-set-holder-gridfinity-shows-tekton">MakerWorld</a> &middot; <a href="Plier%2BSet%2BHolder%2BGridfinity%2B(shows%2BTekton)">Repo folder</a>
 </td>
-</tr>
-<tr>
 <td width="33%" align="center" valign="top">
 <a href="solder-sucker-ss-02-gridfinity-model_files"><img src="readme-images/solder-sucker-ss-02-gridfinity-model-files-ca679489.webp" width="240" alt="solder sucker ss-02 gridfinity"></a><br>
 <b>solder sucker ss-02 gridfinity</b><br>
 <sub>by LutraVulgaris</sub><br>
 <a href="https://www.printables.com/model/527736-solder-sucker-ss-02-gridfinity">Printables</a> &middot; <a href="solder-sucker-ss-02-gridfinity-model_files">Repo folder</a>
 </td>
+</tr>
+<tr>
 <td width="33%" align="center" valign="top">
 <a href="Soldering%2Bstation_%2Bwork%2Bstation%2Bfor%2BGridfinity"><img src="readme-images/soldering-station-work-station-for-gridfinity-886e3479.webp" width="240" alt="Soldering station/ work station for Gridfinity"></a><br>
 <b>Soldering station/ work station for Gridfinity</b><br>
 <sub>by Dan._.KKing</sub><br>
 <a href="https://makerworld.com/en/models/880227-soldering-station-work-station-for-gridfinity">MakerWorld</a> &middot; <a href="Soldering%2Bstation_%2Bwork%2Bstation%2Bfor%2BGridfinity">Repo folder</a>
+</td>
+<td width="33%" align="center" valign="top">
+<a href="wera-l-key-gridfinity-holders-model_files.zip"><img src="readme-images/wera-l-key-gridfinity-holders-model-files-zip-e220506c.webp" width="240" alt="Wera L Key Gridfinity Holders"></a><br>
+<b>Wera L Key Gridfinity Holders</b><br>
+<sub>by qjrs</sub><br>
+<a href="https://www.printables.com/model/1071415-wera-l-key-gridfinity-holders">Printables</a> &middot; <a href="wera-l-key-gridfinity-holders-model_files.zip">wera-l-key-gridfinity-holders-model_files.zip</a>
 </td>
 <td width="33%" align="center" valign="top">
 <a href="wire-holder-gridfinity-model_files"><img src="readme-images/wire-holder-gridfinity-model-files-fd81aa93.webp" width="240" alt="Wire Holder Gridfinity"></a><br>
@@ -575,13 +598,11 @@ Source unknown &middot; <a href="gridfinity-neiko-calipers.3mf">gridfinity-neiko
 </tr>
 </table>
 
-<details><summary>Other files in this folder (21)</summary>
+<details><summary>Other files in this folder (18)</summary>
 
 - [6x Solder Wire Spool Holder 3x2.stl](6x%20Solder%20Wire%20Spool%20Holder%203x2.stl)
-- [amazing-gridfinity-m3-bolt-sorter-model_files.zip](amazing-gridfinity-m3-bolt-sorter-model_files.zip)
 - [Arduino Uno Holder 2x1.stl](Arduino%20Uno%20Holder%202x1.stl)
 - [Brother Label 3x5.stl](Brother%20Label%203x5.stl)
-- [byob-gridfinity-screw-sorter-bring-your-own-bins-model_files.zip](byob-gridfinity-screw-sorter-bring-your-own-bins-model_files.zip)
 - [Debur Case Gridfinity.stl](Debur%20Case%20Gridfinity.stl)
 - [GridFinity - brother-p-touch-tz-tze-label-tape-holder-10x v1.stl](GridFinity%20-%20brother-p-touch-tz-tze-label-tape-holder-10x%20v1.stl)
 - [Gridfinity 2x1 10xAA Battery Holder v1.stl](Gridfinity%202x1%2010xAA%20Battery%20Holder%20v1.stl)
@@ -597,7 +618,6 @@ Source unknown &middot; <a href="gridfinity-neiko-calipers.3mf">gridfinity-neiko
 - [Round+Tool+Holding+Inserts+for+Gridfinity+Bins.zip](Round%2BTool%2BHolding%2BInserts%2Bfor%2BGridfinity%2BBins.zip)
 - [Vertical Breadboard Holder.stl](Vertical%20Breadboard%20Holder.stl)
 - [wera holder - Daave Remix.stl](wera%20holder%20-%20Daave%20Remix.stl)
-- [wera-l-key-gridfinity-holders-model_files.zip](wera-l-key-gridfinity-holders-model_files.zip)
 
 </details>
 

@@ -4,7 +4,7 @@
 
 [Home](../../../README.md) / [Electrical](../../README.md) / [Soldering](../README.md) / **Wire Holder**
 
-4 builds &middot; 1 MakerWorld &middot; 2 Printables &middot; 1 unknown source
+4 builds &middot; 1 MakerWorld &middot; 2 Printables &middot; 1 Thingiverse
 
 ## Wire Holder
 
@@ -28,11 +28,13 @@
 <a href="https://www.printables.com/model/740481-modular-wire-spool-stack">Printables</a> &middot; <a href="modular-wire-spool-stack-model_files">Repo folder</a>
 </td>
 </tr>
+<tr>
+<td width="33%" align="center" valign="top">
+<a href="Solder_Cableholder_1203831.zip"><img src="readme-images/solder-cableholder-1203831-zip-a46b7c99.webp" width="240" alt="Solder Cableholder"></a><br>
+<b>Solder Cableholder</b><br>
+<sub>by Landin81</sub><br>
+<a href="https://www.thingiverse.com/thing:1203831">Thingiverse</a> &middot; <a href="Solder_Cableholder_1203831.zip">Solder_Cableholder_1203831.zip</a>
+</td>
+</tr>
 </table>
-
-<details><summary>Other files in this folder (1)</summary>
-
-- [Solder_Cableholder_1203831.zip](Solder_Cableholder_1203831.zip)
-
-</details>
 

@@ -22,13 +22,19 @@ Source unknown &middot; <a href="3D_Printed___Laser_Cut%2C_Lil-CNC_Mill_ACv2">Re
 <a href="https://www.thingiverse.com/thing:4148260">Thingiverse</a> &middot; <a href="DREMEL_Drill_Press__Very_strong_and_precise___4148260">Repo folder</a>
 </td>
 <td width="33%" align="center" valign="top">
+<a href="Vertical%2BMilling%2BMachine.3mf"><img src="readme-images/vertical-milling-machine-3mf-7e3ed640.webp" width="240" alt="Functional Vertical Milling Machine"></a><br>
+<b>Functional Vertical Milling Machine</b><br>
+<sub>by Carman3D</sub><br>
+<a href="https://makerworld.com/en/models/211839-functional-vertical-milling-machine">MakerWorld</a> &middot; <a href="Vertical%2BMilling%2BMachine.3mf">Vertical+Milling+Machine.3mf</a>
+</td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top">
 <a href="Gollum_-_MiniCNC"><img src="Gollum_-_MiniCNC/images/53341f711478d3a194d24fa1afa4812f_preview_featured.jpg" width="240" alt="Gollum - MiniCNC"></a><br>
 <b>Gollum - MiniCNC</b><br>
 <sub>by cyryllo</sub><br>
 <a href="https://www.thingiverse.com/thing:2551625">Thingiverse</a> &middot; <a href="Gollum_-_MiniCNC">Repo folder</a>
 </td>
-</tr>
-<tr>
 <td width="33%" align="center" valign="top">
 <i>no preview</i><br>
 <b>Mini Sanding And Sharpening Machine</b><br>
@@ -40,14 +46,14 @@ Source unknown &middot; <a href="3D_Printed___Laser_Cut%2C_Lil-CNC_Mill_ACv2">Re
 <sub>by RCMakerLab</sub><br>
 <a href="https://www.printables.com/model/719964-powerful-useful-3d-mini-saw">Printables</a> &middot; <a href="powerful-useful-3d-mini-saw-model_files">Repo folder</a>
 </td>
+</tr>
+<tr>
 <td width="33%" align="center" valign="top">
 <a href="RS-CNC__the_new_model_of_R-CNC"><img src="RS-CNC__the_new_model_of_R-CNC/images/05f3683b0717056e53d505ed99f19472_preview_featured.jpg" width="240" alt="RS-CNC , the new model of R-CNC"></a><br>
 <b>RS-CNC , the new model of R-CNC</b><br>
 <sub>by RoMaker</sub><br>
 <a href="https://www.thingiverse.com/thing:3010914">Thingiverse</a> &middot; <a href="RS-CNC__the_new_model_of_R-CNC">Repo folder</a>
 </td>
-</tr>
-<tr>
 <td width="33%" align="center" valign="top">
 <a href="Table_SAW"><img src="Table_SAW/images/030d7e8e966169ab4c7f67c291c333f4_preview_featured.jpg" width="240" alt="Table SAW"></a><br>
 <b>Table SAW</b><br>
@@ -60,18 +66,13 @@ Source unknown &middot; <a href="3D_Printed___Laser_Cut%2C_Lil-CNC_Mill_ACv2">Re
 <sub>by Fearless</sub><br>
 <a href="https://www.printables.com/model/708684-table-saw-for-dremel">Printables</a> &middot; <a href="table-saw-for-dremel-model_files">Repo folder</a>
 </td>
+</tr>
+<tr>
 <td width="33%" align="center" valign="top">
 <a href="Table_saw_for_Dremel_4000_with_drill_bracket_Fixed_"><img src="Table_saw_for_Dremel_4000_with_drill_bracket_Fixed_/images/0611374e7c0b41507a60ee410ed8965a_preview_featured.jpg" width="240" alt="Table saw for Dremel 4000 (with drill bracket Fixed)"></a><br>
 <b>Table saw for Dremel 4000 (with drill bracket Fixed)</b><br>
 <sub>by oikos</sub><br>
 <a href="https://www.thingiverse.com/thing:670704">Thingiverse</a> &middot; <a href="Table_saw_for_Dremel_4000_with_drill_bracket_Fixed_">Repo folder</a>
-</td>
-</tr>
-<tr>
-<td width="33%" align="center" valign="top">
-<a href="Vertical%2BMilling%2BMachine.3mf"><img src="readme-images/vertical-milling-machine-3mf-7e3ed640.webp" width="240" alt="Vertical Milling Machine"></a><br>
-<b>Vertical Milling Machine</b><br>
-<a href="https://makerworld.com/en/search/models?keyword=Vertical%20Milling%20Machine">Search MakerWorld</a> &middot; <a href="Vertical%2BMilling%2BMachine.3mf">Vertical+Milling+Machine.3mf</a>
 </td>
 <td width="33%" align="center" valign="top">
 <i>no preview</i><br>

@@ -21,9 +21,10 @@
 <a href="https://makerworld.com/en/search/models?keyword=KYZ%20oG%20Vase%20Mode%20Round%20Cups%20-%20Standard">Search MakerWorld</a> &middot; <a href="KYZ%2BoG%2BVase%2BMode%2BRound%2BCups%2B-%2BStandard_stls">Repo folder</a>
 </td>
 <td width="33%" align="center" valign="top">
-<a href="KYZ%2BTool%2BTower.3mf"><img src="readme-images/kyz-tool-tower-3mf-87bc05aa.webp" width="240" alt="KYZ Tool Tower"></a><br>
-<b>KYZ Tool Tower</b><br>
-<a href="https://makerworld.com/en/search/models?keyword=KYZ%20Tool%20Tower">Search MakerWorld</a> &middot; <a href="KYZ%2BTool%2BTower.3mf">KYZ+Tool+Tower.3mf</a>
+<a href="KYZ%2BTool%2BTower.3mf"><img src="readme-images/kyz-tool-tower-3mf-87bc05aa.webp" width="240" alt="Tool Tower: Modular openGrid Desktop Organizer"></a><br>
+<b>Tool Tower: Modular openGrid Desktop Organizer</b><br>
+<sub>by KYZ Design</sub><br>
+<a href="https://makerworld.com/en/models/1869072-tool-tower-modular-opengrid-desktop-organizer">MakerWorld</a> &middot; <a href="KYZ%2BTool%2BTower.3mf">KYZ+Tool+Tower.3mf</a>
 </td>
 </tr>
 </table>

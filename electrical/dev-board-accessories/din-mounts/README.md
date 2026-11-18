@@ -4,7 +4,7 @@
 
 [Home](../../../README.md) / [Electrical](../../README.md) / [Dev Board Accessories](../README.md) / **Din Mounts**
 
-29 builds &middot; 16 Printables &middot; 2 Thingiverse &middot; 11 unknown source
+29 builds &middot; 17 Printables &middot; 4 Thingiverse &middot; 8 unknown source
 
 ## Din Mounts
 
@@ -22,19 +22,33 @@
 Source unknown &middot; <a href="files">Repo folder</a>
 </td>
 <td width="33%" align="center" valign="top">
+<a href="DIN%20Mounts_%20Pi%2C%20Arduino%20and%20disks%20-%202610621%20-%20part%201%20of%202.zip"><img src="readme-images/din-mounts-pi-arduino-and-disks-2610621-part-1-of-2-zip-26693acd.webp" width="240" alt="DIN Mounts: Pi, Arduino and disks"></a><br>
+<b>DIN Mounts: Pi, Arduino and disks</b><br>
+<sub>by imstrng</sub><br>
+<a href="https://www.thingiverse.com/thing:2610621">Thingiverse</a> &middot; <a href="DIN%20Mounts_%20Pi%2C%20Arduino%20and%20disks%20-%202610621%20-%20part%201%20of%202.zip">DIN Mounts_ Pi, Arduino and disks - 2610621 - part 1 of 2.zip</a>
+</td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top">
+<a href="DIN%20Mounts_%20Pi%2C%20Arduino%20and%20disks%20-%202610621%20-%20part%202%20of%202.zip"><img src="readme-images/din-mounts-pi-arduino-and-disks-2610621-part-2-of-2-zip-6179ebfa.webp" width="240" alt="DIN Mounts: Pi, Arduino and disks"></a><br>
+<b>DIN Mounts: Pi, Arduino and disks</b><br>
+<sub>by imstrng</sub><br>
+<a href="https://www.thingiverse.com/thing:2610621">Thingiverse</a> &middot; <a href="DIN%20Mounts_%20Pi%2C%20Arduino%20and%20disks%20-%202610621%20-%20part%202%20of%202.zip">DIN Mounts_ Pi, Arduino and disks - 2610621 - part 2 of 2.zip</a>
+</td>
+<td width="33%" align="center" valign="top">
 <a href="din-rail-35mm-prototyp-rack-carrier-model_files"><img src="readme-images/din-rail-35mm-prototyp-rack-carrier-model-files-95746bc5.webp" width="240" alt="DIN Rail - 35mm - Prototyp Rack / Carrier"></a><br>
 <b>DIN Rail - 35mm - Prototyp Rack / Carrier</b><br>
 <sub>by hakan.g</sub><br>
 <a href="https://www.printables.com/model/222042-din-rail-35mm-prototyp-rack-carrier">Printables</a> &middot; <a href="din-rail-35mm-prototyp-rack-carrier-model_files">Repo folder</a>
 </td>
-</tr>
-<tr>
 <td width="33%" align="center" valign="top">
 <a href="din-rail-bracket-heat-insert-version-525mm-625mm-model_files"><img src="readme-images/din-rail-bracket-heat-insert-version-525mm-625mm-model-files-a092d38a.webp" width="240" alt="DIN Rail Bracket - Heat Insert Version - 52.5mm &amp; 62.5mm"></a><br>
 <b>DIN Rail Bracket - Heat Insert Version - 52.5mm &amp; 62.5mm</b><br>
 <sub>by mmuellerphoto</sub><br>
 <a href="https://www.printables.com/model/420009-din-rail-bracket-heat-insert-version-525mm-625mm">Printables</a> &middot; <a href="din-rail-bracket-heat-insert-version-525mm-625mm-model_files">Repo folder</a>
 </td>
+</tr>
+<tr>
 <td width="33%" align="center" valign="top">
 <a href="din-rail-bracket-m3-inserts-model_files"><img src="readme-images/din-rail-bracket-m3-inserts-model-files-6449bcb9.webp" width="240" alt="DIN Rail Bracket M3 inserts"></a><br>
 <b>DIN Rail Bracket M3 inserts</b><br>
@@ -47,19 +61,25 @@ Source unknown &middot; <a href="files">Repo folder</a>
 <sub>by ctheroux</sub><br>
 <a href="https://www.printables.com/model/629343-din-rail-breadboard-mounts">Printables</a> &middot; <a href="din-rail-breadboard-mounts-model_files">Repo folder</a>
 </td>
-</tr>
-<tr>
 <td width="33%" align="center" valign="top">
 <a href="din-rail-case-for-stm32-nucleo-64-boards-model_files"><img src="readme-images/din-rail-case-for-stm32-nucleo-64-boards-model-files-6df88fb7.webp" width="240" alt="Din rail case for STM32 Nucleo-64 Boards"></a><br>
 <b>Din rail case for STM32 Nucleo-64 Boards</b><br>
 <sub>by PlasticXYZ</sub><br>
 <a href="https://www.printables.com/model/161725-din-rail-case-for-stm32-nucleo-64-boards">Printables</a> &middot; <a href="din-rail-case-for-stm32-nucleo-64-boards-model_files">Repo folder</a>
 </td>
+</tr>
+<tr>
 <td width="33%" align="center" valign="top">
 <a href="din-rail-clip-model_files"><img src="readme-images/din-rail-clip-model-files-0bd75781.webp" width="240" alt="DIN rail clip"></a><br>
 <b>DIN rail clip</b><br>
 <sub>by PlasticXYZ</sub><br>
 <a href="https://www.printables.com/model/161740-din-rail-clip">Printables</a> &middot; <a href="din-rail-clip-model_files">Repo folder</a>
+</td>
+<td width="33%" align="center" valign="top">
+<a href="din-rail-mount-for-nucleo-64-model_files.zip"><img src="readme-images/din-rail-mount-for-nucleo-64-model-files-zip-632a26ab.webp" width="240" alt="DIN Rail mount for Nucleo-64"></a><br>
+<b>DIN Rail mount for Nucleo-64</b><br>
+<sub>by jacek</sub><br>
+<a href="https://www.printables.com/model/169302-din-rail-mount-for-nucleo-64">Printables</a> &middot; <a href="din-rail-mount-for-nucleo-64-model_files.zip">din-rail-mount-for-nucleo-64-model_files.zip</a>
 </td>
 <td width="33%" align="center" valign="top">
 <a href="din-rail-test-rack-model_files"><img src="readme-images/din-rail-test-rack-model-files-e55f9a9e.webp" width="240" alt="DIN rail test rack"></a><br>
@@ -138,16 +158,13 @@ Source unknown &middot; <a href="files">Repo folder</a>
 </tr>
 </table>
 
-<details><summary>Other files in this folder (10)</summary>
+<details><summary>Other files in this folder (7)</summary>
 
 - [3d-din-rail-mount-clip2.scad](3d-din-rail-mount-clip2.scad)
 - [3d-din-rail-mount-clip2.stl](3d-din-rail-mount-clip2.stl)
 - [arduino UNO din mount.stl](arduino%20UNO%20din%20mount.stl)
 - [Arduino_Nano_din_mount.stl](Arduino_Nano_din_mount.stl)
-- [DIN Mounts_ Pi, Arduino and disks - 2610621 - part 1 of 2.zip](DIN%20Mounts_%20Pi%2C%20Arduino%20and%20disks%20-%202610621%20-%20part%201%20of%202.zip)
-- [DIN Mounts_ Pi, Arduino and disks - 2610621 - part 2 of 2.zip](DIN%20Mounts_%20Pi%2C%20Arduino%20and%20disks%20-%202610621%20-%20part%202%20of%202.zip)
 - [din-breadboard-clip.stl](din-breadboard-clip.stl)
-- [din-rail-mount-for-nucleo-64-model_files.zip](din-rail-mount-for-nucleo-64-model_files.zip)
 - [DIN_Rail_Clip_Universal_opt5 v6.3mf](DIN_Rail_Clip_Universal_opt5%20v6.3mf)
 - [Sabrent USB Hub Holder_w_DIN_Holes_Recessed.f3d](Sabrent%20USB%20Hub%20Holder_w_DIN_Holes_Recessed.f3d)
 

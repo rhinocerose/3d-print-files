@@ -4,7 +4,7 @@
 
 [Home](../../../README.md) / [Storage](../../README.md) / [Systems](../README.md) / **Opengrid**
 
-11 builds &middot; 7 MakerWorld &middot; 4 unknown source &middot; 6 collections (30 more builds)
+11 builds &middot; 10 MakerWorld &middot; 1 unknown source &middot; 6 collections (30 more builds)
 
 ## Collections
 
@@ -27,9 +27,10 @@
 <table>
 <tr>
 <td width="33%" align="center" valign="top">
-<a href="ConnectorClampingToolx2.3mf"><img src="readme-images/connectorclampingtoolx2-3mf-75b2837f.webp" width="240" alt="ConnectorClampingToolx2"></a><br>
-<b>ConnectorClampingToolx2</b><br>
-Source unknown &middot; <a href="ConnectorClampingToolx2.3mf">ConnectorClampingToolx2.3mf</a>
+<a href="mounts"><img src="readme-images/mounts-88fe8a20.webp" width="240" alt="3M Claw openGrid Snap Mount"></a><br>
+<b>3M Claw openGrid Snap Mount</b><br>
+<sub>by Mikey Ward</sub><br>
+<a href="https://makerworld.com/en/models/1921947-3m-claw-opengrid-snap-mount">MakerWorld</a> &middot; <a href="mounts">Repo folder</a>
 </td>
 <td width="33%" align="center" valign="top">
 <a href="Customizable%2BopenGrid%2BShelves"><img src="readme-images/customizable-opengrid-shelves-327776f4.webp" width="240" alt="Customizable openGrid Shelves"></a><br>
@@ -56,21 +57,23 @@ Source unknown &middot; <a href="ConnectorClampingToolx2.3mf">ConnectorClampingT
 <a href="https://makerworld.com/en/search/models?keyword=KYZ%20oG%20Vase%20Mode%20Round%20Cups%20-%20Standard">Search MakerWorld</a> &middot; <a href="KYZ%2BoG%2BVase%2BMode%2BRound%2BCups%2B-%2BStandard_stls">Repo folder</a>
 </td>
 <td width="33%" align="center" valign="top">
-<a href="KYZ%2BTool%2BTower.3mf"><img src="readme-images/kyz-tool-tower-3mf-87bc05aa.webp" width="240" alt="KYZ Tool Tower"></a><br>
-<b>KYZ Tool Tower</b><br>
-<a href="https://makerworld.com/en/search/models?keyword=KYZ%20Tool%20Tower">Search MakerWorld</a> &middot; <a href="KYZ%2BTool%2BTower.3mf">KYZ+Tool+Tower.3mf</a>
+<a href="ConnectorClampingToolx2.3mf"><img src="readme-images/connectorclampingtoolx2-3mf-75b2837f.webp" width="240" alt="openGrid connector clamping tool"></a><br>
+<b>openGrid connector clamping tool</b><br>
+<sub>by Fang-Pen Lin</sub><br>
+<a href="https://makerworld.com/en/models/1892786-opengrid-connector-clamping-tool">MakerWorld</a> &middot; <a href="ConnectorClampingToolx2.3mf">ConnectorClampingToolx2.3mf</a>
 </td>
 </tr>
 <tr>
 <td width="33%" align="center" valign="top">
-<a href="mounts"><img src="readme-images/mounts-88fe8a20.webp" width="240" alt="Mounts"></a><br>
-<b>Mounts</b><br>
-Source unknown &middot; <a href="mounts">Repo folder</a>
-</td>
-<td width="33%" align="center" valign="top">
 <a href="personalized"><img src="readme-images/personalized-3f1d258f.png" width="240" alt="Personalized"></a><br>
 <b>Personalized</b><br>
 Source unknown &middot; <a href="personalized">Repo folder</a>
+</td>
+<td width="33%" align="center" valign="top">
+<a href="KYZ%2BTool%2BTower.3mf"><img src="readme-images/kyz-tool-tower-3mf-87bc05aa.webp" width="240" alt="Tool Tower: Modular openGrid Desktop Organizer"></a><br>
+<b>Tool Tower: Modular openGrid Desktop Organizer</b><br>
+<sub>by KYZ Design</sub><br>
+<a href="https://makerworld.com/en/models/1869072-tool-tower-modular-opengrid-desktop-organizer">MakerWorld</a> &middot; <a href="KYZ%2BTool%2BTower.3mf">KYZ+Tool+Tower.3mf</a>
 </td>
 </tr>
 </table>
@@ -93,9 +96,10 @@ Source unknown &middot; <a href="personalized">Repo folder</a>
 <table>
 <tr>
 <td width="33%" align="center" valign="top">
-<a href="feet/OG_Edge_Feet.3mf"><img src="readme-images/feet-og-edge-feet-3mf-035aa7e1.webp" width="240" alt="OG_Edge_Feet"></a><br>
-<b>OG_Edge_Feet</b><br>
-Source unknown &middot; <a href="feet/OG_Edge_Feet.3mf">OG_Edge_Feet.3mf</a>
+<a href="feet/OG_Edge_Feet.3mf"><img src="readme-images/feet-og-edge-feet-3mf-035aa7e1.webp" width="240" alt="openGrid Edge Feet"></a><br>
+<b>openGrid Edge Feet</b><br>
+<sub>by KYZ Design</sub><br>
+<a href="https://makerworld.com/en/models/1856419-opengrid-edge-feet">MakerWorld</a> &middot; <a href="feet/OG_Edge_Feet.3mf">OG_Edge_Feet.3mf</a>
 </td>
 <td width="33%" align="center" valign="top">
 <a href="feet/openGrid%2BHeavy%2B-%2BFeet"><img src="readme-images/feet-opengrid-heavy-feet-ae716e57.webp" width="240" alt="openGrid Heavy - Feet"></a><br>

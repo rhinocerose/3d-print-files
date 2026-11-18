@@ -1,12 +1,24 @@
 {
+  "bub/260616_All_Printers_AMS_stls": {
+    "source": "makerworld"
+  },
   "bub/260616_All_Printers_AMS_stls.zip": {
     "source": "unknown"
+  },
+  "bub/260616_Monochrome_stls": {
+    "source": "makerworld"
   },
   "bub/260616_Monochrome_stls.zip": {
     "source": "unknown"
   },
   "bub/kitchen": {
-    "source": "unknown"
+    "author": "Phazor",
+    "id": "1987011",
+    "imageUrl": "https://makerworld.bblmw.com/makerworld/model/US2869b6c649b225/design/2025-11-11_d097da9036d96.jpg?x-oss-process=image/resize,w_640/format,webp",
+    "manual": true,
+    "name": "Stack & Play Dishes – Large & Small Bowls",
+    "source": "makerworld",
+    "url": "https://makerworld.com/en/models/1987011-stack-play-dishes-large-small-bowls"
   },
   "bub/little-people/classic-little-people-couch-model_files": {
     "author": "Heather D",
@@ -25,16 +37,40 @@
     "url": "https://www.printables.com/model/1026242-fisher-price-little-people-compatible-furniture-ch"
   },
   "bub/little-people/LittlePeopleAdaptorV2.3mf": {
-    "source": "unknown"
+    "author": "K Main",
+    "id": "3130993",
+    "imageUrl": "https://makerworld.bblmw.com/makerworld/model/US2804e1621178bd/design/3ca95d95cc79f56f.jpeg?x-oss-process=image/resize,w_640/format,webp",
+    "manual": true,
+    "name": "Adaptor for Little People and MegaBlocks",
+    "source": "makerworld",
+    "url": "https://makerworld.com/en/models/3130993-adaptor-for-little-people-and-megablocks"
   },
   "bub/little-people/Miniature_Slide.3mf": {
-    "source": "unknown"
+    "author": "user_4051991182",
+    "id": "2272013",
+    "imageUrl": "https://makerworld.bblmw.com/makerworld/model/US5deefddcb035f4/design/2026-01-20_3e52bd80975ff8.jpg?x-oss-process=image/resize,w_640/format,webp",
+    "manual": true,
+    "name": "Miniature Slide　人形用　滑り台",
+    "source": "makerworld",
+    "url": "https://makerworld.com/en/models/2272013-miniature-slide-for-dolls"
   },
   "bub/play-doh/2+COLOR+-+FOREST+ANIMALS.3mf": {
-    "source": "makerworld"
+    "author": "auremi",
+    "id": "2436196",
+    "imageUrl": "https://makerworld.bblmw.com/makerworld/model/USac0290e48be097/design/197e3e5a2e6b69da.jpg?x-oss-process=image/resize,w_640/format,webp",
+    "manual": true,
+    "name": "Forest Animal Stamp Set and cutter",
+    "source": "makerworld",
+    "url": "https://makerworld.com/en/models/2436196-forest-animal-stamp-set-and-cutter"
   },
   "bub/play-doh/2+color-+trucks.3mf": {
-    "source": "makerworld"
+    "author": "auremi",
+    "id": "2306033",
+    "imageUrl": "https://makerworld.bblmw.com/makerworld/model/US228fd6f5c767c7/design/96c82b7c5a24913b.jpg?x-oss-process=image/resize,w_640/format,webp",
+    "manual": true,
+    "name": "PART 1 - Vehicle Stamp Set – Cars & Construction ",
+    "source": "makerworld",
+    "url": "https://makerworld.com/en/models/2306033-part-1-vehicle-stamp-set-cars-construction"
   },
   "bub/play-doh/2+color-bugs+stamps.3mf": {
     "source": "makerworld"
@@ -54,7 +90,13 @@
     "url": "https://makerworld.com/en/models/873499-bluey-cookie-cutter-set-set-of-5-set-2"
   },
   "bub/play-doh/Bluey+Play-Doh+Roller": {
-    "source": "makerworld"
+    "author": "GravyRobber",
+    "id": "3614816",
+    "imageUrl": "https://makerworld.bblmw.com/makerworld/model/US6f90f45aebde5f/design/d45066267a5f7d4c.png?x-oss-process=image/resize,w_640/format,webp",
+    "manual": true,
+    "name": "Texture Roller V468 | Bluey",
+    "source": "makerworld",
+    "url": "https://makerworld.com/en/models/3614816-texture-roller-v468-bluey"
   },
   "bub/play-doh/Cat+Cookie+Cutter+Set.zip": {
     "author": "3DTrece",
@@ -65,7 +107,13 @@
     "url": "https://makerworld.com/en/models/471707-cat-cookie-cutter-set"
   },
   "bub/play-doh/cats-A1-mini.3mf": {
-    "source": "unknown"
+    "author": "3DTrece",
+    "id": "471707",
+    "imageUrl": "https://makerworld.bblmw.com/makerworld/model/DSM00000000471707/design/2024-05-22_fac63c055c812.png?x-oss-process=image/resize,w_640/format,webp",
+    "manual": true,
+    "name": "Cat Cookie Cutter Set",
+    "source": "makerworld",
+    "url": "https://makerworld.com/en/models/471707-cat-cookie-cutter-set"
   },
   "bub/play-doh/Fairy+Peppa+Pig+Play-Doh+Roller": {
     "source": "makerworld"
@@ -74,10 +122,22 @@
     "source": "makerworld"
   },
   "bub/play-doh/Ice+Cream+Cone+Set+-+Kids+Play": {
-    "source": "makerworld"
+    "author": "SillySnax",
+    "id": "986139",
+    "imageUrl": "https://makerworld.bblmw.com/makerworld/model/USd90eb32b5c54ac/design/2025-01-13_91eb7ac2fdf16.jpg?x-oss-process=image/resize,w_640/format,webp",
+    "manual": true,
+    "name": "Ice Cream Cone Set - Kids Play Cafe",
+    "source": "makerworld",
+    "url": "https://makerworld.com/en/models/986139-ice-cream-cone-set-kids-play-cafe"
   },
   "bub/play-doh/IcecreamSet.3mf": {
-    "source": "unknown"
+    "author": "SillySnax",
+    "id": "986139",
+    "imageUrl": "https://makerworld.bblmw.com/makerworld/model/USd90eb32b5c54ac/design/2025-01-13_91eb7ac2fdf16.jpg?x-oss-process=image/resize,w_640/format,webp",
+    "manual": true,
+    "name": "Ice Cream Cone Set - Kids Play Cafe",
+    "source": "makerworld",
+    "url": "https://makerworld.com/en/models/986139-ice-cream-cone-set-kids-play-cafe"
   },
   "bub/play-doh/Play-Doh+Knife.3mf": {
     "author": "InnovateITx",
@@ -88,13 +148,25 @@
     "url": "https://makerworld.com/en/models/736966-playdoh-knife"
   },
   "bub/play-doh/Play-Doh+Pasta+Roller+v2+-+multi-colour.3mf": {
-    "source": "makerworld"
+    "author": "entropy",
+    "id": "2040646",
+    "imageUrl": "https://makerworld.bblmw.com/makerworld/model/US6f6e9bab459ea3/design/8c26c7c05fc4036f.png?x-oss-process=image/resize,w_640/format,webp",
+    "manual": true,
+    "name": "Modeling Dough Pasta Roller - v2",
+    "source": "makerworld",
+    "url": "https://makerworld.com/en/models/2040646-modeling-dough-pasta-roller-v2"
   },
   "bub/play-doh/Play-Doh+Pizza+Cutter.3mf": {
     "source": "makerworld"
   },
   "bub/play-doh/play-doh_donut-maker": {
-    "source": "unknown"
+    "author": "Pyciu",
+    "id": "1107869",
+    "imageUrl": "https://makerworld.bblmw.com/makerworld/model/US6372c328b98cf2/design/2025-02-14_c7d95d3c22bf6.jpg?x-oss-process=image/resize,w_640/format,webp",
+    "manual": true,
+    "name": "Play doh ball maker and donuts",
+    "source": "makerworld",
+    "url": "https://makerworld.com/en/models/1107869-play-doh-ball-maker-and-donuts"
   },
   "bub/play-doh/Vehicles+-+2+part.3mf": {
     "source": "makerworld"
@@ -249,16 +321,40 @@
     "url": "https://www.printables.com/model/1064488"
   },
   "design-aids/perfect-polygon-angle-finder-set-model_files.zip": {
-    "source": "unknown"
+    "author": "Hands on Katie",
+    "id": "777389",
+    "imageUrl": "https://media.printables.com/media/prints/777389/images/6040974_caca2ef0-1366-477e-b1cd-5496b6b86d0d_21ef5309-876d-4dc0-9b53-d605e9f29b8a/thumbs/inside/640x480/png/polygon-angle-finder-shot-1.webp",
+    "manual": true,
+    "name": "Perfect Polygon Angle Finder Set",
+    "source": "printables",
+    "url": "https://www.printables.com/model/777389-perfect-polygon-angle-finder-set"
   },
   "design-aids/sweet-centre-spot-finder-for-straight-objects-model_files.zip": {
-    "source": "unknown"
+    "author": "Hands on Katie",
+    "id": "777455",
+    "imageUrl": "https://media.printables.com/media/prints/777455/images/6041492_0d893080-f5fc-498d-a09e-07df01412ece_cece76ac-c1d0-4a19-bc7e-ba22bbdff95c/thumbs/inside/640x480/png/centre-finder-shot-1.webp",
+    "manual": true,
+    "name": "Sweet Centre Spot Finder (For Straight Objects)",
+    "source": "printables",
+    "url": "https://www.printables.com/model/777455-sweet-centre-spot-finder-for-straight-objects"
   },
   "design-aids/Thickness+Gauges+Version+2.0+-+Non+Stacking+.3mf": {
-    "source": "makerworld"
+    "author": "Ty's 3D Printing",
+    "id": "949937",
+    "imageUrl": "https://makerworld.bblmw.com/makerworld/model/US28bf9538955bff/design/2025-01-12_2902b660a2173.png?x-oss-process=image/resize,w_640/format,webp",
+    "manual": true,
+    "name": "0.5mm - 5mm Thickness Guide 2.0 Gridfinity Set",
+    "source": "makerworld",
+    "url": "https://makerworld.com/en/models/949937-0-5mm-5mm-thickness-guide-2-0-gridfinity-set"
   },
   "design-aids/Thickness+Gauges+Version+2.0+-+Stacking+.3mf": {
-    "source": "makerworld"
+    "author": "Ty's 3D Printing",
+    "id": "949937",
+    "imageUrl": "https://makerworld.bblmw.com/makerworld/model/US28bf9538955bff/design/2025-01-12_2902b660a2173.png?x-oss-process=image/resize,w_640/format,webp",
+    "manual": true,
+    "name": "0.5mm - 5mm Thickness Guide 2.0 Gridfinity Set",
+    "source": "makerworld",
+    "url": "https://makerworld.com/en/models/949937-0-5mm-5mm-thickness-guide-2-0-gridfinity-set"
   },
   "desk-organization/adjustable-vertical-laptop-stand-single-remix-model_files": {
     "author": "KnotHead",
@@ -422,10 +518,22 @@
     "source": "unknown"
   },
   "electrical/dev-board-accessories/din-mounts/DIN Mounts_ Pi, Arduino and disks - 2610621 - part 1 of 2.zip": {
-    "source": "unknown"
+    "author": "imstrng",
+    "id": "2610621",
+    "imageUrl": "https://resize.thingiverse.com/?url=https://cdn.thingiverse.com/assets/07/c2/0a/5f/e4/image.png&w=1024&h=1024&fit=contain&cbg=white&n=-1",
+    "manual": true,
+    "name": "DIN Mounts: Pi, Arduino and disks",
+    "source": "thingiverse",
+    "url": "https://www.thingiverse.com/thing:2610621"
   },
   "electrical/dev-board-accessories/din-mounts/DIN Mounts_ Pi, Arduino and disks - 2610621 - part 2 of 2.zip": {
-    "source": "unknown"
+    "author": "imstrng",
+    "id": "2610621",
+    "imageUrl": "https://resize.thingiverse.com/?url=https://cdn.thingiverse.com/assets/07/c2/0a/5f/e4/image.png&w=1024&h=1024&fit=contain&cbg=white&n=-1",
+    "manual": true,
+    "name": "DIN Mounts: Pi, Arduino and disks",
+    "source": "thingiverse",
+    "url": "https://www.thingiverse.com/thing:2610621"
   },
   "electrical/dev-board-accessories/din-mounts/din-breadboard-clip.stl": {
     "source": "unknown"
@@ -479,7 +587,13 @@
     "url": "https://www.printables.com/model/161740-din-rail-clip"
   },
   "electrical/dev-board-accessories/din-mounts/din-rail-mount-for-nucleo-64-model_files.zip": {
-    "source": "unknown"
+    "author": "jacek",
+    "id": "169302",
+    "imageUrl": "https://media.printables.com/media/prints/169302/images/1587295_d76838e2-d02e-4efe-9eed-997b20d4f1ae/thumbs/inside/640x480/jpg/large_display_20211015_181545_169302.webp",
+    "manual": true,
+    "name": "DIN Rail mount for Nucleo-64",
+    "source": "printables",
+    "url": "https://www.printables.com/model/169302-din-rail-mount-for-nucleo-64"
   },
   "electrical/dev-board-accessories/din-mounts/din-rail-test-rack-model_files": {
     "author": "PlasticXYZ",
@@ -1046,7 +1160,13 @@
     "url": "https://www.thingiverse.com/thing:2461265"
   },
   "electrical/soldering/paste-flux/needle-syringe-caps-model_files.zip": {
-    "source": "unknown"
+    "author": "AcE Krystal",
+    "id": "70825",
+    "imageUrl": "https://media.printables.com/media/prints/70825/images/770752_22abceeb-f1b7-4382-bb21-6d4743722710/thumbs/inside/640x480/jpg/20210707_124923.webp",
+    "manual": true,
+    "name": "Needle / Syringe Caps",
+    "source": "printables",
+    "url": "https://www.printables.com/model/70825-needle-syringe-caps"
   },
   "electrical/soldering/paste-flux/Solderpaste_And_Flux_Gun": {
     "author": "8orge",
@@ -1102,7 +1222,13 @@
     "url": "https://www.printables.com/model/740818-parametric-stackable-pcb-standoffs-m2-m14-holes"
   },
   "electrical/soldering/pcb-holders/pcb-solder-fren-model_files.zip": {
-    "source": "unknown"
+    "author": "PistonPin",
+    "id": "643748",
+    "imageUrl": "https://media.printables.com/media/prints/643748/images/5101763_f2c2dc1a-aeb8-4551-82c8-2ec1289b2f74_81b2696a-df1f-41ed-809c-37b45aaa63c5/thumbs/inside/640x480/jpg/pcb-solder-fren.webp",
+    "manual": true,
+    "name": "PCB solder fren",
+    "source": "printables",
+    "url": "https://www.printables.com/model/643748-pcb-solder-fren"
   },
   "electrical/soldering/pcb-holders/pcb-workstation-with-nano-probes-model_files": {
     "author": "giufini",
@@ -1162,7 +1288,13 @@
     "url": "https://www.thingiverse.com/thing:3052109"
   },
   "electrical/soldering/smd-tools/din-mount-smd-dispenser-system-model_files.zip": {
-    "source": "unknown"
+    "author": "mahatmaJman",
+    "id": "246836",
+    "imageUrl": "https://media.printables.com/media/prints/246836/images/2223167_f5092029-ef16-43b0-bd81-f260f759a31f/thumbs/inside/640x480/jpg/image-2.webp",
+    "manual": true,
+    "name": "DIN mount SMD dispenser system",
+    "source": "printables",
+    "url": "https://www.printables.com/model/246836-din-mount-smd-dispenser-system"
   },
   "electrical/soldering/smd-tools/SMD_Jig": {
     "author": "Nomis36",
@@ -1295,7 +1427,13 @@
     "url": "https://www.printables.com/model/740481-modular-wire-spool-stack"
   },
   "electrical/soldering/wire-holder/Solder_Cableholder_1203831.zip": {
-    "source": "unknown"
+    "author": "Landin81",
+    "id": "1203831",
+    "imageUrl": "https://resize.thingiverse.com/?url=https://cdn.thingiverse.com/assets/8f/61/7d/bc/93/2015-12-16_17.17.49.jpg&w=1024&h=1024&fit=contain&cbg=white&n=-1",
+    "manual": true,
+    "name": "Solder Cableholder",
+    "source": "thingiverse",
+    "url": "https://www.thingiverse.com/thing:1203831"
   },
   "electrical/TABLE+LEVELING+SYSTEM": {
     "author": "GoldWin",
@@ -1469,7 +1607,13 @@
     "url": "https://www.printables.com/model/712408-bathroom-corner-shelf-no-drilling"
   },
   "home/bathroom/Bathroom-shelf.3mf": {
-    "source": "unknown"
+    "author": "linusfransson16",
+    "id": "1062698",
+    "imageUrl": "https://makerworld.bblmw.com/makerworld/model/USfd506f8b6794b0/design/2025-02-01_631666b921667.jpg?x-oss-process=image/resize,w_640/format,webp",
+    "manual": true,
+    "name": "Bathroom corner shelf - No drilling",
+    "source": "makerworld",
+    "url": "https://makerworld.com/en/models/1062698-bathroom-corner-shelf-no-drilling"
   },
   "home/bathroom/Corner+Shower+Caddy,+Bathroom+Shelf+with+Drainage": {
     "author": "Zen Aku",
@@ -1836,7 +1980,13 @@
     "url": "https://makerworld.com/en/models/1179211-modular-shelf-for-wall-floor-desk"
   },
   "home/Parametric-Picture-Frame-Generator-v2.3mf": {
-    "source": "unknown"
+    "author": "zomb",
+    "id": "3023964",
+    "imageUrl": "https://makerworld.bblmw.com/makerworld/model/USc4cce9e35efc05/design/1d111cdf6a90f8f0.png?x-oss-process=image/resize,w_640/format,webp",
+    "manual": true,
+    "name": "Parametric Picture Frame Generator",
+    "source": "makerworld",
+    "url": "https://makerworld.com/en/models/3023964-parametric-picture-frame-generator"
   },
   "home/picture-frame-honeycomb-model_files": {
     "author": "Kittelot",
@@ -1998,7 +2148,13 @@
     "url": "https://www.printables.com/model/461088-3m-filter-compatible-bayonet"
   },
   "printer-improvements/bambu/AMS+Stacking+System": {
-    "source": "makerworld"
+    "author": "Jaxel",
+    "id": "105669",
+    "imageUrl": "https://makerworld.bblmw.com/makerworld/model/USfc8b5095136869/design/2024-01-24_15d4c1fd18f3.webp?x-oss-process=image/resize,w_640/format,webp",
+    "manual": true,
+    "name": "[V1] AMS Stacking System",
+    "source": "makerworld",
+    "url": "https://makerworld.com/en/models/105669-v1-ams-stacking-system"
   },
   "printer-improvements/bambu/bentobox-v20-carbon-filter-for-bambu-lab-x1c-enclosed-p1p-voron-trident-others-model_files": {
     "author": "thrutheframe",
@@ -2017,7 +2173,13 @@
     "url": "https://makerworld.com/en/models/142877-cable-tidy-x1-p1s-p1p"
   },
   "printer-improvements/bambu/P1S+gridfinity+base.3mf": {
-    "source": "makerworld"
+    "author": "luukluuk12",
+    "id": "23718",
+    "imageUrl": "https://makerworld.bblmw.com/makerworld/model/USd5cbb792765273/design/2023-09-26_3a3eb9906350c.jpg?x-oss-process=image/resize,w_640/format,webp",
+    "manual": true,
+    "name": "Bambu Lab P1S Gridfinity Base",
+    "source": "makerworld",
+    "url": "https://makerworld.com/en/models/23718-bambu-lab-p1s-gridfinity-base"
   },
   "printer-improvements/bambu/remixed-hepa-boxes-for-bento-box-v2-model_files": {
     "author": "ShowStudio",
@@ -2096,7 +2258,13 @@
     "url": "https://www.thingiverse.com/thing:6140056"
   },
   "printer-improvements/dessicant": {
-    "source": "unknown"
+    "author": "Desmodromic",
+    "id": "97279",
+    "imageUrl": "https://makerworld.bblmw.com/makerworld/model/USd90748aeaab40d/design/2023-12-17_74e7deec191528.webp?x-oss-process=image/resize,w_640/format,webp",
+    "manual": true,
+    "name": "Silica Gel Dessicant Container Funnel Lid",
+    "source": "makerworld",
+    "url": "https://makerworld.com/en/models/97279-silica-gel-dessicant-container-funnel-lid"
   },
   "printer-improvements/elegoo/Elegoo Neptune 4 4Pro 3Plus 3Pro 3Max Left Side Screen Mount and Tool Holder.zip": {
     "source": "unknown"
@@ -2460,7 +2628,13 @@
     "url": "https://www.thingiverse.com/thing:1937236"
   },
   "printer-improvements/tools/Clip+one+color.3mf": {
-    "source": "makerworld"
+    "author": "123cut",
+    "id": "146046",
+    "imageUrl": "https://makerworld.bblmw.com/makerworld/model/USe3ddb15366dd50/design/2024-02-13_4202bab031fcf.gif?x-oss-process=image/resize,w_640/format,webp",
+    "manual": true,
+    "name": "Filament Clip for Bambu spools",
+    "source": "makerworld",
+    "url": "https://makerworld.com/en/models/146046-filament-clip-for-bambu-spools"
   },
   "printer-improvements/tools/Clip-Classic.stl": {
     "source": "unknown"
@@ -2518,7 +2692,13 @@
     "source": "makerworld"
   },
   "storage/8020/T+Nut+M3.3mf": {
-    "source": "makerworld"
+    "author": "Perfect Prints",
+    "id": "869106",
+    "imageUrl": "https://makerworld.bblmw.com/makerworld/model/USc33bc1ff7549bd/design/2024-12-13_3fdf9460e27fa.jpg?x-oss-process=image/resize,w_640/format,webp",
+    "manual": true,
+    "name": "M3 T-Nut for V-Slot 2020 Extrusion",
+    "source": "makerworld",
+    "url": "https://makerworld.com/en/models/869106-m3-t-nut-for-v-slot-2020-extrusion"
   },
   "storage/8020/挂钩-2020-A型_stls": {
     "source": "makerworld"
@@ -2635,7 +2815,13 @@
     "source": "makerworld"
   },
   "storage/cable-storage/gridfinity/Rugged-Cable-Organizer_X1C.3mf": {
-    "source": "unknown"
+    "author": "K2_Kevin",
+    "id": "1882353",
+    "imageUrl": "https://makerworld.bblmw.com/makerworld/model/USe9b5c199d1d865/design/2025-10-13_04e867c689a8b.png?x-oss-process=image/resize,w_640/format,webp",
+    "manual": true,
+    "name": "Rugged Cable Organizer - USB Gridfinity Box Tray",
+    "source": "makerworld",
+    "url": "https://makerworld.com/en/models/1882353-rugged-cable-organizer-usb-gridfinity-box-tray"
   },
   "storage/cable-storage/parametric-cable-storage-model_files": {
     "author": "The Mighty Pong",
@@ -2820,7 +3006,13 @@
     "url": "https://www.thingiverse.com/thing:2637487"
   },
   "storage/small-parts-storage/clamshell-boxes": {
-    "source": "unknown"
+    "author": "Nick Johnson",
+    "id": "812335",
+    "imageUrl": "https://makerworld.bblmw.com/makerworld/model/US769c7d38122750/design/2024-11-22_94fa5dbe20a1f.jpg?x-oss-process=image/resize,w_640/format,webp",
+    "manual": true,
+    "name": "Vertical Rack for Clamshell Boxes",
+    "source": "makerworld",
+    "url": "https://makerworld.com/en/models/812335-vertical-rack-for-clamshell-boxes"
   },
   "storage/small-parts-storage/Economical_Drawers_1750692": {
     "author": "O3D",
@@ -2867,7 +3059,13 @@
     "url": "https://www.thingiverse.com/thing:1889761"
   },
   "storage/small-parts-storage/modular-organizer-drawers-model_files.zip": {
-    "source": "unknown"
+    "author": "Andre Campos",
+    "id": "54131",
+    "imageUrl": "https://media.printables.com/media/prints/54131/images/536367_8b92a556-7e7a-48b3-adfd-c025f483244d/thumbs/inside/640x480/jpg/20210127_230622993_iosheic.webp",
+    "manual": true,
+    "name": "Modular Organizer Drawers",
+    "source": "printables",
+    "url": "https://www.printables.com/model/54131-modular-organizer-drawers"
   },
   "storage/small-parts-storage/modular-shelving-system-hobby-workshop-small-parts-storage-model_files": {
     "author": "layerguru.com",
@@ -2920,7 +3118,13 @@
     "url": "https://www.thingiverse.com/thing:1489606"
   },
   "storage/small-parts-storage/Small Parts Funnel Tray - 918864.zip": {
-    "source": "unknown"
+    "author": "countspatula",
+    "id": "918864",
+    "imageUrl": "https://resize.thingiverse.com/?url=https://cdn.thingiverse.com/assets/3c/96/64/1d/c3/IMGP2685.JPG&w=1024&h=1024&fit=contain&cbg=white&n=-1",
+    "manual": true,
+    "name": "Small Parts Funnel Tray",
+    "source": "thingiverse",
+    "url": "https://www.thingiverse.com/thing:918864"
   },
   "storage/small-parts-storage/Small+Parts+Storage+Box+w_Gridfinity+tray": {
     "author": "Josh-3D",
@@ -3019,19 +3223,37 @@
     "source": "makerworld"
   },
   "storage/systems/gridfinity/baseplates/4x4+superlight+4+8+stack+NEW+AND+IMPROVED.3mf": {
-    "source": "makerworld"
+    "author": "Connor",
+    "id": "811148",
+    "imageUrl": "https://makerworld.bblmw.com/makerworld/model/USa0a8c113619f5d/design/2024-11-22_e0710603e8e81.jpg?x-oss-process=image/resize,w_640/format,webp",
+    "manual": true,
+    "name": "4x4 Gridfinity Superlight Baseplate Stack A1 Mini",
+    "source": "makerworld",
+    "url": "https://makerworld.com/en/models/811148-4x4-gridfinity-superlight-baseplate-stack-a1-mini"
   },
   "storage/systems/gridfinity/baseplates/Base+Grid+5x5+16-STACK-makerworld.3mf": {
     "source": "makerworld"
   },
   "storage/systems/gridfinity/baseplates/Base+Grid+5x5+8-STACK-makerworld.3mf": {
-    "source": "makerworld"
+    "author": "Filipe Laíns",
+    "id": "672886",
+    "imageUrl": "https://makerworld.bblmw.com/makerworld/model/USff9be128e39745/design/2024-09-30_ad33eea9b74b18.png?x-oss-process=image/resize,w_640/format,webp",
+    "manual": true,
+    "name": "Gridfinity 5x5 Baseplate Stack 8-high",
+    "source": "makerworld",
+    "url": "https://makerworld.com/en/models/672886-gridfinity-5x5-baseplate-stack-8-high"
   },
   "storage/systems/gridfinity/baseplates/Baseplate - Superlight - 5x5 - Stacked 8 Levels.3mf": {
     "source": "unknown"
   },
   "storage/systems/gridfinity/baseplates/Baseplate+-+SL+H+-+256x256+Bed.3mf": {
-    "source": "makerworld"
+    "author": "KYZ Design",
+    "id": "100302",
+    "imageUrl": "https://makerworld.bblmw.com/makerworld/model/US8e9db1e907cba0/design/2023-12-20_4200d2c8e691b.jpg?x-oss-process=image/resize,w_640/format,webp",
+    "manual": true,
+    "name": "Gridfinity Superlight Baseplates - Half Grid Edge",
+    "source": "makerworld",
+    "url": "https://makerworld.com/en/models/100302-gridfinity-superlight-baseplates-half-grid-edge"
   },
   "storage/systems/gridfinity/baseplates/Baseplate+-+Superlight+-+All+Sizes+-+Updated.3mf": {
     "source": "makerworld"
@@ -3168,7 +3390,13 @@
     "url": "https://www.printables.com/model/1078733-optimized-gridfinity-base-faster-smarter-better"
   },
   "storage/systems/gridfinity/baseplates/STACK+4.3mf": {
-    "source": "makerworld"
+    "author": "JoeMalovich",
+    "id": "819758",
+    "imageUrl": "https://makerworld.bblmw.com/makerworld/model/US7fbbacc47e2848/design/2025-01-18_76cdd4da05d2f.png?x-oss-process=image/resize,w_640/format,webp",
+    "manual": true,
+    "name": "Gridfinity Base 5x5x4high STACKED The Original.",
+    "source": "makerworld",
+    "url": "https://makerworld.com/en/models/819758-gridfinity-base-5x5x4high-stacked-the-original"
   },
   "storage/systems/gridfinity/boxes/Gridfinity+Base+Storage+Box+by+Pred+Remix": {
     "author": "VersusMakes",
@@ -3219,7 +3447,13 @@
     "url": "https://www.printables.com/model/757297-gridfinity-rugged-storage-box-parametric-and-custo"
   },
   "storage/systems/gridfinity/boxes/gridfinity-shelves-for-boxes/box+storage+All+Size.3mf": {
-    "source": "makerworld"
+    "author": "Baze",
+    "id": "1075932",
+    "imageUrl": "https://makerworld.bblmw.com/makerworld/model/US251f067c152eb6/design/2025-02-05_90bb5717670db.jpg?x-oss-process=image/resize,w_640/format,webp",
+    "manual": true,
+    "name": "Gridfinity Box Storage Frame System",
+    "source": "makerworld",
+    "url": "https://makerworld.com/en/models/1075932-gridfinity-box-storage-frame-system"
   },
   "storage/systems/gridfinity/boxes/gridfinity-shelves-for-boxes/box+storage+All+Size_stls": {
     "source": "makerworld"
@@ -3244,7 +3478,13 @@
     "url": "https://www.printables.com/model/1023055-gridfinity-storage-box-shelves-parametric"
   },
   "storage/systems/gridfinity/boxes/GridfinityStorageBox_Parametric+v1.1_Stackable+base_20250127.3mf": {
-    "source": "makerworld"
+    "author": "VersusMakes",
+    "id": "788692",
+    "imageUrl": "https://makerworld.bblmw.com/makerworld/model/USe27345e5cff29f/design/2024-11-14_f1d7dfb4e13e9.jpg?x-oss-process=image/resize,w_640/format,webp",
+    "manual": true,
+    "name": "Gridfinity Base Storage Box by Pred Remix",
+    "source": "makerworld",
+    "url": "https://makerworld.com/en/models/788692-gridfinity-base-storage-box-by-pred-remix"
   },
   "storage/systems/gridfinity/boxes/lite-base-for-gridfinity-storage-box-by-pred-now-parametric-model_files": {
     "author": "theLolrus",
@@ -3545,7 +3785,13 @@
     "source": "unknown"
   },
   "storage/systems/gridfinity/parametric-gridfinity-trays-model_files.zip": {
-    "source": "unknown"
+    "author": "fergusnoble",
+    "id": "413887",
+    "imageUrl": "https://media.printables.com/media/prints/413887/images/4065068_f3d60f1b-bd86-4951-843e-3f3744081404/thumbs/inside/640x480/jpeg/img_3105.webp",
+    "manual": true,
+    "name": "Parametric Gridfinity Trays",
+    "source": "printables",
+    "url": "https://www.printables.com/model/413887-parametric-gridfinity-trays"
   },
   "storage/systems/gridfinity/parts-bins/.my-custom-divided-bins": {
     "source": "unknown"
@@ -3901,7 +4147,13 @@
     "source": "unknown"
   },
   "storage/systems/gridfinity/tool-holders/amazing-gridfinity-m3-bolt-sorter-model_files.zip": {
-    "source": "unknown"
+    "author": "LayerLux3D",
+    "id": "874548",
+    "imageUrl": "https://media.printables.com/media/prints/874548/images/6709981_42cf7bb8-27cb-4fba-b74c-362deabb1272_88502b0b-59fe-41a0-a8da-d553c11b22cc/thumbs/inside/640x480/gif/m3sorter_gridfinitiy.webp",
+    "manual": true,
+    "name": "Amazing Gridfinity M3 Bolt Sorter",
+    "source": "printables",
+    "url": "https://www.printables.com/model/874548-amazing-gridfinity-m3-bolt-sorter"
   },
   "storage/systems/gridfinity/tool-holders/Arduino Uno Holder 2x1.stl": {
     "source": "unknown"
@@ -3972,7 +4224,13 @@
     "url": "https://www.printables.com/model/302028-brother-p-touch-tze-label-tape-gridfinity-storage-"
   },
   "storage/systems/gridfinity/tool-holders/byob-gridfinity-screw-sorter-bring-your-own-bins-model_files.zip": {
-    "source": "unknown"
+    "author": "Lndnny",
+    "id": "900798",
+    "imageUrl": "https://media.printables.com/media/prints/900798/images/6895432_5536171b-fa63-45a5-b72f-f7696133ab8b_6475bdfa-94f7-4c8d-ae80-2cc9f0c0710c/thumbs/inside/640x480/gif/20240603_181326-ezgifcom-optimize.webp",
+    "manual": true,
+    "name": "BYOB Gridfinity Screw Sorter - Bring Your Own Bins",
+    "source": "printables",
+    "url": "https://www.printables.com/model/900798-byob-gridfinity-screw-sorter-bring-your-own-bins"
   },
   "storage/systems/gridfinity/tool-holders/caliper-stand-for-gridfinity-model_files": {
     "author": "Clay",
@@ -4106,7 +4364,13 @@
     "url": "https://makerworld.com/en/models/619282-esp32-gridfinity"
   },
   "storage/systems/gridfinity/tool-holders/Fast+-+ALL+Screwdriver+v6.3mf": {
-    "source": "makerworld"
+    "author": "snjames316",
+    "id": "624327",
+    "imageUrl": "https://makerworld.bblmw.com/makerworld/model/US119ec7066bc8a2/design/2024-11-26_d0cc9e953b61e.png?x-oss-process=image/resize,w_640/format,webp",
+    "manual": true,
+    "name": "Gridfinity Universal Screwdriver Trays",
+    "source": "makerworld",
+    "url": "https://makerworld.com/en/models/624327-gridfinity-universal-screwdriver-trays"
   },
   "storage/systems/gridfinity/tool-holders/Fast+-+ALL+Screwdriver+v6_stls": {
     "source": "makerworld"
@@ -4137,7 +4401,13 @@
     "source": "unknown"
   },
   "storage/systems/gridfinity/tool-holders/Gridfinity Bin 3x2x4 Elegoo Vacuum Pump v1a.3mf": {
-    "source": "unknown"
+    "author": "Jonas 949",
+    "id": "1483922",
+    "imageUrl": "https://makerworld.bblmw.com/makerworld/model/US7b535f253c24d/design/2025-06-03_9e80ebb478fea.jpg?x-oss-process=image/resize,w_640/format,webp",
+    "manual": true,
+    "name": "Elegoo Vacuum Pump Gridfinity (3x2x4)",
+    "source": "makerworld",
+    "url": "https://makerworld.com/en/models/1483922-elegoo-vacuum-pump-gridfinity-3x2x4"
   },
   "storage/systems/gridfinity/tool-holders/Gridfinity credit cards 2x2-7.3mf": {
     "source": "unknown"
@@ -4435,7 +4705,13 @@
     "url": "https://www.printables.com/model/298086-gridfinity-needle-file-tray"
   },
   "storage/systems/gridfinity/tool-holders/gridfinity-neiko-calipers.3mf": {
-    "source": "unknown"
+    "author": "Michael",
+    "id": "1271992",
+    "imageUrl": "https://makerworld.bblmw.com/makerworld/model/US2e34ec8bd54d67/design/2025-04-01_23a8a6b1aac1f.jpg?x-oss-process=image/resize,w_640/format,webp",
+    "manual": true,
+    "name": "Gridfinity - Neiko Calipers",
+    "source": "makerworld",
+    "url": "https://makerworld.com/en/models/1271992-gridfinity-neiko-calipers"
   },
   "storage/systems/gridfinity/tool-holders/gridfinity-nozzle-holder-model_files": {
     "author": "Caiman",
@@ -4649,10 +4925,22 @@
     "url": "https://www.printables.com/model/237185-2-x-2-gridfinity-nippers-rack"
   },
   "storage/systems/gridfinity/tool-holders/hand-tools/amazing-gridfinity-m3-bolt-sorter-model_files.zip": {
-    "source": "unknown"
+    "author": "LayerLux3D",
+    "id": "874548",
+    "imageUrl": "https://media.printables.com/media/prints/874548/images/6709981_42cf7bb8-27cb-4fba-b74c-362deabb1272_88502b0b-59fe-41a0-a8da-d553c11b22cc/thumbs/inside/640x480/gif/m3sorter_gridfinitiy.webp",
+    "manual": true,
+    "name": "Amazing Gridfinity M3 Bolt Sorter",
+    "source": "printables",
+    "url": "https://www.printables.com/model/874548-amazing-gridfinity-m3-bolt-sorter"
   },
   "storage/systems/gridfinity/tool-holders/hand-tools/byob-gridfinity-screw-sorter-bring-your-own-bins-model_files.zip": {
-    "source": "unknown"
+    "author": "Lndnny",
+    "id": "900798",
+    "imageUrl": "https://media.printables.com/media/prints/900798/images/6895432_5536171b-fa63-45a5-b72f-f7696133ab8b_6475bdfa-94f7-4c8d-ae80-2cc9f0c0710c/thumbs/inside/640x480/gif/20240603_181326-ezgifcom-optimize.webp",
+    "manual": true,
+    "name": "BYOB Gridfinity Screw Sorter - Bring Your Own Bins",
+    "source": "printables",
+    "url": "https://www.printables.com/model/900798-byob-gridfinity-screw-sorter-bring-your-own-bins"
   },
   "storage/systems/gridfinity/tool-holders/hand-tools/caliper-stand-for-gridfinity-model_files": {
     "author": "Clay",
@@ -4666,7 +4954,13 @@
     "source": "unknown"
   },
   "storage/systems/gridfinity/tool-holders/hand-tools/Fast+-+ALL+Screwdriver+v6.3mf": {
-    "source": "makerworld"
+    "author": "snjames316",
+    "id": "624327",
+    "imageUrl": "https://makerworld.bblmw.com/makerworld/model/US119ec7066bc8a2/design/2024-11-26_d0cc9e953b61e.png?x-oss-process=image/resize,w_640/format,webp",
+    "manual": true,
+    "name": "Gridfinity Universal Screwdriver Trays",
+    "source": "makerworld",
+    "url": "https://makerworld.com/en/models/624327-gridfinity-universal-screwdriver-trays"
   },
   "storage/systems/gridfinity/tool-holders/hand-tools/Fast+-+ALL+Screwdriver+v6_stls": {
     "source": "makerworld"
@@ -4822,7 +5116,13 @@
     "url": "https://www.printables.com/model/298086-gridfinity-needle-file-tray"
   },
   "storage/systems/gridfinity/tool-holders/hand-tools/gridfinity-neiko-calipers.3mf": {
-    "source": "unknown"
+    "author": "Michael",
+    "id": "1271992",
+    "imageUrl": "https://makerworld.bblmw.com/makerworld/model/US2e34ec8bd54d67/design/2025-04-01_23a8a6b1aac1f.jpg?x-oss-process=image/resize,w_640/format,webp",
+    "manual": true,
+    "name": "Gridfinity - Neiko Calipers",
+    "source": "makerworld",
+    "url": "https://makerworld.com/en/models/1271992-gridfinity-neiko-calipers"
   },
   "storage/systems/gridfinity/tool-holders/hand-tools/gridfinity-pliers-rack-model_files": {
     "author": "Clay",
@@ -4944,7 +5244,13 @@
     "source": "unknown"
   },
   "storage/systems/gridfinity/tool-holders/hand-tools/wera-l-key-gridfinity-holders-model_files.zip": {
-    "source": "unknown"
+    "author": "qjrs",
+    "id": "1071415",
+    "imageUrl": "https://media.printables.com/media/prints/1071415/images/8108430_a69434f1-fdfb-4ade-99c7-48644feb30f2_240ee5a5-482a-451a-ab2f-006e218a247b/thumbs/inside/640x480/jpg/pxl_20241113_072233589mp.webp",
+    "manual": true,
+    "name": "Wera L Key Gridfinity Holders",
+    "source": "printables",
+    "url": "https://www.printables.com/model/1071415-wera-l-key-gridfinity-holders"
   },
   "storage/systems/gridfinity/tool-holders/hinged-sd-microsd-card-box-gridfinity-compatible-latching-print-in-place-model_files": {
     "author": "nerdpersonthing",
@@ -5128,7 +5434,13 @@
     "source": "unknown"
   },
   "storage/systems/gridfinity/tool-holders/wera-l-key-gridfinity-holders-model_files.zip": {
-    "source": "unknown"
+    "author": "qjrs",
+    "id": "1071415",
+    "imageUrl": "https://media.printables.com/media/prints/1071415/images/8108430_a69434f1-fdfb-4ade-99c7-48644feb30f2_240ee5a5-482a-451a-ab2f-006e218a247b/thumbs/inside/640x480/jpg/pxl_20241113_072233589mp.webp",
+    "manual": true,
+    "name": "Wera L Key Gridfinity Holders",
+    "source": "printables",
+    "url": "https://www.printables.com/model/1071415-wera-l-key-gridfinity-holders"
   },
   "storage/systems/gridfinity/tool-holders/wire-holder-gridfinity-model_files": {
     "author": "LutraVulgaris",
@@ -5285,10 +5597,22 @@
     "source": "makerworld"
   },
   "storage/systems/opengrid/cable-organization/underware-cord-spool-2x1.3mf": {
-    "source": "unknown"
+    "author": "shir",
+    "id": "1802568",
+    "imageUrl": "https://makerworld.bblmw.com/makerworld/model/US8a79e5d0e72cd9/design/2025-09-18_103ae50f3546f8.jpeg?x-oss-process=image/resize,w_640/format,webp",
+    "manual": true,
+    "name": "Underware OpenGrid/Multiconnect cable spool",
+    "source": "makerworld",
+    "url": "https://makerworld.com/en/models/1802568-underware-opengrid-multiconnect-cable-spool"
   },
   "storage/systems/opengrid/cable-organization/underware-cord-spool-2x2.3mf": {
-    "source": "unknown"
+    "author": "shir",
+    "id": "1802568",
+    "imageUrl": "https://makerworld.bblmw.com/makerworld/model/US8a79e5d0e72cd9/design/2025-09-18_103ae50f3546f8.jpeg?x-oss-process=image/resize,w_640/format,webp",
+    "manual": true,
+    "name": "Underware OpenGrid/Multiconnect cable spool",
+    "source": "makerworld",
+    "url": "https://makerworld.com/en/models/1802568-underware-opengrid-multiconnect-cable-spool"
   },
   "storage/systems/opengrid/cable-organization/underware-large-cable-hook-reversed_stls": {
     "source": "makerworld"
@@ -5329,7 +5653,13 @@
     "url": "https://makerworld.com/en/models/2354388-underware-starter-channel-pack-for-opengrid"
   },
   "storage/systems/opengrid/ConnectorClampingToolx2.3mf": {
-    "source": "unknown"
+    "author": "Fang-Pen Lin",
+    "id": "1892786",
+    "imageUrl": "https://makerworld.bblmw.com/makerworld/model/USd38d2b02106d49/design/2025-10-15_03b95a153c9c78.png?x-oss-process=image/resize,w_640/format,webp",
+    "manual": true,
+    "name": "openGrid connector clamping tool",
+    "source": "makerworld",
+    "url": "https://makerworld.com/en/models/1892786-opengrid-connector-clamping-tool"
   },
   "storage/systems/opengrid/connectors/KYZ+oG+Connectors+-+Angled_stls": {
     "source": "makerworld"
@@ -5346,7 +5676,13 @@
     "url": "https://makerworld.com/en/models/1507711-customizable-opengrid-shelves"
   },
   "storage/systems/opengrid/feet/OG_Edge_Feet.3mf": {
-    "source": "unknown"
+    "author": "KYZ Design",
+    "id": "1856419",
+    "imageUrl": "https://makerworld.bblmw.com/makerworld/model/USe684d0da6586ea/design/2025-10-04_22c1c2ca528028.png?x-oss-process=image/resize,w_640/format,webp",
+    "manual": true,
+    "name": "openGrid Edge Feet",
+    "source": "makerworld",
+    "url": "https://makerworld.com/en/models/1856419-opengrid-edge-feet"
   },
   "storage/systems/opengrid/feet/openGrid+Heavy+-+Feet": {
     "author": "KYZ Design",
@@ -5365,10 +5701,22 @@
     "url": "https://makerworld.com/en/models/1452662-gridfinity-shelf-for-opengrid"
   },
   "storage/systems/opengrid/grids/OG+Hybrid+-+Medium+Sizes.3mf": {
-    "source": "makerworld"
+    "author": "KYZ Design",
+    "id": "1863562",
+    "imageUrl": "https://makerworld.bblmw.com/makerworld/model/USf42a380bf7f8d5/design/2025-10-06_3eb1cfa23d79c.png?x-oss-process=image/resize,w_640/format,webp",
+    "manual": true,
+    "name": "openGrid Hybrid - 28 Sizes",
+    "source": "makerworld",
+    "url": "https://makerworld.com/en/models/1863562-opengrid-hybrid-28-sizes"
   },
   "storage/systems/opengrid/grids/OG_Heavy_Tri_-_Medium_Sizes.3mf": {
-    "source": "unknown"
+    "author": "KYZ Design",
+    "id": "1885056",
+    "imageUrl": "https://makerworld.bblmw.com/makerworld/model/US41c022121a72d4/design/2025-10-13_d28b5f3b16d85.png?x-oss-process=image/resize,w_640/format,webp",
+    "manual": true,
+    "name": "OpenGrid Heavy - Triangular Set - 13 Sizes",
+    "source": "makerworld",
+    "url": "https://makerworld.com/en/models/1885056-opengrid-heavy-triangular-set-13-sizes"
   },
   "storage/systems/opengrid/grids/openGrid+Heavy+-+91+Sizes": {
     "author": "KYZ Design",
@@ -5393,7 +5741,13 @@
     "source": "makerworld"
   },
   "storage/systems/opengrid/KYZ+Tool+Tower.3mf": {
-    "source": "makerworld"
+    "author": "KYZ Design",
+    "id": "1869072",
+    "imageUrl": "https://makerworld.bblmw.com/makerworld/model/USfeac52212d039a/design/2025-10-08_5b37135a45f3c8.png?x-oss-process=image/resize,w_640/format,webp",
+    "manual": true,
+    "name": "Tool Tower: Modular openGrid Desktop Organizer",
+    "source": "makerworld",
+    "url": "https://makerworld.com/en/models/1869072-tool-tower-modular-opengrid-desktop-organizer"
   },
   "storage/systems/opengrid/kyz-tool-tower/KYZ+oG+Dovetail+Fittings_stls": {
     "source": "makerworld"
@@ -5402,16 +5756,34 @@
     "source": "makerworld"
   },
   "storage/systems/opengrid/kyz-tool-tower/KYZ+Tool+Tower.3mf": {
-    "source": "makerworld"
+    "author": "KYZ Design",
+    "id": "1869072",
+    "imageUrl": "https://makerworld.bblmw.com/makerworld/model/USfeac52212d039a/design/2025-10-08_5b37135a45f3c8.png?x-oss-process=image/resize,w_640/format,webp",
+    "manual": true,
+    "name": "Tool Tower: Modular openGrid Desktop Organizer",
+    "source": "makerworld",
+    "url": "https://makerworld.com/en/models/1869072-tool-tower-modular-opengrid-desktop-organizer"
   },
   "storage/systems/opengrid/mounts": {
-    "source": "unknown"
+    "author": "Mikey Ward",
+    "id": "1921947",
+    "imageUrl": "https://makerworld.bblmw.com/makerworld/model/USe7b4b906ba637e/design/2025-10-24_2d7cc6f5c8fc08.png?x-oss-process=image/resize,w_640/format,webp",
+    "manual": true,
+    "name": "3M Claw openGrid Snap Mount",
+    "source": "makerworld",
+    "url": "https://makerworld.com/en/models/1921947-3m-claw-opengrid-snap-mount"
   },
   "storage/systems/opengrid/personalized": {
     "source": "unknown"
   },
   "storage/systems/opengrid/snaps/lite+opengrid+directional+snap+V2.3mf": {
-    "source": "makerworld"
+    "author": "Gavin F",
+    "id": "1458153",
+    "imageUrl": "https://makerworld.bblmw.com/makerworld/model/USfda3942bf934be/design/2025-05-27_7a0054b5d16068.gif?x-oss-process=image/resize,w_640/format,webp",
+    "manual": true,
+    "name": "1-Piece Directional Snap openGrid",
+    "source": "makerworld",
+    "url": "https://makerworld.com/en/models/1458153-1-piece-directional-snap-opengrid"
   },
   "storage/systems/opengrid/snaps/openGrid+-+Metric+Screw+Snaps": {
     "author": "David D",
@@ -5430,9 +5802,18 @@
     "url": "https://makerworld.com/en/models/1412027-opengrid-self-expanding-snap"
   },
   "storage/systems/opengrid/snaps/opengrid-multipoint+lock+snap+-+6mm+hex.3mf": {
-    "source": "makerworld"
+    "author": "TImTucker",
+    "id": "1645955",
+    "imageUrl": "https://makerworld.bblmw.com/makerworld/model/US2ea28edeb2911f/design/2025-07-27_f02013a8625088.jpg?x-oss-process=image/resize,w_640/format,webp",
+    "manual": true,
+    "name": "openGrid - 6mm hex Multiconnect lock snap",
+    "source": "makerworld",
+    "url": "https://makerworld.com/en/models/1645955-opengrid-6mm-hex-multiconnect-lock-snap"
   },
   "storage/systems/skadis-pegboard/bins/IKEA+Skadis+Angled+Bins_stls": {
+    "source": "makerworld"
+  },
+  "storage/systems/skadis-pegboard/bins/Parametric+SKADIS+Bin+Generator": {
     "source": "makerworld"
   },
   "storage/systems/skadis-pegboard/bins/SKADIS+Add-Ons_+Parametric+Bins+and+Shelves": {
@@ -5609,19 +5990,43 @@
     "url": "https://www.thingiverse.com/thing:726700"
   },
   "storage/tool-holders/DeWalt Battery Holder - Square Bottom - 4847364.zip": {
-    "source": "unknown"
+    "author": "trevormbell",
+    "id": "4847364",
+    "imageUrl": "https://resize.thingiverse.com/?url=https://cdn.thingiverse.com/assets/de/8b/b5/76/e1/DeWalt_battery_holder.png&w=1024&h=1024&fit=contain&cbg=white&n=-1",
+    "manual": true,
+    "name": "DeWalt Battery Holder - Square Bottom",
+    "source": "thingiverse",
+    "url": "https://www.thingiverse.com/thing:4847364"
   },
   "storage/tool-holders/Dewalt Battery Holder.zip": {
     "source": "unknown"
   },
   "storage/tool-holders/Dewalt battery mount with logo - 3760975.zip": {
-    "source": "unknown"
+    "author": "Ashf144",
+    "id": "3760975",
+    "imageUrl": "https://resize.thingiverse.com/?url=https://cdn.thingiverse.com/assets/5a/1d/7e/5a/ab/dewalt_new.jpg&w=1024&h=1024&fit=contain&cbg=white&n=-1",
+    "manual": true,
+    "name": "Dewalt battery mount with logo",
+    "source": "thingiverse",
+    "url": "https://www.thingiverse.com/thing:3760975"
   },
   "storage/tool-holders/DeWalt Tool Holder - 3658795.zip": {
-    "source": "unknown"
+    "author": "RiversCo",
+    "id": "3658795",
+    "imageUrl": "https://resize.thingiverse.com/?url=https://cdn.thingiverse.com/renders/ce/39/d6/31/cd/2b448d8ac7bfbee92780a7ff08fe6551.png&w=1024&h=1024&fit=contain&cbg=white&n=-1",
+    "manual": true,
+    "name": "DeWalt Tool Holder",
+    "source": "thingiverse",
+    "url": "https://www.thingiverse.com/thing:3658795"
   },
   "storage/tool-holders/dewalt-tool-hanger-model_files.zip": {
-    "source": "unknown"
+    "author": "dandos23",
+    "id": "221353",
+    "imageUrl": "https://media.printables.com/media/prints/221353/images/2024394_2f3cacb8-6fa9-4b2d-b210-6818b0c62c12/thumbs/inside/640x480/jpg/20220606_201051.webp",
+    "manual": true,
+    "name": "Dewalt tool hanger",
+    "source": "printables",
+    "url": "https://www.printables.com/model/221353-dewalt-tool-hanger"
   },
   "storage/tool-holders/french_cleat_hex_bit_holder": {
     "author": "taddyr",
@@ -5631,10 +6036,22 @@
     "url": "https://www.thingiverse.com/thing:2967241"
   },
   "storage/tool-holders/Gridfinity+2x6x9+Wera+allen+key+holder+v1.3mf": {
-    "source": "makerworld"
+    "author": "Llama16",
+    "id": "895575",
+    "imageUrl": "https://makerworld.bblmw.com/makerworld/model/US4555e6107af143/design/2024-12-19_db7542138e34f.jpg?x-oss-process=image/resize,w_640/format,webp",
+    "manual": true,
+    "name": "Gridfinity Wera Allen key set holder",
+    "source": "makerworld",
+    "url": "https://makerworld.com/en/models/895575-gridfinity-wera-allen-key-set-holder"
   },
   "storage/tool-holders/Gridfinity+holder+for+Elegoo+Vacuum+Auto+Pump.3mf": {
-    "source": "makerworld"
+    "author": "real_alpha",
+    "id": "1620750",
+    "imageUrl": "https://makerworld.bblmw.com/makerworld/model/USaa77f71354ebf1/design/2025-07-19_7d47260270f4a8.jpg?x-oss-process=image/resize,w_640/format,webp",
+    "manual": true,
+    "name": "Gridfinity holder for Elegoo Vacuum Pump",
+    "source": "makerworld",
+    "url": "https://makerworld.com/en/models/1620750-gridfinity-holder-for-elegoo-vacuum-pump"
   },
   "storage/tool-holders/Hex_Bit_Holder_for_Metal_Pegboard_Wall_Control": {
     "author": "Boz",
@@ -5731,7 +6148,13 @@
     "url": "https://www.thingiverse.com/thing:2259904"
   },
   "storage/tool-holders/Wera+allen+wrench+holder.3mf": {
-    "source": "makerworld"
+    "author": "BasementCNC",
+    "id": "525017",
+    "imageUrl": "https://makerworld.bblmw.com/makerworld/model/USf5d8c07d993c57/design/2024-07-04_b480ed78e9b38.png?x-oss-process=image/resize,w_640/format,webp",
+    "manual": true,
+    "name": "Wera Allen key holder",
+    "source": "makerworld",
+    "url": "https://makerworld.com/en/models/525017-wera-allen-key-holder"
   },
   "storage/Ultimate+Bin+Generator": {
     "author": "JeanBeraud",
@@ -5788,7 +6211,13 @@
     "url": "https://www.printables.com/model/777534-wood-gripper-corner-clamp"
   },
   "tools/daisy_m1_m10.3mf": {
-    "source": "unknown"
+    "author": "PLAyful Prints",
+    "id": "2760568",
+    "imageUrl": "https://makerworld.bblmw.com/makerworld/model/US2f2ea7bfce7eba/design/1210d624d0635c0d.png?x-oss-process=image/resize,w_640/format,webp",
+    "manual": true,
+    "name": "Parametric Nut Caps & Knobs System UPDATE",
+    "source": "makerworld",
+    "url": "https://makerworld.com/en/models/2760568-parametric-nut-caps-knobs-system-update"
   },
   "tools/Digital+Caliper+Hole+Depth+Adaptor": {
     "author": "DatumCAD",
@@ -5840,10 +6269,22 @@
     "source": "unknown"
   },
   "tools/hand-tools/drivers/knurled-handle-for-cylinder-head-screw-model_files.zip": {
-    "source": "unknown"
+    "author": "BamBam Design",
+    "id": "751427",
+    "imageUrl": "https://media.printables.com/media/prints/751427/images/5864946_9cfed4ec-d115-4ddd-9ee9-3d6299382fa9_5a9ae11c-72be-4220-a809-eef9f3d096f7/thumbs/inside/640x480/png/3d-screw-handle.webp",
+    "manual": true,
+    "name": "Knurled handle for Socket Head Cap Screw",
+    "source": "printables",
+    "url": "https://www.printables.com/model/751427-knurled-handle-for-socket-head-cap-screw"
   },
   "tools/hand-tools/drivers/Tap wrench M5 M6 M8 - 5260969.zip": {
-    "source": "unknown"
+    "author": "NerdCorner",
+    "id": "5260969",
+    "imageUrl": "https://resize.thingiverse.com/?url=https://cdn.thingiverse.com/assets/6d/23/59/94/f8/m5m8label.jpg&w=1024&h=1024&fit=contain&cbg=white&n=-1",
+    "manual": true,
+    "name": "Tap wrench M5 M6 M8",
+    "source": "thingiverse",
+    "url": "https://www.thingiverse.com/thing:5260969"
   },
   "tools/hand-tools/Milling-Box-master": {
     "source": "unknown"
@@ -5948,7 +6389,13 @@
     "url": "https://www.thingiverse.com/thing:670704"
   },
   "tools/machining/Vertical+Milling+Machine.3mf": {
-    "source": "makerworld"
+    "author": "Carman3D",
+    "id": "211839",
+    "imageUrl": "https://makerworld.bblmw.com/makerworld/model/US7b352e4b4d06dc/design/2025-05-05_47e5be4eede29.png?x-oss-process=image/resize,w_640/format,webp",
+    "manual": true,
+    "name": "Functional Vertical Milling Machine",
+    "source": "makerworld",
+    "url": "https://makerworld.com/en/models/211839-functional-vertical-milling-machine"
   },
   "tools/machining/very-useful-mini-table-saw-v20-model_files": {
     "id": "736387",
@@ -5981,6 +6428,13 @@
   },
   "tools/quarter+sheet+90+outside+corner+sander_stls": {
     "source": "makerworld"
+  },
+  "tools/woodworking/Blade Honing Guide - 6664571": {
+    "author": "Perinski",
+    "id": "6664571",
+    "name": "Blade Honing Guide",
+    "source": "thingiverse",
+    "url": "https://www.thingiverse.com/thing:6664571"
   },
   "tools/woodworking/Blade Honing Guide - 6664571.zip": {
     "source": "unknown"
@@ -6097,6 +6551,42 @@
     "source": "printables",
     "url": "https://www.printables.com/model/96193-pocket-hole-jig"
   },
+  "tools/woodworking/router/Corner+Radius+Jig+for+Router+Mid+Size": {
+    "author": "pomguy",
+    "id": "2804328",
+    "imageUrl": "https://makerworld.bblmw.com/makerworld/model/US2f93ac21cb91c7/design/5bb8804aadbc5257.gif?x-oss-process=image/resize,w_640/format,webp",
+    "manual": true,
+    "name": "Corner Radius Jig for Router Mid Size",
+    "source": "makerworld",
+    "url": "https://makerworld.com/en/models/2804328-corner-radius-jig-for-router-mid-size"
+  },
+  "tools/woodworking/router/CUSTOMISABLE+Router+to+Makita+Rail+connector": {
+    "author": "graffoo",
+    "id": "894197",
+    "imageUrl": "https://makerworld.bblmw.com/makerworld/model/US958ef572bd665f/design/2024-12-19_77dba4edcb209.jpg?x-oss-process=image/resize,w_640/format,webp",
+    "manual": true,
+    "name": "CUSTOMISABLE Router to Makita Rail connector",
+    "source": "makerworld",
+    "url": "https://makerworld.com/en/models/894197-customisable-router-to-makita-rail-connector"
+  },
+  "tools/woodworking/router/Maniglie+incassate+per+mobili+++dima+fresatrice": {
+    "author": "White Ghost Shop",
+    "id": "1602553",
+    "imageUrl": "https://makerworld.bblmw.com/makerworld/model/USd4d2c09c3745ea/design/2025-07-23_a026523fa1d848.png?x-oss-process=image/resize,w_640/format,webp",
+    "manual": true,
+    "name": "Maniglie incassate per mobili + dima fresatrice",
+    "source": "makerworld",
+    "url": "https://makerworld.com/en/models/1602553-recessed-cabinet-handles-router-jig"
+  },
+  "tools/woodworking/router/multi-jig+for+Makita+_+Bosch+_+Dewalt+trim+router": {
+    "author": "maot1985",
+    "id": "1081863",
+    "imageUrl": "https://makerworld.bblmw.com/makerworld/model/US22106f336ca7db/design/2025-02-07_02d275baac57c.jpg?x-oss-process=image/resize,w_640/format,webp",
+    "manual": true,
+    "name": "multi-jig for Makita / Bosch / Dewalt trim router",
+    "source": "makerworld",
+    "url": "https://makerworld.com/en/models/1081863-multi-jig-for-makita-bosch-dewalt-trim-routers"
+  },
   "tools/woodworking/sanding-tools/Customizable_Sanding_Stick": {
     "author": "mightynozzle",
     "id": "2404850",
@@ -6115,6 +6605,84 @@
   },
   "tools/woodworking/Sawhorse-master": {
     "source": "unknown"
+  },
+  "tools/woodworking/workbench/25+CoreBench+-+Bench+Dog+Lockable": {
+    "author": "White Ghost Shop",
+    "id": "1858743",
+    "imageUrl": "https://makerworld.bblmw.com/makerworld/model/US1a298295ce6147/design/2025-10-05_a65f04c8ed4e58.png?x-oss-process=image/resize,w_640/format,webp",
+    "manual": true,
+    "name": "25 CoreBench - Bench Dog Lockable",
+    "source": "makerworld",
+    "url": "https://makerworld.com/en/models/1858743-25-corebench-bench-dog-lockable"
+  },
+  "tools/woodworking/workbench/25+CoreBench+-+Benchdogs": {
+    "author": "White Ghost Shop",
+    "id": "1858727",
+    "imageUrl": "https://makerworld.bblmw.com/makerworld/model/US9765a1c2940680/design/2025-07-01_73fc982684423.png?x-oss-process=image/resize,w_640/format,webp",
+    "manual": true,
+    "name": "25 CoreBench - Benchdogs",
+    "source": "makerworld",
+    "url": "https://makerworld.com/en/models/1858727-25-corebench-benchdogs"
+  },
+  "tools/woodworking/workbench/25+CoreBench+-+Hold+Down": {
+    "author": "White Ghost Shop",
+    "id": "1858722",
+    "imageUrl": "https://makerworld.bblmw.com/makerworld/model/US7709dcffd6844f/design/2025-06-30_8c0036389e6088.png?x-oss-process=image/resize,w_640/format,webp",
+    "manual": true,
+    "name": "25 CoreBench - Hold Down",
+    "source": "makerworld",
+    "url": "https://makerworld.com/en/models/1858722-25-corebench-hold-down"
+  },
+  "tools/woodworking/workbench/25+CoreBench+-+Paint+support": {
+    "author": "White Ghost Shop",
+    "id": "1858733",
+    "imageUrl": "https://makerworld.bblmw.com/makerworld/model/USae3d89fcf581c9/design/2025-07-01_39c916fbac7a88.png?x-oss-process=image/resize,w_640/format,webp",
+    "manual": true,
+    "name": "25 CoreBench - Paint support",
+    "source": "makerworld",
+    "url": "https://makerworld.com/en/models/1858733-25-corebench-paint-support"
+  },
+  "tools/woodworking/workbench/25+CoreBench+-+Sanding+support": {
+    "author": "White Ghost Shop",
+    "id": "1858736",
+    "imageUrl": "https://makerworld.bblmw.com/makerworld/model/US44810c62d736ee/design/2025-06-30_34096271539c5.png?x-oss-process=image/resize,w_640/format,webp",
+    "manual": true,
+    "name": "25 CoreBench - Sanding support",
+    "source": "makerworld",
+    "url": "https://makerworld.com/en/models/1858736-25-corebench-sanding-support"
+  },
+  "tools/woodworking/workbench/25+CoreBench+-+Standard+Block": {
+    "author": "White Ghost Shop",
+    "id": "1858696",
+    "imageUrl": "https://makerworld.bblmw.com/makerworld/model/US6ae7b706891e33/design/2025-06-30_ae6c43e43005c8.png?x-oss-process=image/resize,w_640/format,webp",
+    "manual": true,
+    "name": "25 CoreBench - Standard Block",
+    "source": "makerworld",
+    "url": "https://makerworld.com/en/models/1858696-25-corebench-standard-block"
+  },
+  "tools/woodworking/workbench/25+CoreBench+-+Template+Hole": {
+    "author": "White Ghost Shop",
+    "id": "1858662",
+    "imageUrl": "https://makerworld.bblmw.com/makerworld/model/US9921350d721f4a/design/2025-10-05_128e051c4f355.png?x-oss-process=image/resize,w_640/format,webp",
+    "manual": true,
+    "name": "25 CoreBench - Template Hole",
+    "source": "makerworld",
+    "url": "https://makerworld.com/en/models/1858662-25-corebench-template-hole"
+  },
+  "tools/woodworking/workbench/Flip+Stop+2040+T+Profile_stls": {
+    "source": "makerworld"
+  },
+  "tools/woodworking/workbench/Sawhorse-master": {
+    "source": "unknown"
+  },
+  "tools/woodworking/workbench/trackHinge_stls": {
+    "author": "user_1936561950",
+    "id": "2749082",
+    "imageUrl": "https://makerworld.bblmw.com/makerworld/model/USfbcc08ab81fe83/design/90036c1d72d8ea69.jpeg?x-oss-process=image/resize,w_640/format,webp",
+    "manual": true,
+    "name": "Track Saw Guide Rail Hinge for MFT",
+    "source": "makerworld",
+    "url": "https://makerworld.com/en/models/2749082-track-saw-guide-rail-hinge-for-mft"
   },
   "unsorted/1x4x6.3mf": {
     "source": "unknown"

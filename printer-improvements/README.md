@@ -4,7 +4,7 @@
 
 [Home](../README.md) / **Printer Improvements**
 
-6 builds &middot; 2 Printables &middot; 4 unknown source &middot; 6 collections (72 more builds)
+6 builds &middot; 1 MakerWorld &middot; 2 Printables &middot; 3 unknown source &middot; 6 collections (72 more builds)
 
 ## Collections
 
@@ -32,9 +32,10 @@
 <a href="https://www.printables.com/model/461088-3m-filter-compatible-bayonet">Printables</a> &middot; <a href="3m-filter-compatible-bayonet-model_files">Repo folder</a>
 </td>
 <td width="33%" align="center" valign="top">
-<a href="dessicant"><img src="readme-images/dessicant-0b3da466.webp" width="240" alt="Dessicant"></a><br>
-<b>Dessicant</b><br>
-Source unknown &middot; <a href="dessicant">Repo folder</a>
+<a href="dessicant"><img src="readme-images/dessicant-0b3da466.webp" width="240" alt="Silica Gel Dessicant Container Funnel Lid"></a><br>
+<b>Silica Gel Dessicant Container Funnel Lid</b><br>
+<sub>by Desmodromic</sub><br>
+<a href="https://makerworld.com/en/models/97279-silica-gel-dessicant-container-funnel-lid">MakerWorld</a> &middot; <a href="dessicant">Repo folder</a>
 </td>
 </tr>
 </table>

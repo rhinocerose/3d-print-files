@@ -1,0 +1,4 @@
+#!/bin/sh
+# Shortcut for update_readmes.py, so "update-readmes" works from any folder of the repo once
+# this folder is on your PATH (run scripts/install-linux.sh once).
+exec python3 "$(dirname "$(readlink -f "$0")")/update_readmes.py" "$@"

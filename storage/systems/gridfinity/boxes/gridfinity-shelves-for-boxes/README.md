@@ -16,14 +16,15 @@
 <a href="https://makerworld.com/en/search/models?keyword=Box%20Storage">Search MakerWorld</a> &middot; <a href="box%2Bstorage_stls">Repo folder</a>
 </td>
 <td width="33%" align="center" valign="top">
-<a href="box%2Bstorage%2BAll%2BSize.3mf"><img src="readme-images/box-storage-all-size-3mf-3e7d802e.webp" width="240" alt="box storage All Size"></a><br>
-<b>box storage All Size</b><br>
-<a href="https://makerworld.com/en/search/models?keyword=box%20storage%20All%20Size">Search MakerWorld</a> &middot; <a href="box%2Bstorage%2BAll%2BSize.3mf">box+storage+All+Size.3mf</a>
-</td>
-<td width="33%" align="center" valign="top">
 <i>no preview</i><br>
 <b>box storage All Size</b><br>
 <a href="https://makerworld.com/en/search/models?keyword=box%20storage%20All%20Size">Search MakerWorld</a> &middot; <a href="box%2Bstorage%2BAll%2BSize_stls">Repo folder</a>
+</td>
+<td width="33%" align="center" valign="top">
+<a href="box%2Bstorage%2BAll%2BSize.3mf"><img src="readme-images/box-storage-all-size-3mf-3e7d802e.webp" width="240" alt="Gridfinity Box Storage Frame System"></a><br>
+<b>Gridfinity Box Storage Frame System</b><br>
+<sub>by Baze</sub><br>
+<a href="https://makerworld.com/en/models/1075932-gridfinity-box-storage-frame-system">MakerWorld</a> &middot; <a href="box%2Bstorage%2BAll%2BSize.3mf">box+storage+All+Size.3mf</a>
 </td>
 </tr>
 </table>

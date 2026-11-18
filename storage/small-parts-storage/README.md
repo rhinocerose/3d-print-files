@@ -4,17 +4,12 @@
 
 [Home](../../README.md) / [Storage](../README.md) / **Small Parts Storage**
 
-20 builds &middot; 1 MakerWorld &middot; 3 Printables &middot; 13 Thingiverse &middot; 3 unknown source
+20 builds &middot; 2 MakerWorld &middot; 4 Printables &middot; 14 Thingiverse
 
 ## Small Parts Storage
 
 <table>
 <tr>
-<td width="33%" align="center" valign="top">
-<a href="clamshell-boxes"><img src="readme-images/clamshell-boxes-ace30187.webp" width="240" alt="Clamshell Boxes"></a><br>
-<b>Clamshell Boxes</b><br>
-Source unknown &middot; <a href="clamshell-boxes">Repo folder</a>
-</td>
 <td width="33%" align="center" valign="top">
 <a href="Economical_Drawers_1750692"><img src="Economical_Drawers_1750692/images/Economical_Drawers_-_Drawer_1.jpg" width="240" alt="Economical Drawers"></a><br>
 <b>Economical Drawers</b><br>
@@ -27,14 +22,14 @@ Source unknown &middot; <a href="clamshell-boxes">Repo folder</a>
 <sub>by LR3DUK</sub><br>
 <a href="https://www.thingiverse.com/thing:5210727">Thingiverse</a> &middot; <a href="Fast-Printing_Modular_Drawer_System___Vase_Mode__5210727">Repo folder</a>
 </td>
-</tr>
-<tr>
 <td width="33%" align="center" valign="top">
 <a href="infinity-bins-stackable-sorting-containers-model_files"><img src="readme-images/infinity-bins-stackable-sorting-containers-model-files-8055c477.webp" width="240" alt="Infinity Bins - Stackable Sorting Containers"></a><br>
 <b>Infinity Bins - Stackable Sorting Containers</b><br>
 <sub>by DesignCraft</sub><br>
 <a href="https://www.printables.com/model/737342-infinity-bins-stackable-sorting-containers">Printables</a> &middot; <a href="infinity-bins-stackable-sorting-containers-model_files">Repo folder</a>
 </td>
+</tr>
+<tr>
 <td width="33%" align="center" valign="top">
 <a href="infinity-spool-holders-stackable-storage-containers-wire-solder-ribbon-model_files"><img src="readme-images/infinity-spool-holders-stackable-storage-containers-wire-solder-ribbon-9a06644c.webp" width="240" alt="Infinity Spool Holders - Stackable Storage Containers - Wire, Solder, Ribbon"></a><br>
 <b>Infinity Spool Holders - Stackable Storage Containers - Wire, Solder, Ribbon</b><br>
@@ -47,14 +42,14 @@ Source unknown &middot; <a href="clamshell-boxes">Repo folder</a>
 <sub>by Tokyo_Bird</sub><br>
 <a href="https://www.thingiverse.com/thing:4900080">Thingiverse</a> &middot; <a href="Mini_Container_with_PET_Bottle_Cap_Size_4900080">Repo folder</a>
 </td>
-</tr>
-<tr>
 <td width="33%" align="center" valign="top">
 <a href="Mini_Drawers_Ultimate_1889761"><img src="Mini_Drawers_Ultimate_1889761/images/1x1_Drawer.jpg" width="240" alt="Mini Drawers Ultimate"></a><br>
 <b>Mini Drawers Ultimate</b><br>
 <sub>by zeropage</sub><br>
 <a href="https://www.thingiverse.com/thing:1889761">Thingiverse</a> &middot; <a href="Mini_Drawers_Ultimate_1889761">Repo folder</a>
 </td>
+</tr>
+<tr>
 <td width="33%" align="center" valign="top">
 <a href="Modular_desk_organizer_drawers_5933854"><img src="Modular_desk_organizer_drawers_5933854/images/0FAAB85C-B28B-4F87-A731-8EA654C72EF9.jpeg" width="240" alt="Modular desk organizer drawers"></a><br>
 <b>Modular desk organizer drawers</b><br>
@@ -67,19 +62,25 @@ Source unknown &middot; <a href="clamshell-boxes">Repo folder</a>
 <sub>by Mordemot</sub><br>
 <a href="https://www.thingiverse.com/thing:5844925">Thingiverse</a> &middot; <a href="Modular_drawer_for_electronic_components__Vase_mode__5844925">Repo folder</a>
 </td>
-</tr>
-<tr>
 <td width="33%" align="center" valign="top">
 <a href="Modular_Drawers_2_0_2539830"><img src="Modular_Drawers_2_0_2539830/images/Drawer.jpg" width="240" alt="Modular Drawers 2.0"></a><br>
 <b>Modular Drawers 2.0</b><br>
 <sub>by O3D</sub><br>
 <a href="https://www.thingiverse.com/thing:2539830">Thingiverse</a> &middot; <a href="Modular_Drawers_2_0_2539830">Repo folder</a>
 </td>
+</tr>
+<tr>
 <td width="33%" align="center" valign="top">
 <a href="Modular_Organizer_Boxes_6017341"><img src="Modular_Organizer_Boxes_6017341/images/IMG_8440.jpg" width="240" alt="Modular Organizer Boxes"></a><br>
 <b>Modular Organizer Boxes</b><br>
 <sub>by ZMonstar</sub><br>
 <a href="https://www.thingiverse.com/thing:6017341">Thingiverse</a> &middot; <a href="Modular_Organizer_Boxes_6017341">Repo folder</a>
+</td>
+<td width="33%" align="center" valign="top">
+<a href="modular-organizer-drawers-model_files.zip"><img src="readme-images/modular-organizer-drawers-model-files-zip-33b9100d.webp" width="240" alt="Modular Organizer Drawers"></a><br>
+<b>Modular Organizer Drawers</b><br>
+<sub>by Andre Campos</sub><br>
+<a href="https://www.printables.com/model/54131-modular-organizer-drawers">Printables</a> &middot; <a href="modular-organizer-drawers-model_files.zip">modular-organizer-drawers-model_files.zip</a>
 </td>
 <td width="33%" align="center" valign="top">
 <a href="modular-shelving-system-hobby-workshop-small-parts-storage-model_files"><img src="readme-images/modular-shelving-system-hobby-workshop-small-parts-storage-model-files-65b5dff8.webp" width="240" alt="Modular shelving system - Hobby &amp; Workshop - Small parts storage"></a><br>
@@ -102,13 +103,19 @@ Source unknown &middot; <a href="clamshell-boxes">Repo folder</a>
 <a href="https://www.thingiverse.com/thing:1489606">Thingiverse</a> &middot; <a href="SciFi_Small_Part_Storage_Crates_1489606">Repo folder</a>
 </td>
 <td width="33%" align="center" valign="top">
+<a href="Small%20Parts%20Funnel%20Tray%20-%20918864.zip"><img src="readme-images/small-parts-funnel-tray-918864-zip-175309db.webp" width="240" alt="Small Parts Funnel Tray"></a><br>
+<b>Small Parts Funnel Tray</b><br>
+<sub>by countspatula</sub><br>
+<a href="https://www.thingiverse.com/thing:918864">Thingiverse</a> &middot; <a href="Small%20Parts%20Funnel%20Tray%20-%20918864.zip">Small Parts Funnel Tray - 918864.zip</a>
+</td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top">
 <a href="Small%2BParts%2BStorage%2BBox%2Bw_Gridfinity%2Btray"><img src="readme-images/small-parts-storage-box-w-gridfinity-tray-2cc846ce.webp" width="240" alt="Small Parts Storage Box w/Gridfinity tray"></a><br>
 <b>Small Parts Storage Box w/Gridfinity tray</b><br>
 <sub>by Josh-3D</sub><br>
 <a href="https://makerworld.com/en/models/593096-small-parts-storage-box-w-gridfinity-tray">MakerWorld</a> &middot; <a href="Small%2BParts%2BStorage%2BBox%2Bw_Gridfinity%2Btray">Repo folder</a>
 </td>
-</tr>
-<tr>
 <td width="33%" align="center" valign="top">
 <a href="Stackable_Battery_Holders_1004996"><img src="Stackable_Battery_Holders_1004996/images/AA-Base.jpg" width="240" alt="Stackable Battery Holders"></a><br>
 <b>Stackable Battery Holders</b><br>
@@ -121,19 +128,20 @@ Source unknown &middot; <a href="clamshell-boxes">Repo folder</a>
 <sub>by Maoman</sub><br>
 <a href="https://www.thingiverse.com/thing:5167643">Thingiverse</a> &middot; <a href="Stackable_StorageDrawers_5167643">Repo folder</a>
 </td>
+</tr>
+<tr>
 <td width="33%" align="center" valign="top">
 <a href="Various_Size_Stackable_Resistor_Storage_Box_3873672"><img src="Various_Size_Stackable_Resistor_Storage_Box_3873672/images/BoxBottomMiddle_2x1x1.png" width="240" alt="Various Size Stackable Resistor Storage Box"></a><br>
 <b>Various Size Stackable Resistor Storage Box</b><br>
 <sub>by termlimit</sub><br>
 <a href="https://www.thingiverse.com/thing:3873672">Thingiverse</a> &middot; <a href="Various_Size_Stackable_Resistor_Storage_Box_3873672">Repo folder</a>
 </td>
+<td width="33%" align="center" valign="top">
+<a href="clamshell-boxes"><img src="readme-images/clamshell-boxes-ace30187.webp" width="240" alt="Vertical Rack for Clamshell Boxes"></a><br>
+<b>Vertical Rack for Clamshell Boxes</b><br>
+<sub>by Nick Johnson</sub><br>
+<a href="https://makerworld.com/en/models/812335-vertical-rack-for-clamshell-boxes">MakerWorld</a> &middot; <a href="clamshell-boxes">Repo folder</a>
+</td>
 </tr>
 </table>
-
-<details><summary>Other files in this folder (2)</summary>
-
-- [modular-organizer-drawers-model_files.zip](modular-organizer-drawers-model_files.zip)
-- [Small Parts Funnel Tray - 918864.zip](Small%20Parts%20Funnel%20Tray%20-%20918864.zip)
-
-</details>
 

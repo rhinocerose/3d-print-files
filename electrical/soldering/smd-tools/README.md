@@ -4,12 +4,18 @@
 
 [Home](../../../README.md) / [Electrical](../../README.md) / [Soldering](../README.md) / **Smd Tools**
 
-8 builds &middot; 7 Thingiverse &middot; 1 unknown source
+8 builds &middot; 1 Printables &middot; 7 Thingiverse
 
 ## Smd Tools
 
 <table>
 <tr>
+<td width="33%" align="center" valign="top">
+<a href="din-mount-smd-dispenser-system-model_files.zip"><img src="readme-images/din-mount-smd-dispenser-system-model-files-zip-f5ce7050.webp" width="240" alt="DIN mount SMD dispenser system"></a><br>
+<b>DIN mount SMD dispenser system</b><br>
+<sub>by mahatmaJman</sub><br>
+<a href="https://www.printables.com/model/246836-din-mount-smd-dispenser-system">Printables</a> &middot; <a href="din-mount-smd-dispenser-system-model_files.zip">din-mount-smd-dispenser-system-model_files.zip</a>
+</td>
 <td width="33%" align="center" valign="top">
 <a href="SMD_Jig"><img src="SMD_Jig/images/2aff864bde16c5277d0307ebac859d5e_preview_featured.jpg" width="240" alt="SMD Jig"></a><br>
 <b>SMD Jig</b><br>
@@ -22,14 +28,14 @@
 <sub>by Wiles</sub><br>
 <a href="https://www.thingiverse.com/thing:2486949">Thingiverse</a> &middot; <a href="SMD_Part_Flipper">Repo folder</a>
 </td>
+</tr>
+<tr>
 <td width="33%" align="center" valign="top">
 <a href="SMD_solder_holder"><img src="SMD_solder_holder/images/47a60a92ecee3ed02a14a442c6d30ff2_preview_featured.jpg" width="240" alt="SMD solder holder"></a><br>
 <b>SMD solder holder</b><br>
 <sub>by mmalcek</sub><br>
 <a href="https://www.thingiverse.com/thing:1718197">Thingiverse</a> &middot; <a href="SMD_solder_holder">Repo folder</a>
 </td>
-</tr>
-<tr>
 <td width="33%" align="center" valign="top">
 <i>no preview</i><br>
 <b>SMD Soldering assistant</b><br>
@@ -42,14 +48,14 @@
 <sub>by demenev</sub><br>
 <a href="https://www.thingiverse.com/thing:2900194">Thingiverse</a> &middot; <a href="SMD_soldering_clamp">Repo folder</a>
 </td>
+</tr>
+<tr>
 <td width="33%" align="center" valign="top">
 <i>no preview</i><br>
 <b>SMD soldering long clamp</b><br>
 <sub>by TK_DESIGN</sub><br>
 <a href="https://www.thingiverse.com/thing:3386223">Thingiverse</a> &middot; <a href="SMD_soldering_long_clamp">Repo folder</a>
 </td>
-</tr>
-<tr>
 <td width="33%" align="center" valign="top">
 <a href="Soldering_Fingers"><img src="Soldering_Fingers/images/7ca4224a32fe01384a08c2cbf92d5220_preview_featured.jpg" width="240" alt="Soldering Fingers"></a><br>
 <b>Soldering Fingers</b><br>
@@ -58,10 +64,4 @@
 </td>
 </tr>
 </table>
-
-<details><summary>Other files in this folder (1)</summary>
-
-- [din-mount-smd-dispenser-system-model_files.zip](din-mount-smd-dispenser-system-model_files.zip)
-
-</details>
 

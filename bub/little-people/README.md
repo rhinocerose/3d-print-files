@@ -4,12 +4,18 @@
 
 [Home](../../README.md) / [Bub](../README.md) / **Little People**
 
-4 builds &middot; 2 Printables &middot; 2 unknown source
+4 builds &middot; 2 MakerWorld &middot; 2 Printables
 
 ## Little People
 
 <table>
 <tr>
+<td width="33%" align="center" valign="top">
+<a href="LittlePeopleAdaptorV2.3mf"><img src="readme-images/littlepeopleadaptorv2-3mf-a1612ab6.webp" width="240" alt="Adaptor for Little People and MegaBlocks"></a><br>
+<b>Adaptor for Little People and MegaBlocks</b><br>
+<sub>by K Main</sub><br>
+<a href="https://makerworld.com/en/models/3130993-adaptor-for-little-people-and-megablocks">MakerWorld</a> &middot; <a href="LittlePeopleAdaptorV2.3mf">LittlePeopleAdaptorV2.3mf</a>
+</td>
 <td width="33%" align="center" valign="top">
 <a href="classic-little-people-couch-model_files"><img src="readme-images/classic-little-people-couch-model-files-4162fd8f.webp" width="240" alt="Classic Little People Couch"></a><br>
 <b>Classic Little People Couch</b><br>
@@ -22,17 +28,13 @@
 <sub>by XYZBenchy</sub><br>
 <a href="https://www.printables.com/model/1026242-fisher-price-little-people-compatible-furniture-ch">Printables</a> &middot; <a href="fisher-price-little-people-compatible-furniture-chair-bed-table-model_files">Repo folder</a>
 </td>
-<td width="33%" align="center" valign="top">
-<a href="LittlePeopleAdaptorV2.3mf"><img src="readme-images/littlepeopleadaptorv2-3mf-a1612ab6.webp" width="240" alt="LittlePeopleAdaptorV2"></a><br>
-<b>LittlePeopleAdaptorV2</b><br>
-Source unknown &middot; <a href="LittlePeopleAdaptorV2.3mf">LittlePeopleAdaptorV2.3mf</a>
-</td>
 </tr>
 <tr>
 <td width="33%" align="center" valign="top">
-<a href="Miniature_Slide.3mf"><img src="readme-images/miniature-slide-3mf-d8e173b2.webp" width="240" alt="Miniature_Slide"></a><br>
-<b>Miniature_Slide</b><br>
-Source unknown &middot; <a href="Miniature_Slide.3mf">Miniature_Slide.3mf</a>
+<a href="Miniature_Slide.3mf"><img src="readme-images/miniature-slide-3mf-d8e173b2.webp" width="240" alt="Miniature Slide　人形用　滑り台"></a><br>
+<b>Miniature Slide　人形用　滑り台</b><br>
+<sub>by user_4051991182</sub><br>
+<a href="https://makerworld.com/en/models/2272013-miniature-slide-for-dolls">MakerWorld</a> &middot; <a href="Miniature_Slide.3mf">Miniature_Slide.3mf</a>
 </td>
 </tr>
 </table>

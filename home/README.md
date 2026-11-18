@@ -4,7 +4,7 @@
 
 [Home](../README.md) / **Home**
 
-7 builds &middot; 3 MakerWorld &middot; 2 Printables &middot; 2 unknown source &middot; 8 collections (71 more builds)
+7 builds &middot; 4 MakerWorld &middot; 2 Printables &middot; 1 unknown source &middot; 8 collections (71 more builds)
 
 ## Collections
 
@@ -53,9 +53,10 @@ Source unknown &middot; <a href="latch-for-cardboard-box">Repo folder</a>
 <a href="https://makerworld.com/en/models/1179211-modular-shelf-for-wall-floor-desk">MakerWorld</a> &middot; <a href="Modular%2BShelf%2Bfor%2BWall%2B_%2BFloor%2B_%2BDesk">Repo folder</a>
 </td>
 <td width="33%" align="center" valign="top">
-<a href="Parametric-Picture-Frame-Generator-v2.3mf"><img src="readme-images/parametric-picture-frame-generator-v2-3mf-4a79c68b.webp" width="240" alt="Parametric-Picture-Frame-Generator-v2"></a><br>
-<b>Parametric-Picture-Frame-Generator-v2</b><br>
-Source unknown &middot; <a href="Parametric-Picture-Frame-Generator-v2.3mf">Parametric-Picture-Frame-Generator-v2.3mf</a>
+<a href="Parametric-Picture-Frame-Generator-v2.3mf"><img src="readme-images/parametric-picture-frame-generator-v2-3mf-4a79c68b.webp" width="240" alt="Parametric Picture Frame Generator"></a><br>
+<b>Parametric Picture Frame Generator</b><br>
+<sub>by zomb</sub><br>
+<a href="https://makerworld.com/en/models/3023964-parametric-picture-frame-generator">MakerWorld</a> &middot; <a href="Parametric-Picture-Frame-Generator-v2.3mf">Parametric-Picture-Frame-Generator-v2.3mf</a>
 </td>
 </tr>
 <tr>

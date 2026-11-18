@@ -4,7 +4,7 @@
 
 [Home](../../README.md) / [Home](../README.md) / **Bathroom**
 
-7 builds &middot; 2 MakerWorld &middot; 3 Printables &middot; 2 unknown source
+7 builds &middot; 3 MakerWorld &middot; 3 Printables &middot; 1 unknown source
 
 ## Bathroom
 
@@ -22,9 +22,10 @@ Source unknown &middot; <a href="A1-corner-shelf-PLA.3mf">A1-corner-shelf-PLA.3m
 <a href="https://www.printables.com/model/712408-bathroom-corner-shelf-no-drilling">Printables</a> &middot; <a href="bathroom-corner-shelf-no-drilling-model_files">Repo folder</a>
 </td>
 <td width="33%" align="center" valign="top">
-<a href="Bathroom-shelf.3mf"><img src="readme-images/bathroom-shelf-3mf-39cc53d2.webp" width="240" alt="Bathroom-shelf"></a><br>
-<b>Bathroom-shelf</b><br>
-Source unknown &middot; <a href="Bathroom-shelf.3mf">Bathroom-shelf.3mf</a>
+<a href="Bathroom-shelf.3mf"><img src="readme-images/bathroom-shelf-3mf-39cc53d2.webp" width="240" alt="Bathroom corner shelf - No drilling"></a><br>
+<b>Bathroom corner shelf - No drilling</b><br>
+<sub>by linusfransson16</sub><br>
+<a href="https://makerworld.com/en/models/1062698-bathroom-corner-shelf-no-drilling">MakerWorld</a> &middot; <a href="Bathroom-shelf.3mf">Bathroom-shelf.3mf</a>
 </td>
 </tr>
 <tr>

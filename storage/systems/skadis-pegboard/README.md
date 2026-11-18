@@ -4,11 +4,11 @@
 
 [Home](../../../README.md) / [Storage](../../README.md) / [Systems](../README.md) / **Skadis Pegboard**
 
-12 builds &middot; 7 MakerWorld &middot; 5 Printables &middot; 3 collections (11 more builds)
+12 builds &middot; 7 MakerWorld &middot; 5 Printables &middot; 3 collections (12 more builds)
 
 ## Collections
 
-- [Bins](bins/README.md) - 5 builds
+- [Bins](bins/README.md) - 6 builds
 - [Pegboard](pegboard/README.md) - 4 builds
 - [Tool Holders](tool-holders/README.md) - 2 builds
 

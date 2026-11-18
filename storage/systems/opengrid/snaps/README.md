@@ -11,9 +11,16 @@
 <table>
 <tr>
 <td width="33%" align="center" valign="top">
-<a href="lite%2Bopengrid%2Bdirectional%2Bsnap%2BV2.3mf"><img src="readme-images/lite-opengrid-directional-snap-v2-3mf-c5737c70.webp" width="240" alt="lite opengrid directional snap V2"></a><br>
-<b>lite opengrid directional snap V2</b><br>
-<a href="https://makerworld.com/en/search/models?keyword=lite%20opengrid%20directional%20snap%20V2">Search MakerWorld</a> &middot; <a href="lite%2Bopengrid%2Bdirectional%2Bsnap%2BV2.3mf">lite+opengrid+directional+snap+V2.3mf</a>
+<a href="lite%2Bopengrid%2Bdirectional%2Bsnap%2BV2.3mf"><img src="readme-images/lite-opengrid-directional-snap-v2-3mf-c5737c70.webp" width="240" alt="1-Piece Directional Snap openGrid"></a><br>
+<b>1-Piece Directional Snap openGrid</b><br>
+<sub>by Gavin F</sub><br>
+<a href="https://makerworld.com/en/models/1458153-1-piece-directional-snap-opengrid">MakerWorld</a> &middot; <a href="lite%2Bopengrid%2Bdirectional%2Bsnap%2BV2.3mf">lite+opengrid+directional+snap+V2.3mf</a>
+</td>
+<td width="33%" align="center" valign="top">
+<a href="opengrid-multipoint%2Block%2Bsnap%2B-%2B6mm%2Bhex.3mf"><img src="readme-images/opengrid-multipoint-lock-snap-6mm-hex-3mf-19785bbc.webp" width="240" alt="openGrid - 6mm hex Multiconnect lock snap"></a><br>
+<b>openGrid - 6mm hex Multiconnect lock snap</b><br>
+<sub>by TImTucker</sub><br>
+<a href="https://makerworld.com/en/models/1645955-opengrid-6mm-hex-multiconnect-lock-snap">MakerWorld</a> &middot; <a href="opengrid-multipoint%2Block%2Bsnap%2B-%2B6mm%2Bhex.3mf">opengrid-multipoint+lock+snap+-+6mm+hex.3mf</a>
 </td>
 <td width="33%" align="center" valign="top">
 <a href="openGrid%2B-%2BMetric%2BScrew%2BSnaps"><img src="readme-images/opengrid-metric-screw-snaps-d35c22b0.webp" width="240" alt="openGrid - Metric Screw Snaps"></a><br>
@@ -21,18 +28,13 @@
 <sub>by David D</sub><br>
 <a href="https://makerworld.com/en/models/1179230-opengrid-metric-screw-snaps">MakerWorld</a> &middot; <a href="openGrid%2B-%2BMetric%2BScrew%2BSnaps">Repo folder</a>
 </td>
+</tr>
+<tr>
 <td width="33%" align="center" valign="top">
 <a href="openGrid%2B-%2BSelf-Expanding%2BSnap"><img src="readme-images/opengrid-self-expanding-snap-378920fd.webp" width="240" alt="openGrid - Self-Expanding Snap"></a><br>
 <b>openGrid - Self-Expanding Snap</b><br>
 <sub>by mitufy</sub><br>
 <a href="https://makerworld.com/en/models/1412027-opengrid-self-expanding-snap">MakerWorld</a> &middot; <a href="openGrid%2B-%2BSelf-Expanding%2BSnap">Repo folder</a>
-</td>
-</tr>
-<tr>
-<td width="33%" align="center" valign="top">
-<a href="opengrid-multipoint%2Block%2Bsnap%2B-%2B6mm%2Bhex.3mf"><img src="readme-images/opengrid-multipoint-lock-snap-6mm-hex-3mf-19785bbc.webp" width="240" alt="opengrid-multipoint lock snap - 6mm hex"></a><br>
-<b>opengrid-multipoint lock snap - 6mm hex</b><br>
-<a href="https://makerworld.com/en/search/models?keyword=opengrid-multipoint%20lock%20snap%20-%206mm%20hex">Search MakerWorld</a> &middot; <a href="opengrid-multipoint%2Block%2Bsnap%2B-%2B6mm%2Bhex.3mf">opengrid-multipoint+lock+snap+-+6mm+hex.3mf</a>
 </td>
 </tr>
 </table>

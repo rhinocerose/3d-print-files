@@ -1,0 +1,5 @@
+# Linux scripts must keep LF line endings or their #! line breaks
+*.sh                   text eol=lf
+*.py                   text eol=lf
+scripts/add-model      text eol=lf
+scripts/update-readmes text eol=lf

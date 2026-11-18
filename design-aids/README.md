@@ -4,17 +4,31 @@
 
 [Home](../README.md) / **Design Aids**
 
-8 builds &middot; 3 MakerWorld &middot; 3 Printables &middot; 2 unknown source
+8 builds &middot; 3 MakerWorld &middot; 5 Printables
 
 ## Design Aids
 
 <table>
 <tr>
 <td width="33%" align="center" valign="top">
+<a href="Thickness%2BGauges%2BVersion%2B2.0%2B-%2BNon%2BStacking%2B.3mf"><img src="readme-images/thickness-gauges-version-2-0-non-stacking-3mf-b296fed8.webp" width="240" alt="0.5mm - 5mm Thickness Guide 2.0 Gridfinity Set"></a><br>
+<b>0.5mm - 5mm Thickness Guide 2.0 Gridfinity Set</b><br>
+<sub>by Ty&#39;s 3D Printing</sub><br>
+<a href="https://makerworld.com/en/models/949937-0-5mm-5mm-thickness-guide-2-0-gridfinity-set">MakerWorld</a> &middot; <a href="Thickness%2BGauges%2BVersion%2B2.0%2B-%2BNon%2BStacking%2B.3mf">Thickness+Gauges+Version+2.0+-+Non+Stacking+.3mf</a>
+</td>
+<td width="33%" align="center" valign="top">
+<a href="Thickness%2BGauges%2BVersion%2B2.0%2B-%2BStacking%2B.3mf"><img src="readme-images/thickness-gauges-version-2-0-stacking-3mf-d8e77b32.webp" width="240" alt="0.5mm - 5mm Thickness Guide 2.0 Gridfinity Set"></a><br>
+<b>0.5mm - 5mm Thickness Guide 2.0 Gridfinity Set</b><br>
+<sub>by Ty&#39;s 3D Printing</sub><br>
+<a href="https://makerworld.com/en/models/949937-0-5mm-5mm-thickness-guide-2-0-gridfinity-set">MakerWorld</a> &middot; <a href="Thickness%2BGauges%2BVersion%2B2.0%2B-%2BStacking%2B.3mf">Thickness+Gauges+Version+2.0+-+Stacking+.3mf</a>
+</td>
+<td width="33%" align="center" valign="top">
 <a href="ALCH_hardware%2Bdesign%2Bboard%2Bset"><img src="readme-images/alch-hardware-design-board-set-654d6f1e.png" width="240" alt="ALCH hardware design board set"></a><br>
 <b>ALCH hardware design board set</b><br>
 <a href="https://makerworld.com/en/search/models?keyword=ALCH%20hardware%20design%20board%20set">Search MakerWorld</a> &middot; <a href="ALCH_hardware%2Bdesign%2Bboard%2Bset">Repo folder</a>
 </td>
+</tr>
+<tr>
 <td width="33%" align="center" valign="top">
 <a href="fine-fillet-gauge-set-with-custom-gridfinity-holders-model_files"><img src="readme-images/fine-fillet-gauge-set-with-custom-gridfinity-holders-model-files-cf6f202d.webp" width="240" alt="Fine Fillet Gauge Set with Custom Gridfinity Holders"></a><br>
 <b>Fine Fillet Gauge Set with Custom Gridfinity Holders</b><br>
@@ -27,30 +41,25 @@
 <sub>by Volki</sub><br>
 <a href="https://www.printables.com/model/1274247-fixed-gridfinity-radiusfillet-guage-blocks-and-hol">Printables</a> &middot; <a href="fixed-gridfinity-radiusfillet-guage-blocks-and-holder-now-with-labels-model_files">Repo folder</a>
 </td>
-</tr>
-<tr>
 <td width="33%" align="center" valign="top">
 <a href="hardware-design-boards-model_files"><img src="readme-images/hardware-design-boards-model-files-c35ef460.png" width="240" alt="Hardware Design Boards"></a><br>
 <b>Hardware Design Boards</b><br>
 <a href="https://www.printables.com/model/1064488">Printables</a> &middot; <a href="hardware-design-boards-model_files">Repo folder</a>
 </td>
+</tr>
+<tr>
 <td width="33%" align="center" valign="top">
-<a href="Thickness%2BGauges%2BVersion%2B2.0%2B-%2BNon%2BStacking%2B.3mf"><img src="readme-images/thickness-gauges-version-2-0-non-stacking-3mf-b296fed8.webp" width="240" alt="Thickness Gauges Version 2.0 - Non Stacking "></a><br>
-<b>Thickness Gauges Version 2.0 - Non Stacking </b><br>
-<a href="https://makerworld.com/en/search/models?keyword=Thickness%20Gauges%20Version%202.0%20-%20Non%20Stacking%20">Search MakerWorld</a> &middot; <a href="Thickness%2BGauges%2BVersion%2B2.0%2B-%2BNon%2BStacking%2B.3mf">Thickness+Gauges+Version+2.0+-+Non+Stacking+.3mf</a>
+<a href="perfect-polygon-angle-finder-set-model_files.zip"><img src="readme-images/perfect-polygon-angle-finder-set-model-files-zip-25deb70b.webp" width="240" alt="Perfect Polygon Angle Finder Set"></a><br>
+<b>Perfect Polygon Angle Finder Set</b><br>
+<sub>by Hands on Katie</sub><br>
+<a href="https://www.printables.com/model/777389-perfect-polygon-angle-finder-set">Printables</a> &middot; <a href="perfect-polygon-angle-finder-set-model_files.zip">perfect-polygon-angle-finder-set-model_files.zip</a>
 </td>
 <td width="33%" align="center" valign="top">
-<a href="Thickness%2BGauges%2BVersion%2B2.0%2B-%2BStacking%2B.3mf"><img src="readme-images/thickness-gauges-version-2-0-stacking-3mf-d8e77b32.webp" width="240" alt="Thickness Gauges Version 2.0 - Stacking "></a><br>
-<b>Thickness Gauges Version 2.0 - Stacking </b><br>
-<a href="https://makerworld.com/en/search/models?keyword=Thickness%20Gauges%20Version%202.0%20-%20Stacking%20">Search MakerWorld</a> &middot; <a href="Thickness%2BGauges%2BVersion%2B2.0%2B-%2BStacking%2B.3mf">Thickness+Gauges+Version+2.0+-+Stacking+.3mf</a>
+<a href="sweet-centre-spot-finder-for-straight-objects-model_files.zip"><img src="readme-images/sweet-centre-spot-finder-for-straight-objects-model-files-zip-2c6389af.webp" width="240" alt="Sweet Centre Spot Finder (For Straight Objects)"></a><br>
+<b>Sweet Centre Spot Finder (For Straight Objects)</b><br>
+<sub>by Hands on Katie</sub><br>
+<a href="https://www.printables.com/model/777455-sweet-centre-spot-finder-for-straight-objects">Printables</a> &middot; <a href="sweet-centre-spot-finder-for-straight-objects-model_files.zip">sweet-centre-spot-finder-for-straight-objects-model_files.zip</a>
 </td>
 </tr>
 </table>
-
-<details><summary>Other files in this folder (2)</summary>
-
-- [perfect-polygon-angle-finder-set-model_files.zip](perfect-polygon-angle-finder-set-model_files.zip)
-- [sweet-centre-spot-finder-for-straight-objects-model_files.zip](sweet-centre-spot-finder-for-straight-objects-model_files.zip)
-
-</details>
 

@@ -4,7 +4,7 @@
 
 [Home](../../../README.md) / [Storage](../../README.md) / [Cable Storage](../README.md) / **Gridfinity**
 
-6 builds &middot; 5 MakerWorld &middot; 1 unknown source
+6 builds &middot; 6 MakerWorld
 
 ## Gridfinity
 
@@ -39,9 +39,10 @@
 <a href="https://makerworld.com/en/search/models?keyword=Rugged%20Cable%20Organizer%20-%20Gridfinity">Search MakerWorld</a> &middot; <a href="Rugged%2BCable%2BOrganizer%2B-%2BGridfinity">Repo folder</a>
 </td>
 <td width="33%" align="center" valign="top">
-<a href="Rugged-Cable-Organizer_X1C.3mf"><img src="readme-images/rugged-cable-organizer-x1c-3mf-aaf6e40b.webp" width="240" alt="Rugged-Cable-Organizer_X1C"></a><br>
-<b>Rugged-Cable-Organizer_X1C</b><br>
-Source unknown &middot; <a href="Rugged-Cable-Organizer_X1C.3mf">Rugged-Cable-Organizer_X1C.3mf</a>
+<a href="Rugged-Cable-Organizer_X1C.3mf"><img src="readme-images/rugged-cable-organizer-x1c-3mf-aaf6e40b.webp" width="240" alt="Rugged Cable Organizer - USB Gridfinity Box Tray"></a><br>
+<b>Rugged Cable Organizer - USB Gridfinity Box Tray</b><br>
+<sub>by K2_Kevin</sub><br>
+<a href="https://makerworld.com/en/models/1882353-rugged-cable-organizer-usb-gridfinity-box-tray">MakerWorld</a> &middot; <a href="Rugged-Cable-Organizer_X1C.3mf">Rugged-Cable-Organizer_X1C.3mf</a>
 </td>
 </tr>
 </table>

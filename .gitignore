@@ -1,3 +1,6 @@
 # MakerWorld login token used by scripts/Add-Model.ps1 and scripts/add_model.py - never commit it
 scripts/.makerworld-token
+# Thingiverse app token and Cults3D API key used by the same scripts
+scripts/.thingiverse-token
+scripts/.cults3d-key
 scripts/__pycache__/

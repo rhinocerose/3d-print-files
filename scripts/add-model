@@ -1,0 +1,4 @@
+#!/bin/sh
+# Shortcut for add_model.py, so "add-model <url>" works from any folder of the repo once
+# this folder is on your PATH (run scripts/install-linux.sh once).
+exec python3 "$(dirname "$(readlink -f "$0")")/add_model.py" "$@"

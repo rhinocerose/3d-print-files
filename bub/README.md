@@ -4,7 +4,7 @@
 
 [Home](../README.md) / **Bub**
 
-3 builds &middot; 3 unknown source &middot; 2 collections (22 more builds)
+3 builds &middot; 3 MakerWorld &middot; 2 collections (22 more builds)
 
 ## Collections
 
@@ -16,17 +16,21 @@
 <table>
 <tr>
 <td width="33%" align="center" valign="top">
-<a href="kitchen"><img src="readme-images/kitchen-09228dac.webp" width="240" alt="Kitchen"></a><br>
-<b>Kitchen</b><br>
-Source unknown &middot; <a href="kitchen">Repo folder</a>
+<i>no preview</i><br>
+<b>260616 All Printers AMS</b><br>
+<a href="https://makerworld.com/en/search/models?keyword=260616%20All%20Printers%20AMS">Search MakerWorld</a> &middot; <a href="260616_All_Printers_AMS_stls">Repo folder</a>
+</td>
+<td width="33%" align="center" valign="top">
+<i>no preview</i><br>
+<b>260616 Monochrome</b><br>
+<a href="https://makerworld.com/en/search/models?keyword=260616%20Monochrome">Search MakerWorld</a> &middot; <a href="260616_Monochrome_stls">Repo folder</a>
+</td>
+<td width="33%" align="center" valign="top">
+<a href="kitchen"><img src="readme-images/kitchen-09228dac.webp" width="240" alt="Stack &amp; Play Dishes – Large &amp; Small Bowls"></a><br>
+<b>Stack &amp; Play Dishes – Large &amp; Small Bowls</b><br>
+<sub>by Phazor</sub><br>
+<a href="https://makerworld.com/en/models/1987011-stack-play-dishes-large-small-bowls">MakerWorld</a> &middot; <a href="kitchen">Repo folder</a>
 </td>
 </tr>
 </table>
-
-<details><summary>Other files in this folder (2)</summary>
-
-- [260616_All_Printers_AMS_stls.zip](260616_All_Printers_AMS_stls.zip)
-- [260616_Monochrome_stls.zip](260616_Monochrome_stls.zip)
-
-</details>
 

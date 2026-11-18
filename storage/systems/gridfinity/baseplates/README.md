@@ -11,9 +11,10 @@
 <table>
 <tr>
 <td width="33%" align="center" valign="top">
-<a href="4x4%2Bsuperlight%2B4%2B8%2Bstack%2BNEW%2BAND%2BIMPROVED.3mf"><img src="readme-images/4x4-superlight-4-8-stack-new-and-improved-3mf-c8fb02df.webp" width="240" alt="4x4 superlight 4 8 stack NEW AND IMPROVED"></a><br>
-<b>4x4 superlight 4 8 stack NEW AND IMPROVED</b><br>
-<a href="https://makerworld.com/en/search/models?keyword=4x4%20superlight%204%208%20stack%20NEW%20AND%20IMPROVED">Search MakerWorld</a> &middot; <a href="4x4%2Bsuperlight%2B4%2B8%2Bstack%2BNEW%2BAND%2BIMPROVED.3mf">4x4+superlight+4+8+stack+NEW+AND+IMPROVED.3mf</a>
+<a href="4x4%2Bsuperlight%2B4%2B8%2Bstack%2BNEW%2BAND%2BIMPROVED.3mf"><img src="readme-images/4x4-superlight-4-8-stack-new-and-improved-3mf-c8fb02df.webp" width="240" alt="4x4 Gridfinity Superlight Baseplate Stack A1 Mini"></a><br>
+<b>4x4 Gridfinity Superlight Baseplate Stack A1 Mini</b><br>
+<sub>by Connor</sub><br>
+<a href="https://makerworld.com/en/models/811148-4x4-gridfinity-superlight-baseplate-stack-a1-mini">MakerWorld</a> &middot; <a href="4x4%2Bsuperlight%2B4%2B8%2Bstack%2BNEW%2BAND%2BIMPROVED.3mf">4x4+superlight+4+8+stack+NEW+AND+IMPROVED.3mf</a>
 </td>
 <td width="33%" align="center" valign="top">
 <a href="Base%2BGrid%2B5x5%2B16-STACK-makerworld.3mf"><img src="readme-images/base-grid-5x5-16-stack-makerworld-3mf-c037fb35.webp" width="240" alt="Base Grid 5x5 16-STACK-makerworld"></a><br>
@@ -21,29 +22,17 @@
 <a href="https://makerworld.com/en/search/models?keyword=Base%20Grid%205x5%2016-STACK-makerworld">Search MakerWorld</a> &middot; <a href="Base%2BGrid%2B5x5%2B16-STACK-makerworld.3mf">Base+Grid+5x5+16-STACK-makerworld.3mf</a>
 </td>
 <td width="33%" align="center" valign="top">
-<a href="Base%2BGrid%2B5x5%2B8-STACK-makerworld.3mf"><img src="readme-images/base-grid-5x5-8-stack-makerworld-3mf-bf7ec25e.webp" width="240" alt="Base Grid 5x5 8-STACK-makerworld"></a><br>
-<b>Base Grid 5x5 8-STACK-makerworld</b><br>
-<a href="https://makerworld.com/en/search/models?keyword=Base%20Grid%205x5%208-STACK-makerworld">Search MakerWorld</a> &middot; <a href="Base%2BGrid%2B5x5%2B8-STACK-makerworld.3mf">Base+Grid+5x5+8-STACK-makerworld.3mf</a>
-</td>
-</tr>
-<tr>
-<td width="33%" align="center" valign="top">
-<a href="Baseplate%2B-%2BSL%2BH%2B-%2B256x256%2BBed.3mf"><img src="readme-images/baseplate-sl-h-256x256-bed-3mf-04b3bc71.webp" width="240" alt="Baseplate - SL H - 256x256 Bed"></a><br>
-<b>Baseplate - SL H - 256x256 Bed</b><br>
-<a href="https://makerworld.com/en/search/models?keyword=Baseplate%20-%20SL%20H%20-%20256x256%20Bed">Search MakerWorld</a> &middot; <a href="Baseplate%2B-%2BSL%2BH%2B-%2B256x256%2BBed.3mf">Baseplate+-+SL+H+-+256x256+Bed.3mf</a>
-</td>
-<td width="33%" align="center" valign="top">
 <a href="Baseplate%20-%20Superlight%20-%205x5%20-%20Stacked%208%20Levels.3mf"><img src="readme-images/baseplate-superlight-5x5-stacked-8-levels-3mf-19a7ec2a.webp" width="240" alt="Baseplate - Superlight - 5x5 - Stacked 8 Levels"></a><br>
 <b>Baseplate - Superlight - 5x5 - Stacked 8 Levels</b><br>
 Source unknown &middot; <a href="Baseplate%20-%20Superlight%20-%205x5%20-%20Stacked%208%20Levels.3mf">Baseplate - Superlight - 5x5 - Stacked 8 Levels.3mf</a>
 </td>
+</tr>
+<tr>
 <td width="33%" align="center" valign="top">
 <a href="Baseplate%2B-%2BSuperlight%2B-%2BAll%2BSizes%2B-%2BUpdated.3mf"><img src="readme-images/baseplate-superlight-all-sizes-updated-3mf-223b3ed7.webp" width="240" alt="Baseplate - Superlight - All Sizes - Updated"></a><br>
 <b>Baseplate - Superlight - All Sizes - Updated</b><br>
 <a href="https://makerworld.com/en/search/models?keyword=Baseplate%20-%20Superlight%20-%20All%20Sizes%20-%20Updated">Search MakerWorld</a> &middot; <a href="Baseplate%2B-%2BSuperlight%2B-%2BAll%2BSizes%2B-%2BUpdated.3mf">Baseplate+-+Superlight+-+All+Sizes+-+Updated.3mf</a>
 </td>
-</tr>
-<tr>
 <td width="33%" align="center" valign="top">
 <a href="clickfinity-refined-baseplates-for-use-with-gridfinity-now-with-step-files-model_files"><img src="readme-images/clickfinity-refined-baseplates-for-use-with-gridfinity-now-with-step-f-166196da.webp" width="240" alt="Clickfinity Refined Baseplates for use with Gridfinity (now with STEP files)"></a><br>
 <b>Clickfinity Refined Baseplates for use with Gridfinity (now with STEP files)</b><br>
@@ -56,11 +45,25 @@ Source unknown &middot; <a href="Baseplate%20-%20Superlight%20-%205x5%20-%20Stac
 <sub>by FPV Smitty</sub><br>
 <a href="https://www.printables.com/model/506105-clickfinity-refined-baseplates-for-use-with-gridfi">Printables</a> &middot; <a href="clickfinity-refined-baseplates-model_files">Repo folder</a>
 </td>
+</tr>
+<tr>
 <td width="33%" align="center" valign="top">
 <a href="gridfinity-press-fit-magnet-light-baseplates-model_files"><img src="readme-images/gridfinity-press-fit-magnet-light-baseplates-model-files-aec1b812.webp" width="240" alt="Gridfinity - press-fit magnet light baseplates"></a><br>
 <b>Gridfinity - press-fit magnet light baseplates</b><br>
 <sub>by plomdawg</sub><br>
 <a href="https://www.printables.com/model/414298-gridfinity-press-fit-magnet-light-baseplates">Printables</a> &middot; <a href="gridfinity-press-fit-magnet-light-baseplates-model_files">Repo folder</a>
+</td>
+<td width="33%" align="center" valign="top">
+<a href="Base%2BGrid%2B5x5%2B8-STACK-makerworld.3mf"><img src="readme-images/base-grid-5x5-8-stack-makerworld-3mf-bf7ec25e.webp" width="240" alt="Gridfinity 5x5 Baseplate Stack 8-high"></a><br>
+<b>Gridfinity 5x5 Baseplate Stack 8-high</b><br>
+<sub>by Filipe La&#237;ns</sub><br>
+<a href="https://makerworld.com/en/models/672886-gridfinity-5x5-baseplate-stack-8-high">MakerWorld</a> &middot; <a href="Base%2BGrid%2B5x5%2B8-STACK-makerworld.3mf">Base+Grid+5x5+8-STACK-makerworld.3mf</a>
+</td>
+<td width="33%" align="center" valign="top">
+<a href="STACK%2B4.3mf"><img src="readme-images/stack-4-3mf-fdfcfece.webp" width="240" alt="Gridfinity Base 5x5x4high STACKED The Original."></a><br>
+<b>Gridfinity Base 5x5x4high STACKED The Original.</b><br>
+<sub>by JoeMalovich</sub><br>
+<a href="https://makerworld.com/en/models/819758-gridfinity-base-5x5x4high-stacked-the-original">MakerWorld</a> &middot; <a href="STACK%2B4.3mf">STACK+4.3mf</a>
 </td>
 </tr>
 <tr>
@@ -123,6 +126,12 @@ Source unknown &middot; <a href="Gridfinity%20Baseplates%20stl">Repo folder</a>
 </tr>
 <tr>
 <td width="33%" align="center" valign="top">
+<a href="Baseplate%2B-%2BSL%2BH%2B-%2B256x256%2BBed.3mf"><img src="readme-images/baseplate-sl-h-256x256-bed-3mf-04b3bc71.webp" width="240" alt="Gridfinity Superlight Baseplates - Half Grid Edge"></a><br>
+<b>Gridfinity Superlight Baseplates - Half Grid Edge</b><br>
+<sub>by KYZ Design</sub><br>
+<a href="https://makerworld.com/en/models/100302-gridfinity-superlight-baseplates-half-grid-edge">MakerWorld</a> &middot; <a href="Baseplate%2B-%2BSL%2BH%2B-%2B256x256%2BBed.3mf">Baseplate+-+SL+H+-+256x256+Bed.3mf</a>
+</td>
+<td width="33%" align="center" valign="top">
 <i>no preview</i><br>
 <b>gridfinity-eco-ClickPlates</b><br>
 Source unknown &middot; <a href="gridfinity-eco-ClickPlates">Repo folder</a>
@@ -132,14 +141,14 @@ Source unknown &middot; <a href="gridfinity-eco-ClickPlates">Repo folder</a>
 <b>Gridfinity-Step Storage</b><br>
 Source unknown &middot; <a href="Gridfinity-Step%20Storage">Repo folder</a>
 </td>
+</tr>
+<tr>
 <td width="33%" align="center" valign="top">
 <a href="ikea-alex-wide-gridfinity-baseplate-model_files"><img src="readme-images/ikea-alex-wide-gridfinity-baseplate-model-files-e7c13be4.webp" width="240" alt="IKEA ALEX (wide) Gridfinity Baseplate"></a><br>
 <b>IKEA ALEX (wide) Gridfinity Baseplate</b><br>
 <sub>by Mino</sub><br>
 <a href="https://www.printables.com/model/366128-ikea-alex-wide-gridfinity-baseplate">Printables</a> &middot; <a href="ikea-alex-wide-gridfinity-baseplate-model_files">Repo folder</a>
 </td>
-</tr>
-<tr>
 <td width="33%" align="center" valign="top">
 <a href="ikea-alex-gridfinity-spacers-model_files"><img src="readme-images/ikea-alex-gridfinity-spacers-model-files-6ceda38c.webp" width="240" alt="Ikea Alex Gridfinity Spacers"></a><br>
 <b>Ikea Alex Gridfinity Spacers</b><br>
@@ -152,24 +161,19 @@ Source unknown &middot; <a href="Gridfinity-Step%20Storage">Repo folder</a>
 <sub>by Sparky</sub><br>
 <a href="https://makerworld.com/en/models/1685835-lightest-gridfinity-base-ever-customizable">MakerWorld</a> &middot; <a href="Lightest%2BGridfinity%2BBase%2BEver%2B-%2BCustomizable">Repo folder</a>
 </td>
+</tr>
+<tr>
 <td width="33%" align="center" valign="top">
 <a href="Optimized%20Gridfinity%20Base_%20Faster%2C%20Smarter%2C%20Better!%20-%206837189"><img src="Optimized%20Gridfinity%20Base_%20Faster%2C%20Smarter%2C%20Better!%20-%206837189/images/JMAW-Speed_-_Frame_1x1.png" width="240" alt="Optimized Gridfinity Base: Faster, Smarter, Better!"></a><br>
 <b>Optimized Gridfinity Base: Faster, Smarter, Better!</b><br>
 <sub>by J-Max</sub><br>
 <a href="https://www.thingiverse.com/thing:6837189">Thingiverse</a> &middot; <a href="Optimized%20Gridfinity%20Base_%20Faster%2C%20Smarter%2C%20Better!%20-%206837189">Repo folder</a>
 </td>
-</tr>
-<tr>
 <td width="33%" align="center" valign="top">
 <a href="optimized-gridfinity-base-faster-smarter-better-model_files"><img src="readme-images/optimized-gridfinity-base-faster-smarter-better-model-files-9ac1a3ec.webp" width="240" alt="Optimized Gridfinity Base: Faster, Smarter, Better!"></a><br>
 <b>Optimized Gridfinity Base: Faster, Smarter, Better!</b><br>
 <sub>by JMAW</sub><br>
 <a href="https://www.printables.com/model/1078733-optimized-gridfinity-base-faster-smarter-better">Printables</a> &middot; <a href="optimized-gridfinity-base-faster-smarter-better-model_files">Repo folder</a>
-</td>
-<td width="33%" align="center" valign="top">
-<a href="STACK%2B4.3mf"><img src="readme-images/stack-4-3mf-fdfcfece.webp" width="240" alt="STACK 4"></a><br>
-<b>STACK 4</b><br>
-<a href="https://makerworld.com/en/search/models?keyword=STACK%204">Search MakerWorld</a> &middot; <a href="STACK%2B4.3mf">STACK+4.3mf</a>
 </td>
 </tr>
 </table>

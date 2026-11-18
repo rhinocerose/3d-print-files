@@ -13,7 +13,7 @@
 - [Fun N Games](fun-n-games/README.md) - 5 builds
 - [Home](home/README.md) - 78 builds
 - [Printer Improvements](printer-improvements/README.md) - 78 builds
-- [Storage](storage/README.md) - 518 builds
-- [Tools](tools/README.md) - 63 builds
+- [Storage](storage/README.md) - 519 builds
+- [Tools](tools/README.md) - 75 builds
 - [Unsorted](unsorted/README.md) - 10 builds
 <!-- categories:end -->
